@@ -1,0 +1,18 @@
+{
+  "topic": "James Comey indicted amid Trump's retribution campaign, raising authoritarianism concerns.",
+  "articles": [
+    "us-news/2025/sep/21/trump-picks-his-former-lawyer-to-be-top-prosecutor-as-he-pushes-bondi-to-investigate-foes",
+    "us-news/2025/sep/25/james-comey-fbi-director-indictment",
+    "us-news/live/2025/sep/25/donald-trump-james-comey-fbi-ice-texas-latest-us-politics-news-updates-live",
+    "us-news/2025/sep/26/trump-administration-news-today-latest-comey",
+    "us-news/2025/sep/26/trump-comey-charges-indictment",
+    "us-news/2025/sep/26/first-thing-james-comey-indicted-as-trump-pushes-to-prosecute-political-enemies",
+    "us-news/2025/sep/26/donald-trump-james-comey-timeline-feud",
+    "us-news/2025/sep/27/trump-administration-news-updates-today",
+    "us-news/2025/sep/28/ty-cobb-trump-james-comey-indictment",
+    "us-news/2025/sep/30/trump-comey-prosecution-justice-department"
+  ],
+  "noise": [],
+  "evaluation": "The cluster provides a highly continuous and developmental narrative surrounding the indictment of former FBI Director James Comey. It begins with the precursor of President Trump appointing a specific prosecutor in the Eastern District of Virginia (Article 8), directly leading to the indictment announcement (Articles 1, 7). Subsequent articles detail Comey's response (Article 2), Trump's celebratory remarks and desire for further prosecutions (Articles 5, 4), and provide historical context to their feud (Article 9). The story culminates with expert analysis and warnings about the implications for democracy and the rule of law, linking it to Trump's broader retribution campaign and concerns of authoritarianism (Articles 3, 10). The timeline is logical, the coverage is significant, and all articles are strictly relevant and synthesizable into a comprehensive story.",
+  "score": 10
+}

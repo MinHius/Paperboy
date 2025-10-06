@@ -1,0 +1,19 @@
+{
+  "topic": "Keir Starmer's strategy to counter Reform UK at Labour Conference",
+  "articles": [
+    "politics/2025/sep/24/starmer-gambles-on-levelling-up-style-initiative-to-tackle-reform-threat",
+    "politics/2025/sep/28/starmer-calling-reform-immigration-policy-racist-is-the-start-of-a-risky-wider-argument",
+    "politics/2025/sep/28/starmer-decries-reforms-racist-plans-as-ministers-escalate-attacks-on-farage",
+    "politics/live/2025/sep/28/labour-conference-keir-starmer-latest-uk-politics-news-live-updates",
+    "politics/2025/sep/30/starmer-brings-the-steel-and-draws-up-battle-lines-with-reform-uk",
+    "politics/2025/oct/01/starmer-bests-his-conference-critics-but-path-ahead-still-looks-perilous"
+  ],
+  "noise": [
+    "politics/2025/sep/11/the-fight-starmer-faces-to-stop-the-march-of-reform",
+    "education/2025/sep/30/starmer-further-education-plans-policy-detail-will-be-telling",
+    "politics/2025/sep/12/keir-starmer-warned-time-running-out-to-repair-faltering-premiership",
+    "commentisfree/2025/sep/18/labour-mess-starmer-turn-things-round-panel-part-one"
+  ],
+  "evaluation": "This cluster effectively tracks Keir Starmer's evolving strategy and actions to confront Reform UK, particularly in the lead-up to and during the Labour Party Conference. The articles show a clear progression from a pre-conference policy initiative to explicit condemnations of Reform UK's immigration policies and Starmer's keynote speech articulating his vision and 'battle lines.' Noise articles were de-noised as they focused on general political commentary, unrelated policy areas (education, social housing), or internal Labour leadership issues, which did not contribute to the continuous narrative of Starmer's direct challenge to Reform UK.",
+  "score": 9
+}

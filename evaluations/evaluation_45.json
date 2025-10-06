@@ -1,0 +1,19 @@
+{
+  "topic": "Ruben Amorim's precarious tenure at Manchester United amidst poor results and growing pressure.",
+  "articles": [
+    "football/2025/sep/14/manchester-united-will-keep-playing-my-way-says-ruben-amorim",
+    "football/2025/sep/20/return-to-that-urgency-amorim-urges-united-players-to-keep-winning-mentality",
+    "football/2025/sep/26/ruben-amorim-manchester-united-chelsea-brentford-premier-league",
+    "football/2025/sep/27/brentford-manchester-united-premier-league-match-report",
+    "football/2025/sep/27/ruben-amorim-rues-manchester-united-lack-of-character-after-latest-defeat",
+    "football/2025/sep/27/at-any-normal-club-ruben-amorim-would-lose-his-job-but-not-manchester-united",
+    "football/2025/oct/02/ruben-amorim-manchester-united-arsenal"
+  ],
+  "noise": [
+    "football/live/2025/sep/12/premier-league-buildup-press-conferences-team-news-live",
+    "football/2025/sep/13/mainoo-uncomfortable-having-to-fight-for-manchester-united-spot-says-amorim",
+    "football/2025/sep/29/jose-mourinho-return-chelsea-benfica-enzo-maresca-champions-league"
+  ],
+  "evaluation": "This cluster successfully captures the continuous and developmental story of Ruben Amorim's challenging management at Manchester United. It starts with his defiance after a derby loss (Sept 14), tracks an inconsistent period including a win against Chelsea with internal issues (Sept 20), builds anticipation for a crucial Brentford match (Sept 26), covers the significant defeat against Brentford (Sept 27 - articles 1 & 10), and concludes with the immediate and subsequent severe criticism questioning his job security (Sept 27 & Oct 2). The narrative is logical, informative, and shows significant coverage of his performance and mounting pressure. Noise articles were removed for being either tangential specific player news or completely unrelated to Amorim or Manchester United's primary narrative.",
+  "score": 9
+}

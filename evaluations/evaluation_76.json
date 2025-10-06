@@ -1,0 +1,19 @@
+{
+  "topic": "UEFA postpones decision on domestic league games abroad amid significant controversy.",
+  "articles": [
+    "football/2025/sep/06/uefa-has-last-chance-to-keep-genie-of-domestic-matches-abroad-in-its-bottle",
+    "football/2025/sep/11/uefa-delays-decision-domestic-games-abroad-consultation-with-fans",
+    "football/2025/sep/14/uefa-backs-off-overseas-league-fixtures-but-the-struggle-for-power-still-goes-on"
+  ],
+  "noise": [
+    "sport/2025/sep/18/county-championship-restructure-vote-delayed-cricket",
+    "football/2025/sep/24/wsl-still-grappling-with-how-to-fit-league-cup-into-womens-football-ecosystem",
+    "sport/2025/oct/01/ticket-row-super-league-play-offs-turmoil-leigh-threaten-pull-out-wigan-rugby-league",
+    "football/2025/sep/11/efl-in-talks-over-expanding-championship-playoffs-to-six-teams",
+    "sport/2025/sep/17/wigan-hull-fc-challenge-super-league-expansion-rugby",
+    "sport/2025/sep/03/county-championship-restructure-risk-year-delay-cricket",
+    "football/2025/sep/18/women-super-league-disabled-fans-moving-the-goalposts"
+  ],
+  "evaluation": "The core story identified tracks UEFA's contentious debate and subsequent decision regarding allowing domestic league matches to be played abroad. Article 10 sets the critical context and anticipation (Sep 6), Article 1 reports the initial postponement and call for consultation (Sep 11), and Article 7 provides further analysis of the delay and underlying power dynamics (Sep 14). This forms a logical, developmental, and time-continuous narrative. All other articles discuss distinct issues across different sports (cricket, rugby league) or unrelated topics within football (WSL League Cup, EFL playoffs, WSL fan access) and were de-noised due to irrelevance and lack of continuous development with the main story.",
+  "score": 9
+}

@@ -1,0 +1,19 @@
+{
+  "topic": "Reform UK's 'next step' conference, Farage's agenda, and the party's evolving image.",
+  "articles": [
+    "politics/2025/sep/04/pyrotechnics-big-business-jacob-rees-mogg-michael-gove-nigel-farage-reform-uk-conference",
+    "commentisfree/2025/sep/04/the-guardian-view-on-reforms-party-conference-trumpism-is-on-the-agenda-it-must-be-resisted",
+    "politics/2025/sep/05/booze-bitcoin-businesses-flocking-birmingham-meet-reform-nigel-farage",
+    "politics/2025/sep/05/reform-conference-party-keen-to-present-as-normal-farage",
+    "politics/2025/sep/05/nigel-farage-every-chance-general-election-2027",
+    "politics/2025/sep/05/such-a-vibrant-feeling-reform-uk-devotees-gather-party-conference",
+    "politics/live/2025/sep/07/latest-live-uk-politics-news-updates-keir-starmer-labour-nigel-farage-kemi-badenoch-angela-rayner-updates",
+    "politics/2025/sep/07/nigel-farage-boris-johnson-not-welcome-reform-pact"
+  ],
+  "noise": [
+    "politics/2025/sep/03/nigel-farage-called-a-putin-loving-free-speech-imposter-during-bumpy-us-congressional-hearing",
+    "politics/2025/sep/05/nigel-farage-uses-private-company-to-pay-less-tax-on-gb-news-earnings"
+  ],
+  "evaluation": "This cluster successfully captures the continuous story of Reform UK's party conference. The selected articles provide a chronological and developmental narrative, covering pre-conference expectations, the event's atmosphere, key policy announcements by Nigel Farage, public reception, and immediate political repercussions, including Farage's subsequent clarification on his 'stop the boats' pledge. Articles regarding Farage's US congressional hearing and his personal tax arrangements were de-noised as they represent distinct, unrelated events not central to the conference's political narrative.",
+  "score": 9
+}

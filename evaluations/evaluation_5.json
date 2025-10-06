@@ -1,0 +1,19 @@
+{
+  "topic": "UK Police scandals: Met's toxic culture and West Midlands hate crime.",
+  "articles": [
+    "world/2025/sep/12/alleged-rape-sikh-woman-west-midlands-hate-crime",
+    "uk-news/2025/sep/13/alleged-racially-motivated-rape-sikh-woman-oldbury-west-midlands-mps-shock",
+    "uk-news/2025/sep/17/man-bailed-after-arrest-over-racially-aggravated-of-sikh-woman-in-west-midlands",
+    "uk-news/2025/sep/12/nine-metropolitan-police-officers-suspended",
+    "uk-news/2025/sep/19/met-investigates-racist-graffiti-charing-cross-police-station",
+    "uk-news/2025/sep/30/met-officers-suspended-over-alleged-abuse-of-suspects-and-support-for-tommy-robinson",
+    "uk-news/2025/oct/01/met-plunged-into-crisis-amid-fresh-claims-of-bigotry-and-excessive-force"
+  ],
+  "noise": [
+    "uk-news/2025/sep/17/man-charged-blackmail-westminster-mps",
+    "uk-news/2025/sep/22/met-police-investigate-possible-vetting-errors-over-300-recruits",
+    "uk-news/2025/sep/18/senior-officer-faces-misconduct-meeting-over-manchester-bombing-response"
+  ],
+  "evaluation": "The provided cluster yielded two distinct, highly relevant, and continuous stories. The first tracks the racially motivated rape of a Sikh woman in the West Midlands, progressing from the initial report to parliamentary reaction and police action (arrest and bail). The second story meticulously details the unfolding scandal within the Metropolitan Police's Charing Cross station, starting with officer suspensions, followed by investigations into racist graffiti, the anticipation of a major BBC Panorama exposé, and culminating in the broadcast's revelations of bigotry, excessive force, and the Commissioner's admission of a 'toxic legacy.' Articles pertaining to the Westminster 'honeytrap' scandal, a general inquiry into Met police vetting errors, and a senior officer's misconduct regarding the Manchester bombing were identified as noise as they do not form a continuous or developmental narrative with either of the core stories.",
+  "score": 9
+}

@@ -1,0 +1,19 @@
+{
+  "topic": "Autumn's arrival marked by harvests, ripening berries, and bird migrations in September.",
+  "articles": [
+    "environment/2025/sep/11/country-diary-a-bumper-harvest-awaits-the-autumn-visitors",
+    "environment/2025/sep/18/country-diary-swallows-on-the-wire-berries-in-the-hedges",
+    "environment/2025/sep/22/country-diary-an-autumn-fireball-that's-a-sanctuary-for-insects",
+    "environment/2025/sep/26/country-diary-on-harvest-open-day-celebration-relief-and-flying-gazebos"
+  ],
+  "noise": [
+    "environment/2025/sep/10/country-diary-a-wade-through-nettles-thats-worth-every-sting",
+    "environment/2025/sep/17/country-diary-its-hard-not-to-fret-over-snails-and-their-trails",
+    "environment/2025/sep/30/country-diary-an-unexpected-vista-of-sky-light-and-symmetry",
+    "environment/2025/sep/27/country-diary-the-magic-and-mystery-of-the-new-forest-drift",
+    "environment/2025/sep/05/country-diary-tiny-polished-pebbles-with-a-big-appetite",
+    "environment/2025/sep/06/country-diary-the-river-runs-dry-in-this-false-autumn"
+  ],
+  "evaluation": "This cluster successfully forms a continuous, developmental story tracing the progression of autumn in September. The articles chronologically detail the onset of bird migrations, the abundance of wild berry crops, early cereal harvests, and a community farm's harvest celebration. The narrative is cohesive, informative, and provides significant coverage of seasonal changes. Articles concerning specific localized plant observations, pony roundups, insect infestations, and distinct water/drought issues were de-noised as they did not directly contribute to the primary developmental story of autumn's general arrival and harvest themes.",
+  "score": 9
+}

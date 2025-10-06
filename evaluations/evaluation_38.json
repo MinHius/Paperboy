@@ -1,0 +1,19 @@
+{
+  "topic": "NSW housing crisis: planning reforms, major Sydney developments, and environmental concerns.",
+  "articles": [
+    "australia-news/2025/sep/14/after-four-decades-of-stalled-attempts-theres-a-new-plan-to-transform-sydneys-ugliest-road",
+    "australia-news/2025/sep/17/sw-overhauling-planning-system-build-more-houses-faster-whats-proposed-could-it-help",
+    "australia-news/2025/sep/30/sydney-council-backs-controversial-plan-to-build-up-to-31000-new-homes",
+    "australia-news/2025/oct/02/nsw-fast-track-planning-laws-could-allow-mines-to-be-approved-without-environmental-assessment-ntwnfb"
+  ],
+  "noise": [
+    "australia-news/2025/sep/28/sydney-tolls-negotiations-for-simpler-fairer-system-slow-to-crawl",
+    "australia-news/2025/sep/21/sydney-kingsford-smith-airport-plan-dominate-air-travel-can-western-sydney-compete",
+    "world/2025/sep/11/hedgehog-highways-requirement-new-buildings-lords-planning-bill-government",
+    "news/2025/sep/16/windrush-era-west-indian-sports-social-club-moss-side-manchester-housing-plans",
+    "australia-news/2025/sep/16/climate-sydney-west-suburbs-most-extreme-heat-biggest-health-risks-inner-city-flooding",
+    "australia-news/2025/sep/29/as-melbournes-public-housing-high-rise-towers-await-demolition-some-residents-hold-out-against-relocation"
+  ],
+  "evaluation": "This cluster effectively traces the ongoing narrative of NSW's efforts to address its housing crisis. The story begins with the Minns government's plans for specific housing developments in Sydney's Inner West and their overarching state-wide planning system overhaul to accelerate home building. It then progresses to a local council's endorsement of a substantial housing plan in the same region, and concludes with a critical assessment of the potential environmental impacts of the newly proposed fast-track planning laws. Articles concerning Sydney tolls, airport development, UK planning legislation, Manchester housing, Sydney climate issues, and Melbourne public housing demolitions were deemed irrelevant as they do not contribute to the continuous story of NSW housing policy and development.",
+  "score": 9
+}

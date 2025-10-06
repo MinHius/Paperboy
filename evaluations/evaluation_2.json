@@ -1,0 +1,19 @@
+{
+  "topic": "Trump's H-1B visa fee hike impacting tech industry and prompting UK's talent attraction efforts.",
+  "articles": [
+    "us-news/2025/sep/20/trump-administration-news-updates-today-latest",
+    "technology/2025/sep/22/trump-visa-fees-techscape-newsletter",
+    "business/2025/sep/22/trump-h-1b-visa-fees-us-economy-tech-india",
+    "business/2025/sep/22/uk-visa-fee-cuts-trump-us-charges-h-1b-starmer"
+  ],
+  "noise": [
+    "business/2025/sep/26/trump-latest-tariff-threat-raises-fresh-concerns-for-uk-pharma",
+    "us-news/2025/sep/17/trumps-tariffs-have-hurt-tea-exports-to-the-us-says-fortnum-mason-boss",
+    "business/live/2025/sep/10/trade-tariffs-eu-trump-ozempic-novo-jobs-markets-business-live-news",
+    "business/2025/sep/08/volkswagen-us-trade-deal-trump-tariffs-porsche",
+    "us-news/2025/sep/24/rolex-trump-us-open-invite",
+    "us-news/2025/sep/08/trump-tariffs-supreme-court"
+  ],
+  "evaluation": "This cluster effectively captures the continuous story of President Trump's decision to significantly increase H-1B visa fees. The articles detail the initial announcement of the $100,000 fee (us-news/2025/sep/20), its immediate impact and concerns within the US tech industry and economy (technology/2025/sep/22 and business/2025/sep/22/trump-h-1b-visa-fees-us-economy-tech-india), and the subsequent international reaction, specifically the UK's strategy to attract skilled workers in response (business/2025/sep/22/uk-visa-fee-cuts-trump-us-charges-h-1b-starmer). The articles deemed noise were primarily focused on various trade tariffs on goods or general legal challenges to tariffs, which are distinct from the H-1B visa fee policy and its specific implications.",
+  "score": 9
+}

@@ -1,0 +1,18 @@
+{
+  "topic": "No adequate continuous or developmental Premier League story identified due to size constraints.",
+  "articles": [],
+  "noise": [
+    "football/2025/sep/15/premier-league-10-talking-points-from-the-weekend-action",
+    "football/2025/sep/22/premier-league-10-talking-points-from-the-weekends-action",
+    "football/2025/sep/29/premier-league-10-talking-points-from-the-weekends-action",
+    "football/2025/sep/12/premier-league-10-things-to-look-out-for-this-weekend",
+    "football/2025/sep/19/premier-league-10-things-to-look-out-for-this-weekend",
+    "football/2025/sep/26/premier-league-10-things-to-look-out-for-this-weekend",
+    "football/2025/oct/03/premier-league-10-things-to-look-out-for-this-weekend",
+    "football/2025/sep/12/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+    "football/2025/sep/19/premier-league-team-news-predicted-lineups-for-the-weekend-action",
+    "sport/2025/sep/26/premier-league-team-news-predicted-lineups-for-the-weekend-action"
+  ],
+  "evaluation": "The cluster contains a mix of weekly Premier League 'talking points' (recap) and 'things to look out for'/'team news' (preview) articles. While articles 2 (Sep 22) and 3 (Sep 29) show some continuity regarding Mikel Arteta's tactical approach and Arsenal's performance, this constitutes a group of only two articles. All other articles are either standalone summaries of different events, or pairs of contemporaneous match previews (e.g., articles 4 & 8 for Arsenal vs Nottingham Forest). As no continuous, developmental story group met the minimum size requirement of three articles during the initial inspection, the cluster is deemed 'Inadequate size', and no stories are qualified for synthesis. All articles are considered noise in the context of forming a qualifying continuous story.",
+  "score": 0
+}

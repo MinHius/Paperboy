@@ -1,0 +1,18 @@
+{
+  "topic": "Various TV program reviews; no continuous stories identified within the cluster.",
+  "articles": [],
+  "noise": [
+    "tv-and-radio/2025/sep/29/tv-tonight-blue-lights-belfast-cop-show-horizon-human-brain",
+    "tv-and-radio/2025/sep/22/tv-tonight-hunting-the-virus-that-could-cause-the-next-pandemic",
+    "tv-and-radio/2025/sep/13/tv-tonight-pomp-and-circumstance-galore-as-the-proms-conclude-in-bombastic-style",
+    "tv-and-radio/2025/sep/24/tv-tonight-the-phone-hacking-scandal-gets-the-mr-bates-treatment",
+    "tv-and-radio/2025/sep/15/tv-tonight-bbc-the-guest-task-sky-atlantic",
+    "tv-and-radio/2025/sep/25/tv-tonight-final-brassic-long-lost-family",
+    "tv-and-radio/2025/oct/02/tv-tonight-ode-sharon-and-ozzy-osbourne-coming-home-black-sabbath",
+    "tv-and-radio/2025/oct/01/tv-tonight-a-tearful-new-series-of-portrait-artist-of-the-year",
+    "tv-and-radio/2025/sep/16/tv-tonight-who-will-win-the-great-british-sewing-bee",
+    "tv-and-radio/2025/sep/19/tv-tonight-jimi-hendrix-gets-inside-our-souls-with-one-of-his-last-gigs"
+  ],
+  "evaluation": "Articles are individual TV show descriptions across various dates. No continuous or developmental story of sufficient size (at least three articles) was identified, classifying all as noise due to lack of narrative connection and logical timeline.",
+  "score": 1
+}

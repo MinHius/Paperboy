@@ -1,0 +1,19 @@
+{
+  "topic": "Ongoing series of readers' favorite travel experiences and tips.",
+  "articles": [
+    "travel/2025/sep/12/a-secret-escape-where-summer-lingers-readers-favourite-september-trips-in-europe",
+    "travel/2025/sep/19/a-truly-authentic-experience-that-benefits-everyone-readers-favourite-community-travel-experiences",
+    "travel/2025/sep/26/readers-favourite-ferry-breaks-from-uk-france-bilbao-netherlands"
+  ],
+  "noise": [
+    "travel/2025/sep/15/tell-us-about-your-favourite-european-city-break",
+    "travel/2025/sep/25/best-outdoor-art-trails-uk-autumn",
+    "travel/2025/sep/22/readers-travel-tips-remote-uk-europe-win-holiday-voucher",
+    "travel/2025/oct/01/croatia-food-islands-losinj-cres",
+    "if-you-snow-you-know/2025/sep/15/best-european-ski-resorts-for-all-levels-and-budgets",
+    "travel/2025/sep/28/six-of-the-best-stress-free-european-breaks-by-train",
+    "travel/2025/sep/09/bivouacking-france-pyrenees-teenagers-mountain-hike-wild-camping"
+  ],
+  "evaluation": "The identified cluster forms a coherent and continuous series of 'Readers' Favourite' travel articles. Each piece, published weekly in September 2025, compiles reader-submitted tips on distinct travel categories (general September trips, community travel, and ferry breaks). This clearly demonstrates an ongoing, developmental series showcasing diverse reader experiences. Articles not directly presenting compiled reader tips or those merely requesting submissions were de-noised as they do not contribute to this specific narrative thread. The remaining articles are strictly relevant, time-continuous, informative, and synthesizeable into a broader overview of reader travel trends.",
+  "score": 9
+}

@@ -1,0 +1,19 @@
+{
+  "topic": "Rachel Roddy's ongoing series of everyday and weekly meal recipes.",
+  "articles": [
+    "food/2025/sep/11/parcel-baked-fish-tomatoes-olives-capers-al-cartoccio-rachel-roddy",
+    "food/2025/sep/18/lasagne-courgette-three-cheeses-recipe-rachel-roddy",
+    "food/2025/sep/23/feast-everyday-hero-weekly-recipes-rachel-roddy",
+    "food/2025/sep/25/store-cupboard-spaghetti-recipes-rachel-roddy-tomato-garlic-chilli-fish-capers-lemon",
+    "food/2025/oct/02/pizzette-recipe-courgette-mozzarella-mint-pizza-rachel-roddy"
+  ],
+  "noise": [
+    "food/2025/sep/09/epic-crab-chilli-and-lime-sarnie-recipe-georgina-hayden",
+    "food/2025/sep/17/how-to-turn-veg-odds-and-ends-into-frozen-food-topping-recipe-zero-waste-cooking",
+    "food/2025/sep/25/loaded-fries-tacos-and-perfect-pies-eight-crowd-pleasing-recipes-for-footy-finals-weekend",
+    "food/2025/oct/01/how-to-turn-blackberries-into-chocolate-cake-recipe-zero-waste-cooking",
+    "food/2025/sep/22/quick-and-easy-ricotta-fritters-recipe-sage-butter-rukmini-iyer"
+  ],
+  "evaluation": "This cluster of articles focuses on Rachel Roddy's continuous contributions to everyday cooking. Article 'feast-everyday-hero-weekly-recipes-rachel-roddy' explicitly frames the narrative around the challenge of finding 'week-in, week-out meal suggestions', making the preceding and subsequent recipes ('parcel-baked-fish', 'lasagne', 'store-cupboard-spaghetti', 'pizzette') highly relevant as practical solutions and examples within her column. The other articles by different authors or on disparate themes (e.g., specific event recipes, zero-waste tips by other writers, different author recipes) were de-noised due to lacking direct continuity or developmental narrative with Roddy's specific series.",
+  "score": 8
+}

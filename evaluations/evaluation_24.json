@@ -1,0 +1,19 @@
+{
+  "topic": "Israeli Offensive on Gaza City: Evacuation Orders, Ground Operations, and Humanitarian Impact",
+  "articles": [
+    "world/live/2025/sep/08/middle-east-crisis-live-jerusalem-shooting-israel-threatens-gaza-city-powerful-hurricane-latest-news",
+    "world/2025/sep/09/israel-orders-gaza-city-residents-to-leave-as-military-prepares-to-occupy-city",
+    "world/2025/sep/10/israeli-military-kills-at-least-people-as-it-continues-to-order-evacuation-of-gaza-city",
+    "world/2025/sep/10/israel-is-forcing-us-to-leave-gaza-city-we-know-they-might-never-let-us-return",
+    "world/2025/sep/17/idf-try-to-force-civilians-out-of-gaza-city-as-ground-offensive-continues",
+    "world/live/2025/sep/19/palestinian-state-palestine-recognition-gaza-israel-middle-east-latest-news-updates",
+    "world/2025/sep/24/remaining-hospitals-gaza-overwhelmed-by-tsunami-of-patients",
+    "world/2025/oct/01/israel-last-opportunity-for-gaza-city-residents-to-leave",
+    "world/live/2025/oct/01/israel-gaza-offensive-benjamin-netanyahu-hamas-donald-trump-middle-east-crisis-live-news"
+  ],
+  "noise": [
+    "world/2025/oct/02/palestinians-killed-in-fresh-wave-of-israeli-attacks-on-gaza"
+  ],
+  "evaluation": "This cluster provides a strong, chronological narrative of the Israeli military's offensive on Gaza City. It begins with initial evacuation warnings and orders (Sep 8-10), progresses through the commencement of ground operations and increased military force (Sep 17-19), highlights the humanitarian impact as residents flee (Sep 24), and culminates with final warnings and the city's encirclement (Oct 1). Article 'world/2025/oct/02/palestinians-killed-in-fresh-wave-of-israeli-attacks-on-gaza' was de-noised as it broadened the geographic scope to general attacks across Gaza rather than specifically detailing the evolving Gaza City offensive, thereby breaking the strict continuity and relevance of the core story.",
+  "score": 9
+}

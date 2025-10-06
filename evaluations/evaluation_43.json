@@ -1,0 +1,19 @@
+{
+  "topic": "Practical Guide to Sustainable Living and Reducing Plastic Waste",
+  "articles": [
+    "thefilter/2025/sep/09/sustainable-swaps-that-worked-readers",
+    "waste-no-space/2025/sep/18/sustainable-living-tips-small-changes-big-impact",
+    "waste-no-space/2025/sep/18/how-to-reduce-plastic-waste-at-home-simple-steps"
+  ],
+  "noise": [
+    "waste-no-space/2025/sep/18/how-to-get-the-most-out-of-your-dishwasher",
+    "waste-no-space/2025/sep/18/how-to-load-your-dishwasher-properly",
+    "thefilter/2025/sep/12/how-to-look-good-rain-wet-weather",
+    "thefilter/2025/sep/18/how-to-master-transitional-dressing",
+    "lifeandstyle/2025/sep/11/winter-knitwear-how-to-wash-repair-care-store",
+    "thefilter/2025/sep/14/how-to-get-your-garden-ready-for-autumn",
+    "money/2025/sep/24/draughts-energy-tariff-getting-home-ready-winter"
+  ],
+  "evaluation": "The identified core articles form a strong continuous story on sustainable living, specifically focusing on reducing plastic waste. 'Sustainable swaps' (thefilter/2025/sep/09/sustainable-swaps-that-worked-readers) sets the stage with reader tips and the individual's role in plastic reduction. This is logically followed by broader 'sustainable living tips' (waste-no-space/2025/sep/18/sustainable-living-tips-small-changes-big-impact) and a focused guide on 'how to reduce plastic waste at home' (waste-no-space/2025/sep/18/how-to-reduce-plastic-waste-at-home-simple-steps). These three are highly relevant, informative, and provide significant coverage with a logical timeline for synthesis. Other articles were de-noised due to failing the initial inspection's group size requirement (e.g., dishwasher loading tips, home/garden winter prep) or for lack of strict relevance and developmental potential within a coherent story (e.g., transitional fashion and garment care, where garment care was an outlier, reducing the fashion group below the minimum size).",
+  "score": 9
+}

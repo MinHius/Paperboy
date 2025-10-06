@@ -1,0 +1,19 @@
+{
+  "topic": "Labour's internal struggles, leadership challenges, and policy shifts at autumn conference.",
+  "articles": [
+    "commentisfree/2025/sep/14/the-guardian-view-on-the-uks-dangerous-moment-as-labour-falters-the-far-right-mobilises",
+    "commentisfree/2025/sep/17/the-guardian-view-on-labour-and-the-economy-the-legacy-was-grim-but-voters-need-hope-not-excuses",
+    "commentisfree/2025/sep/26/the-guardian-view-on-labour-conference-a-clash-of-visions-and-direction-not-egos-and-personnel",
+    "commentisfree/2025/sep/29/the-guardian-view-on-labours-tough-talk-on-spending-and-migration-it-could-cost-the-party-core-support"
+  ],
+  "noise": [
+    "commentisfree/2025/sep/14/the-guardian-view-on-the-future-of-the-eu-in-search-of-a-braver-bolder-vision-for-a-new-era",
+    "commentisfree/2025/sep/16/the-guardian-view-on-un-genocide-finding-britain-and-the-world-can-no-longer-look-away",
+    "commentisfree/2025/sep/18/the-guardian-view-on-the-lib-dem-conference-speaking-for-parts-of-england",
+    "commentisfree/2025/sep/21/the-guardian-view-on-uk-recognition-of-a-palestinian-state-this-must-be-a-call-to-action-not-conscience-salving",
+    "commentisfree/2025/sep/09/the-guardian-view-on-public-health-if-labour-is-serious-about-reducing-illness-it-must-focus-on-causes",
+    "commentisfree/2025/sep/23/the-guardian-view-on-sir-ed-daveys-speech-a-party-that-promises-contrast-and-protest"
+  ],
+  "evaluation": "The primary continuous story identified within this cluster focuses on the UK Labour Party's evolving internal challenges, leadership authority, and significant policy discussions during its September 2025 conference. These articles chronologically detail government personnel issues, economic pressures, Sir Keir Starmer's fading authority, and key policy announcements on fiscal restraint and migration. Other articles discussing EU geopolitics, public health trends, or the Gaza conflict and its international/UK political responses, while potentially forming distinct continuous stories, were de-noised as they did not directly contribute to the central, most prominent Labour narrative chosen for this single cluster evaluation.",
+  "score": 9
+}

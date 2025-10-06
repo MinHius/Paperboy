@@ -1,0 +1,18 @@
+{
+  "topic": "Evaluation of unrelated obituaries",
+  "articles": [],
+  "noise": [
+    "world/2025/sep/29/jack-spence-obituary",
+    "us-news/2025/sep/11/charlie-kirk-obituary",
+    "science/2025/sep/14/ken-brown-obituary",
+    "artanddesign/2025/sep/24/john-morgan-obituary",
+    "uk-news/2025/sep/16/sir-david-davies-obituary",
+    "technology/2025/sep/19/gordon-thompson-obituary",
+    "artanddesign/2025/sep/30/sir-terry-farrell-obituary",
+    "sport/2025/sep/14/ricky-hatton-obituary",
+    "books/2025/sep/09/brian-lewis-obituary",
+    "politics/2025/sep/26/lord-campbell-of-pittenweem"
+  ],
+  "evaluation": "The cluster consists entirely of standalone obituaries for ten different individuals across diverse fields (politics, science, art, sport, technology). There is no continuous, developmental, or strictly relevant narrative connecting any three or more articles. Each article details the life of a separate person, lacking inter-article relevance for a continuous story. Therefore, no qualified group of adequate size (minimum 3 articles) could be formed, leading to an 'Inadequate size' determination for potential continuous stories and rendering all articles as noise in this context.",
+  "score": 0
+}

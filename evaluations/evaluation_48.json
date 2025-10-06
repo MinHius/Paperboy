@@ -1,0 +1,19 @@
+{
+  "topic": "Terence Crawford's historic undisputed super-middleweight championship victory over Canelo Álvarez.",
+  "articles": [
+    "sport/2025/sep/11/terence-crawford-profile-canelo-alvarez-fight",
+    "sport/2025/sep/12/watch-canelo-alvarez-v-terence-crawford-netflix",
+    "sport/2025/sep/12/canelo-alvarez-terence-crawford-weigh-in-las-vegas",
+    "sport/2025/sep/12/alvarez-and-crawford-face-off-in-breathless-blockbuster-destined-to-break-records",
+    "sport/2025/sep/13/canelo-alvarez-terence-crawford-predictions",
+    "sport/live/2025/sep/13/canelo-alvarez-v-terence-crawford-undisputed-super-middleweight-championship-live-buildup",
+    "sport/2025/sep/13/terence-crawford-canelo-alvarez-fight-report-undisputed",
+    "sport/2025/sep/14/terence-crawford-canelo-alvarez-boxing-las-vegas",
+    "sport/2025/sep/14/terence-crawford-canelo-alvarez-boxing-quotes-reaction"
+  ],
+  "noise": [
+    "sport/2025/sep/20/crawford-canelo-zuffa-boxing-saudi-dana-white"
+  ],
+  "evaluation": "This cluster provides a strong, time-continuous narrative about Terence Crawford's fight against Canelo Álvarez. The articles logically progress from pre-fight anticipation (Crawford's profile, weigh-in, fight setup, predictions) to the live event and fight report, and then to immediate post-fight analysis and reactions. Article 'sport/2025/sep/20/crawford-canelo-zuffa-boxing-saudi-dana-white' was de-noised as it shifts focus to the business and promotional aspects of the fight (Zuffa Boxing, Saudi involvement) rather than the athletic event, fighter performance, or immediate aftermath of Crawford's victory, thus disrupting the core continuous story about the match itself.",
+  "score": 9
+}

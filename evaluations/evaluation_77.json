@@ -1,0 +1,19 @@
+{
+  "topic": "Gout Gout's 200m journey at the World Athletics Championships, from heats to semi-finals.",
+  "articles": [
+    "sport/2025/sep/17/gout-gout-world-athletics-championships-200m-heat-preview",
+    "sport/2025/sep/17/gout-gout-passes-his-first-test-as-he-qualifies-for-world-200m-semi-finals",
+    "sport/2025/sep/17/gout-channels-bolt-horses-and-butterflies-ahead-of-semi-final-test",
+    "sport/2025/sep/18/gout-gout-eliminated-from-200m-after-coming-fourth-in-semi-finals-in-tokyo"
+  ],
+  "noise": [
+    "sport/2025/sep/09/gout-gout-frenzy-drives-huge-australian-interest-in-world-athletics-championships",
+    "sport/2025/sep/13/gout-gout-australia-athletics-world-championships-tokyo-2025-torrie-lewis",
+    "sport/blog/2025/sep/14/gout-gout-australia-athletics-world-championships-tokyo-2025",
+    "sport/2025/sep/15/gout-gout-race-world-athletics-championships-debut",
+    "sport/2025/sep/18/gout-gout-world-athletics-championships-attracts-huge-viewing-numbers-tv-ratings",
+    "sport/blog/2025/sep/18/publicity-frenzy-surrounds-gout-gout-but-he-has-the-super-power-to-cope"
+  ],
+  "evaluation": "This cluster perfectly tracks Gout Gout's performance in the 200m at the World Athletics Championships. It starts with a preview of his heat, reports his qualification, previews his semi-final, and concludes with his elimination. The articles form a clear, logical, and time-continuous narrative of his competition. Articles focusing on general hype, pre-championship context, broader team coverage, or TV ratings were de-noised as they did not directly contribute to the sequential narrative of his competition performance.",
+  "score": 10
+}

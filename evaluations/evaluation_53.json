@@ -1,0 +1,19 @@
+{
+  "topic": "Rachel Reeves' fiscal strategy, tax, and welfare changes for the November 2025 Autumn Budget.",
+  "articles": [
+    "business/2025/sep/09/cbi-boss-calls-for-rachel-reeves-to-tear-up-labours-manifesto-pledge-on-tax",
+    "business/2025/sep/12/stagnant-gdp-shows-scale-of-challenge-for-rachel-reeves-at-autumn-budget",
+    "business/2025/sep/18/resolution-foundation-ruth-curtice-rachel-reeves-tax-rises-two-child-limit",
+    "uk-news/2025/sep/23/reeves-urged-to-take-2p-off-employee-ni-and-add-it-to-income-tax-in-budget",
+    "politics/2025/sep/29/rachel-reeves-warns-labour-figures-against-ditching-idea-relaxing-fiscal-rules",
+    "politics/2025/sep/29/rachel-reeves-fiscal-rules-investment-labour-conference-speech",
+    "society/2025/sep/30/rachel-reeves-lift-two-child-benefit-cap-november-budget",
+    "business/2025/sep/30/rachel-reeves-makes-her-pitch-to-business-chiefs-wary-of-another-tax-raid",
+    "politics/2025/oct/02/rachel-reeves-could-raise-45bn-in-taxes-and-keep-promises-report-says"
+  ],
+  "noise": [
+    "politics/2025/sep/10/rachel-reeves-tells-private-equity-bosses-she-plans-to-shut-down-more-regulators"
+  ],
+  "evaluation": "The cluster provides a robust, continuous narrative detailing the economic landscape, external pressures, and Rachel Reeves' evolving fiscal policy in the run-up to the November 2025 Autumn Budget. Key developments include calls for tax and welfare reforms from influential bodies (CBI, Resolution Foundation), the acknowledgement of stagnant GDP, Reeves' nuanced stance on fiscal discipline versus investment at the Labour conference, and crucial confirmations regarding impending tax rises and the lifting of the two-child benefit cap. Article 'politics/2025/sep/10/rachel-reeves-tells-private-equity-bosses-she-plans-to-shut-down-more-regulators' was de-noised as its focus on deregulation, while a growth strategy, did not directly contribute to the specific fiscal and spending decisions forming the core budget narrative.",
+  "score": 9
+}

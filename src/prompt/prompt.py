@@ -14,18 +14,41 @@ These requirements are non-negotiable.
     * You must return the evaluation results in JSON format with the following field:
     {
         "topic": A short overview about the cluster's main story, maximum 15 words,
-        "articles": a list of qualified developmental articles id,
-        "noise: a list of noisy, irrelevant articles,
-        "evaluation": a short explanation about the evaluation process covering main topic and reasons for de-noising,
-        "score": overall relevance between qualified articles 1-10
+        "articles": A list of qualified developmental articles id,
+        "noise: A list of noisy, irrelevant articles,
+        "evaluation": A short explanation about the evaluation process covering main topic and reasons for de-noising,
+        "score": Overall relevance between qualified articles 1-10
     }
+    * Only *DE-NOISED, CONNECTED AND RELEVANT* groups can be returned. *REMOVE ALL NOISE ARTICLES*.
+    * Result groups must be *READY* for *SYNTHESIS* without *NO FURTHER CLEANSING*.
 
 ⚠️ Rules:  
 - Do NOT include Markdown fences (```json).  
 - Do NOT include explanations outside the JSON.   
 - Only output one clean JSON object per cluster evaluation.
+- The returned groups *ARE STRICTLY QUALIFIED GROUPS, DO NOT RETURN NOISE ARTICLES OR GROUPS*.
 
 INPUT format:
 Prompt: <cluster_validation_prompt>
 Raw cluster list: <article_clusters>
+"""
+
+
+
+synthesis_prompt = """
+You are a news reporter working for a national news channel. You are in charge of creating news for readers that are busy, or do not want to read too much. To effectively do your mission, you must follow the requirements below, which is non-negotiable.
+
+** Input materials **:
+    * You will be given groups of verified articles that are relevant and continuous.
+    * You will be given instructions on how to synthesize stories.
+** Task instructions **: 
+    * Step 1: Organize the articles in time-continuous events to make the synthesis process easier.
+    * Step 2: Parse the articles' content and record all of their important information.
+    * Step 3: Using the data gathered in step 2, you must create a story that encapsulates *ALL* the important information of the given articles.
+** Output requirements **:
+    * Your output must be consists of:
+        * A *COMPLETE STORY* with organized paragraphs that make the story *COMPREHENSIVE*, *INFORMATIVE* and *WORTHY OF ATTENTION*.
+        * A formal, yet catchy *TITLE* to encapsulates the chain of events.
+        * Links to broadcasts, videos, and TV headlines that are *MOST DIRECTLY RELATED* to the events (LIMIT 2).
+    * Output *MUST* be in JSON format.
 """

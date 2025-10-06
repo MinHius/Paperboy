@@ -1,0 +1,19 @@
+{
+  "topic": "Zohran Mamdani's NYC Mayoral Campaign Developments in September 2025",
+  "articles": [
+    "us-news/2025/sep/10/zohran-mamdani-new-york-mayor-poll",
+    "us-news/2025/sep/15/nyc-mayoral-election-kathy-hochul-zohran-mamdani-endorsement",
+    "us-news/2025/sep/22/zohran-mamdani-abc-town-hall-jimmy-kimmel",
+    "us-news/2025/sep/13/zohran-mamdani-benjamin-netanyahu-new-york",
+    "us-news/2025/sep/22/billionaires-wealthy-landlords-zohran-mamdani-andrew-cuomo",
+    "us-news/2025/sep/03/eric-adams-trump-new-york-mayor",
+    "us-news/2025/sep/16/zohran-mamdani-democrat-endorsements-kathy-hochul"
+  ],
+  "noise": [
+    "us-news/2025/sep/14/zohran-mamdani-success-what-can-labour-learn",
+    "us-news/2025/sep/10/zohran-mamdani-uganda",
+    "commentisfree/2025/sep/13/zohran-mamdani-new-york-democrat-mayor-candidate-unapologetic-muslim-progressive"
+  ],
+  "evaluation": "This cluster provides a strong, continuous narrative of Zohran Mamdani's New York City mayoral campaign in September 2025. The selected articles cover key developments including his poll lead, significant endorsements (e.g., Governor Hochul) and the nuanced lack of broader party endorsements, his controversial policy stances (e.g., Netanyahu), public engagement regarding a town hall, and the political opposition he faces from rivals and the city's wealthy class. The timeline is logical, tracking campaign progression through the month. Articles 'us-news/2025/sep/14/zohran-mamdani-success-what-can-labour-learn' (analysis of broader political trends), 'us-news/2025/sep/10/zohran-mamdani-uganda' (biographical context), and 'commentisfree/2025/sep/13/zohran-mamdani-new-york-democrat-mayor-candidate-unapologetic-muslim-progressive' (opinion piece on identity from an external perspective) were de-noised as they do not contribute directly to the *developmental* narrative of his specific mayoral campaign events or policies.",
+  "score": 9
+}

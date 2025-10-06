@@ -1,0 +1,19 @@
+{
+  "topic": "Donald Trump's Second UK State Visit: Events, Impact, and Conclusion",
+  "articles": [
+    "us-news/2025/sep/09/trump-state-visit-will-see-police-drones-and-airspace-limits-over-windsor",
+    "politics/2025/sep/15/reeves-to-host-bosses-of-uk-and-us-financial-firms-as-trump-visit-begins",
+    "us-news/2025/sep/16/donald-trump-lands-in-uk-for-second-state-visit-as-protesters-gather-in-windsor",
+    "us-news/2025/sep/16/donald-trump-state-visit-uk-agenda-key-takeaways",
+    "politics/2025/sep/16/trump-uk-analysis-normal-rules-of-state-visits-do-not-apply",
+    "world/2025/sep/16/wednesday-briefing-trump-arrives-in-the-uk-and-his-playbook-is-reshaping-the-british-right",
+    "politics/live/2025/sep/17/donald-trump-uk-state-visit-king-charles-windsor-politics-latest-news-updates-labour-keir-starmer",
+    "us-news/2025/sep/18/trump-lauds-special-relationship-between-uk-and-us-as-historic-second-state-visit-sees-thousands-protest",
+    "world/2025/sep/19/friday-briefing-special-relationships-unlikely-friendships-trumps-state-visit-beyond-the-cliches"
+  ],
+  "noise": [
+    "politics/2025/sep/15/donald-trump-uk-state-visit-keir-starmer-peter-mandelson"
+  ],
+  "evaluation": "The core cluster effectively covers Donald Trump's second state visit to the UK, detailing its anticipation, arrival, key events, economic outcomes, and conclusion in a logical, chronological sequence from September 9th to 19th. The articles are highly relevant, developmental, and informative, providing significant coverage of diplomatic, political, economic, and security aspects. Article 'politics/2025/sep/15/donald-trump-uk-state-visit-keir-starmer-peter-mandelson' was de-noised as its primary focus on the Peter Mandelson scandal and its impact on Keir Starmer's government, while occurring during the visit, is a domestic political crisis that only tangentially relates to the developmental story of the state visit itself. Its inclusion would divert from the core narrative of Trump's visit.",
+  "score": 9
+}

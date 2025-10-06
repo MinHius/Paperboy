@@ -1,0 +1,19 @@
+{
+  "topic": "Charlie Kirk's fatal shooting, political fallout, investigation, and escalating rhetoric.",
+  "articles": [
+    "us-news/2025/sep/11/first-thing-police-search-for-suspect-in-charlie-kirk-shooting-amid-condemnation-of-targeted-killing",
+    "us-news/2025/sep/10/charlie-kirk-shooting-political-violence",
+    "us-news/2025/sep/11/charlie-kirk-shooting-death-trump-reaction",
+    "us-news/2025/sep/13/charlie-kirk-killing-alleged-shooter-motivation",
+    "us-news/2025/sep/10/charlie-kirk-shooting-reaction",
+    "us-news/2025/sep/11/charlie-kirk-shooting-trump",
+    "us-news/2025/sep/21/trump-administration-news-updates-today-latest",
+    "us-news/2025/sep/14/charlie-kirk-death-us-violence",
+    "us-news/2025/sep/11/christopher-landau-charlie-kirk-foreigners"
+  ],
+  "noise": [
+    "us-news/2025/sep/12/black-students-colleges-racist-threats"
+  ],
+  "evaluation": "This cluster provides a continuous and developmental narrative surrounding the fatal shooting of conservative activist Charlie Kirk. It covers the initial event, the immediate political and public reactions, the ongoing police investigation, the identification of the alleged suspect, and the broader implications concerning political violence and governmental responses. The timeline is logical, illustrating the story's progression from the shooting itself to the subsequent fallout. Article 'us-news/2025/sep/12/black-students-colleges-racist-threats' was de-noised as it primarily focuses on racist threats against Black students, with Kirk's death serving only as a tangential reference point, not a core developmental aspect of his story.",
+  "score": 10
+}

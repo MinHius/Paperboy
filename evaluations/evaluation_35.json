@@ -1,0 +1,18 @@
+{
+  "topic": "Europe's Ryder Cup 2025 victory amidst payment controversy and Trump's presence",
+  "articles": [
+    "sport/2025/sep/21/ryder-cup-usa-europe-bethpage-black-golf",
+    "sport/2025/sep/23/usa-will-have-to-win-ryder-cup-to-escape-pay-free-europes-money-talk",
+    "sport/2025/sep/24/trump-ryder-cup-spicy-support-use-europe-golf",
+    "sport/2025/sep/25/ryder-cup-golf-europe-usa-us-bethpage-black",
+    "sport/2025/sep/25/bryson-dechambeau-donald-trump-ryder-cup-europe-us-usa-golf-rory-mcilroy",
+    "sport/2025/sep/26/with-the-donalds-golfing-tips-surely-the-usa-cant-fail-to-win-this-ryder-cup-bigly",
+    "sport/live/2025/sep/26/ryder-cup-2025-day-one-golf-europe-usa-bethpage-black-live",
+    "sport/live/2025/sep/27/ryder-cup-2025-day-two-live",
+    "sport/2025/sep/28/europe-seize-initiative-to-take-1112-412-lead-over-us-into-ryder-cup-singles",
+    "sport/2025/sep/28/lowry-sinks-putt-that-retains-ryder-cup-for-europe-as-they-hold-off-us-comeback"
+  ],
+  "noise": [],
+  "evaluation": "This cluster provides a comprehensive, time-continuous narrative of the Ryder Cup 2025. It starts with pre-event controversies surrounding US player payments and atmosphere (Sep 21-25), progresses through Day 1 (Sep 26) and Day 2 (Sep 27) of the matches, detailing Europe's dominant performance and the struggles of the US team. The cluster concludes with the final day (Sep 28), reporting Europe's retention of the cup despite a US comeback attempt. All articles were deemed relevant, contributing to the overarching story of the event, and follow a logical chronological flow. No articles were de-noised, as even the satirical piece related to Donald Trump contributed to the overall atmosphere and reporting of his presence during the event.",
+  "score": 10
+}

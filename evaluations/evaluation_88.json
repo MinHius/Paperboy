@@ -1,0 +1,19 @@
+{
+  "topic": "Trump-Netanyahu's Gaza peace plan: Announcement, ultimatum, global reactions, Hamas's pending decision.",
+  "articles": [
+    "world/2025/sep/29/trump-netanyahu-gaza-peace-plan",
+    "world/live/2025/sep/30/netanyahu-israel-gaza-hamas-trump-peace-plan-latest-news-middle-east-crisis-live",
+    "world/2025/sep/29/trumps-gaza-peace-plan-is-a-back-of-an-envelope-sketch-but-could-work",
+    "world/2025/sep/30/hamas-mulls-options-as-countries-rush-to-welcome-trump-gaza-peace-plan",
+    "world/2025/sep/30/australia-welcomes-trump-20-point-peace-plan-gaza-there-is-hope",
+    "us-news/2025/sep/30/president-trump-administration-news-updates-today",
+    "world/2025/sep/29/trump-peace-plan-gaza-israel-hamas",
+    "us-news/2025/sep/30/first-thing-trump-and-netanyahu-tell-hamas-to-accept-gaza-peace-plan-or-face-consequences",
+    "world/2025/oct/02/hamas-likely-to-accept-trump-peace-plan-with-key-revisions-experts-say"
+  ],
+  "noise": [
+    "world/2025/sep/25/is-trumps-new-palestine-plan-a-breakthrough-or-diplomatic-mirage"
+  ],
+  "evaluation": "This cluster effectively tracks the unfolding story of the Trump-Netanyahu 20-point peace plan for Gaza. It begins with the plan's announcement and the ultimatum to Hamas on September 29th, detailing its conditions and initial analysis. The narrative then progresses through September 30th with Trump's clarification of the deadline, various international reactions, and Hamas's deliberation. It concludes logically with expert predictions on Hamas's likely response by October 2nd. Article 'world/2025/sep/25/is-trumps-new-palestine-plan-a-breakthrough-or-diplomatic-mirage' was de-noised as it discusses a '21-point' plan and predates the formal announcement of the specific '20-point plan' that forms the core, continuous narrative of the other articles, thus lacking strict continuity.",
+  "score": 9
+}

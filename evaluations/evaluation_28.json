@@ -1,0 +1,18 @@
+{
+  "topic": "F1 championship battle: Verstappen's dominance, McLaren rivals' struggles across two GPs.",
+  "articles": [
+    "sport/2025/sep/21/verstappen-wins-f1-azerbaijan-gp-while-norris-struggles-after-piastri-crash",
+    "sport/2025/sep/06/max-verstappen-pips-lando-norris-for-italian-f1-grand-prix-pole",
+    "sport/live/2025/sep/06/italian-f1-grand-prix-qualifying-live",
+    "sport/2025/sep/20/verstappen-pole-azerbaijan-gp-piastri-crashes-out-f1-qualifying-chaos",
+    "sport/live/2025/sep/20/formula-one-azerbaijan-grand-prix-qualifying-updates-live",
+    "sport/live/2025/sep/21/azerbaijan-grand-prix-formula-one-live",
+    "sport/2025/sep/07/max-verstappen-victory-italian-f1-grand-prix-red-bull-lando-norrris-oscar-piastari-mclaren-lewis-hamilton-ferrari",
+    "sport/live/2025/sep/07/f1-italian-grand-prix-updates-live",
+    "sport/2025/sep/18/piastri-and-norris-in-control-of-own-destiny-in-f1-world-championship-battle",
+    "sport/2025/sep/07/lando-norris-oscar-piastri-mclaren-team-orders-italian-grand-prix-f1"
+  ],
+  "noise": [],
+  "evaluation": "This cluster effectively tracks the Formula 1 championship battle over two crucial race weekends: the Italian Grand Prix (Sep 6-7) and the Azerbaijan Grand Prix (Sep 20-21). The main topic focuses on Max Verstappen's dominant performance with consecutive wins, contrasted with the intense internal rivalry and strategic challenges faced by McLaren's championship contenders, Lando Norris and Oscar Piastri. Articles cover qualifying results, race reports, live updates, post-race reactions, and analytical pieces that bridge the temporal gap by discussing championship implications and team orders controversy. All articles were deemed highly relevant, continuous, and developmental to this overarching narrative, ensuring strong synthesizable potential. No articles were de-noised as they all contribute to the story's progression and context.",
+  "score": 9
+}

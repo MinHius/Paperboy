@@ -1,0 +1,19 @@
+{
+  "topic": "Ongoing inquiry into Southport attack: Testimonies and emerging details.",
+  "articles": [
+    "uk-news/2025/sep/16/southport-killer-thought-to-have-viewed-teen-stabbing-footage-shortly-before-attack",
+    "uk-news/2025/sep/11/southport-attack-inquiry-testimony-teenage-girl-stabbed",
+    "uk-news/2025/sep/15/southport-attack-inquiry-hears-parents-memories-of-their-daughters",
+    "uk-news/2025/sep/14/why-wasnt-he-stopped-parents-of-murdered-girls-to-appear-at-southport-attack-inquiry",
+    "uk-news/2025/sep/17/southport-killer-axel-rudakubana-brother-inquiry",
+    "uk-news/2025/sep/09/girl-saved-sisters-life-by-shielding-her-from-southport-attacker-inquiry-hears",
+    "uk-news/2025/sep/08/man-stabbed-tackling-southport-killer-scene-horror-jonathan-hayes",
+    "uk-news/2025/sep/10/southport-attack-inquiry-testimony-dance-teachers",
+    "uk-news/2025/sep/25/taxi-driver-southport-attacks-killer-police"
+  ],
+  "noise": [
+    "uk-news/2025/sep/12/stephen-lawrence-mother-doreen-plea-witnesses-review"
+  ],
+  "evaluation": "The cluster provides a continuous and developmental story centered around the ongoing public inquiry into the Southport attack of July 29, 2024. Articles detail various testimonies from victims, parents, witnesses, and staff, along with revelations about the attacker's background and actions. The articles collectively address the circumstances leading to the tragedy and questions of accountability. Article 'uk-news/2025/sep/12/stephen-lawrence-mother-doreen-plea-witnesses-review' was de-noised as it pertains to the unrelated Stephen Lawrence murder review, not the Southport attack.",
+  "score": 10
+}

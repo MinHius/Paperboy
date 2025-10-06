@@ -1,0 +1,19 @@
+{
+  "topic": "Optus network outages, triple-zero failures, and related deaths spark government scrutiny.",
+  "articles": [
+    "business/2025/sep/19/three-people-died-when-optus-network-upgrade-affected-triple-zero-calls-ceo-confirms",
+    "business/2025/sep/20/optus-network-outage-in-which-three-people-died-lasted-eight-hours-longer-than-telco-initially-said",
+    "business/2025/sep/21/abhorrent-behaviour-call-for-optus-to-face-stiff-penalties-after-triple-zero-outage-deaths",
+    "business/2025/sep/24/optus-outage-triple-zero-failure-claimed-giving-live-updates-on-outages-would-impose-huge-burden-months-before",
+    "australia-news/2025/sep/29/optus-suffers-fresh-triple-zero-outage-in-nsw-as-police-check-welfare-of-callers",
+    "business/2025/sep/29/optus-triple-zero-outage-experiences-second-anika-wells-to-meet-singtel-boss",
+    "business/2025/sep/30/optus-triple-zero-outages-anika-wells-meeting-singtel-lot-of-work-to-do",
+    "australia-news/2025/oct/01/optuss-triple-zero-outage-could-boost-telstras-customers-and-allow-it-to-charge-even-more"
+  ],
+  "noise": [
+    "australia-news/live/2025/sep/19/australia-news-live-cheaper-energy-chris-bowen-climate-bush-search-crashed-plane-pilot-julie-bishop-ntwnfb",
+    "australia-news/live/2025/sep/21/australia-news-live-anthony-albanese-donald-trump-new-york-sunday-ntwnfb"
+  ],
+  "evaluation": "The cluster provides a comprehensive, time-continuous narrative of the Optus network outages, triple-zero call failures, and associated deaths. It covers initial reports, increasing death tolls, Optus's accountability and prior stances, government reactions, a second outage, and long-term consequences. Articles 2 and 5 were de-noised as they were broader news summaries containing significant unrelated content, which would hinder strict synthesis focused solely on the Optus crisis.",
+  "score": 9
+}

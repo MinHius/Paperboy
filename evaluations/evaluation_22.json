@@ -1,0 +1,19 @@
+{
+  "topic": "Internal conflict and leadership struggle between Corbyn and Sultana in their new leftwing party.",
+  "articles": [
+    "politics/2025/sep/18/jeremy-corbyn-clashes-zarah-sultana-your-party-split",
+    "politics/2025/sep/19/share-your-views-on-fallout-between-corbyn-and-sultana-over-their-new-partys-membership-portal",
+    "politics/2025/sep/20/zarah-sultana-consults-defamation-lawyers-after-spat-with-jeremy-corbyn-over-party-funds",
+    "politics/2025/sep/21/zarah-sultana-to-drop-legal-threat-over-feud-with-jeremy-corbyn",
+    "politics/2025/sep/22/corbyn-and-sultana-prepare-new-party-memberships-launch-without-unified-line",
+    "politics/2025/sep/24/sorry-for-the-confusion-jeremy-corbyn-your-party-membership-zarah-sultana"
+  ],
+  "noise": [
+    "politics/2025/sep/19/good-at-self-sabotage-people-react-to-corbyn-and-sultana-row-in-new-leftwing-party",
+    "politics/2025/sep/19/greens-membership-surge-after-public-split-between-corbyn-and-sultana",
+    "commentisfree/2025/sep/25/jeremy-corbyn-zarah-sultana-britain-your-party",
+    "commentisfree/2025/sep/22/jeremy-corbyn-zarah-sultana-your-party-left"
+  ],
+  "evaluation": "The core cluster effectively tracks the unfolding internal conflict between Jeremy Corbyn and Zarah Sultana regarding the formation of their new leftwing party. It starts with the initial public spat over the membership portal, escalates to legal threats, de-escalates with legal action being dropped, and concludes with Corbyn proceeding with the party launch while omitting Sultana, indicating a significant fracture. Noise articles were removed because they focused on public reactions, impacts on other parties, or were opinion/commentary pieces, thus not contributing to the direct, developmental narrative of the primary conflict.",
+  "score": 9
+}

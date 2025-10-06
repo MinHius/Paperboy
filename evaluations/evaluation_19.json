@@ -1,0 +1,18 @@
+{
+  "topic": "No continuous story identified due to distinct reports and empty content",
+  "articles": [],
+  "noise": [
+    "education/ng-interactive/2025/sep/13/best-uk-universities-for-education-league-table",
+    "education/ng-interactive/2025/sep/13/best-uk-universities-for-english-league-table",
+    "education/ng-interactive/2025/sep/13/best-uk-universities-for-medicine-league-table",
+    "education/ng-interactive/2025/sep/13/best-uk-universities-for-sports-science-league-table",
+    "education/ng-interactive/2025/sep/13/best-uk-universities-for-law-league-table",
+    "education/ng-interactive/2025/sep/13/best-uk-universities-for-health-professions-league-table",
+    "education/ng-interactive/2025/sep/13/best-uk-universities-for-biology-league-table",
+    "education/ng-interactive/2025/sep/13/best-uk-universities-for-psychology-league-table",
+    "education/ng-interactive/2025/sep/13/best-uk-universities-for-history-league-table",
+    "education/ng-interactive/2025/sep/13/best-uk-universities-for-biomedical-science-league-table"
+  ],
+  "evaluation": "Initial inspection failed due to inadequate size. The articles represent distinct subject-specific university league tables published on the same date. They do not form a single continuous or developmental news story. Each article is a standalone report rather than a progression of a narrative. Furthermore, the full_text for all articles was empty, preventing any content-based validation of continuity, development, relevance, or synthesizability.",
+  "score": 0
+}

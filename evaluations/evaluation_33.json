@@ -1,0 +1,19 @@
+{
+  "topic": "US-China TikTok deal progresses, details on investors and ownership emerge.",
+  "articles": [
+    "technology/2025/sep/15/trump-china-tiktok-sale-ban",
+    "world/2025/sep/17/trump-celebrates-tiktok-deal-as-beijing-suggests-us-app-would-use-chinas-algorithm",
+    "technology/2025/sep/19/deal-to-transfer-tiktok-to-us-control-unresolved-trump-xi-call",
+    "us-news/2025/sep/21/trump-rupert-lachlan-murdoch-tiktok",
+    "technology/2025/sep/22/us-tiktok-deal-explained",
+    "us-news/2025/sep/24/tiktok-trump-murdoch-ellison",
+    "technology/2025/sep/24/tiktok-ownership-chinese-american-australia-may-choose-between-china-usa-trump-billionaire-backers",
+    "technology/2025/sep/25/trump-china-tiktok-deal",
+    "technology/2025/sep/26/iktok-abu-dhabi-royal-family-stake-trump-deal-mgx"
+  ],
+  "noise": [
+    "business/live/2025/sep/15/uk-house-prices-drop-tax-budget-rents-financial-markets-business-live-news-updates"
+  ],
+  "evaluation": "This cluster provides a highly continuous and developmental story chronicling the US-China deal for TikTok's US operations. It logically progresses from the initial framework agreement (Sep 15) and President Trump's subsequent announcements (Sep 17, 19), through the naming of key potential investors like Oracle and the Murdochs (Sep 21), to the signing of the executive order and detailed ownership structures including an Abu Dhabi stake (Sep 22-26). Each article adds significant, distinct information to the evolving narrative, making the sequence informative and comprehensive. Article 'business/live/2025/sep/15/uk-house-prices-drop-tax-budget-rents-financial-markets-business-live-news-updates' was de-noised as it is a general business live blog with a brief, redundant mention of the TikTok framework deal already covered more extensively by a dedicated article (technology/2025/sep/15/trump-china-tiktok-sale-ban). Its primary focus is not the TikTok story.",
+  "score": 9
+}

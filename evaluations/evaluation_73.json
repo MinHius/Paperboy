@@ -1,0 +1,18 @@
+{
+  "topic": "French Political Crisis: PM Bayrou's Fall, Lecornu's Appointment, and Public Protests",
+  "articles": [
+    "news/ng-interactive/2025/sep/07/frances-political-crisis-reveals-deep-rift-between-the-people-and-their-politicians",
+    "world/2025/sep/08/french-pm-francois-bayrou-confidence-vote",
+    "world/2025/sep/08/francois-bayrou-ousted-as-french-pm-after-losing-confidence-vote",
+    "world/2025/sep/08/bayrou-fall-and-divided-parliament-hardly-offer-stability-macron-needs-analysis",
+    "world/live/2025/sep/09/france-crisis-government-emmanuel-macron-europe-latest-live-news-updates",
+    "world/2025/sep/09/first-edition-francois-bayrou-france",
+    "world/2025/sep/09/francois-bayrou-france-block-everything-protests-macron",
+    "world/live/2025/sep/10/france-block-everything-protests-macron-lecornu-europe-live-news-updates",
+    "world/2025/sep/18/france-strikes-day-sebastien-lecornu-emmanuel-macron-politics",
+    "world/2025/sep/18/strike-action-across-france-as-hundreds-of-thousands-march-to-demand-pm-rethinks-budget-cuts"
+  ],
+  "noise": [],
+  "evaluation": "The articles comprehensively cover the evolving political crisis in France, beginning with the anticipation and confirmation of Prime Minister François Bayrou's ousting through a confidence vote, the subsequent appointment of Sébastien Lecornu, and the significant public unrest and strikes against the new government's policies. The timeline is logical and developmental, providing a clear narrative of cause and effect. All articles are strictly relevant, informative, and provide significant coverage without any noise.",
+  "score": 10
+}

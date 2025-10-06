@@ -1,0 +1,19 @@
+{
+  "topic": "2025 US Government Shutdown: Causes, Political Conflict, and Administration's Strategic Actions",
+  "articles": [
+    "us-news/2025/sep/12/congress-healthcare-government-shutdown",
+    "us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans",
+    "us-news/2025/oct/01/government-shutdown-reactions",
+    "us-news/2025/oct/01/democrats-republicans-government-shutdown",
+    "us-news/2025/oct/01/federal-workers-government-shutdown-trump",
+    "us-news/2025/oct/02/first-edition-government-shutdown",
+    "us-news/2025/oct/02/trump-administration-news-updates-today",
+    "us-news/2025/oct/02/government-shutdown-federal-workers-funding-freeze",
+    "us-news/2025/oct/02/government-shutdown-emails-blaming-democrats"
+  ],
+  "noise": [
+    "us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates"
+  ],
+  "evaluation": "This cluster provides a strong, continuous narrative of the 2025 US government shutdown. It begins with the legislative lead-up (Sep 12, Sep 30), details the official start and initial political reactions (Oct 01), including the Democratic strategy and immediate impact on federal workers. It then progresses to the second day (Oct 02), covering the administration's strategic use of the shutdown for political retaliation against Democratic states and proposed federal worker purges, alongside official blame-shifting tactics. Article us-news/live/2025/oct/02/government-shutdown-trump-democrats-latest-updates was de-noised as its content about Trump's exaggerated claims of Portland arson and 60 Minutes interview discussions were largely tangential to the core narrative of the government shutdown's progression, causes, and direct political/social impacts.",
+  "score": 9
+}

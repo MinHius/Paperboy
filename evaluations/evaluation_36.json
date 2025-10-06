@@ -1,0 +1,19 @@
+{
+  "topic": "Dallas ICE facility shooting: perpetrator, victims, and political reactions.",
+  "articles": [
+    "us-news/2025/sep/24/dallas-ice-shooting-texas-immigration-center-latest",
+    "us-news/2025/sep/25/dallas-shooting-ice-facility",
+    "us-news/2025/sep/26/immigrant-detainees-shot-dallas-identified"
+  ],
+  "noise": [
+    "us-news/2025/sep/30/immigration-detainees-ice-texas-jail",
+    "us-news/2025/sep/16/assault-ice-officer-federal-crime",
+    "us-news/2025/sep/17/ice-solitary-confinement-trump",
+    "us-news/2025/sep/26/ice-officer-video-relieved-of-duties",
+    "us-news/2025/sep/24/california-investigate-death-ice-custody",
+    "us-news/2025/sep/28/ice-detention-texas-children",
+    "us-news/2025/sep/23/citizens-permanent-residents-racial-profiling-ice-immigration"
+  ],
+  "evaluation": "This cluster was validated for potential continuous stories focusing on the Dallas ICE facility shooting. Articles 'us-news/2025/sep/24/dallas-ice-shooting-texas-immigration-center-latest', 'us-news/2025/sep/25/dallas-shooting-ice-facility', and 'us-news/2025/sep/26/immigrant-detainees-shot-dallas-identified' form a strong developmental narrative, covering the initial incident, the shooter's motives and political commentary, and the identification of the victims. These articles provide significant, time-continuous coverage of the specific event. Other articles were de-noised as they address separate incidents such as an officer misconduct video, detainee death in another state, general ICE detention conditions, solitary confinement reports, ICE policy warnings, or legal developments on racial profiling, which do not contribute to the continuity or development of the Dallas shooting story.",
+  "score": 9
+}

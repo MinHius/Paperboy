@@ -1,0 +1,19 @@
+{
+  "topic": "Boris Johnson's post-PM profit allegations from leaked 'Boris Files'",
+  "articles": [
+    "news/ng-interactive/2025/sep/14/what-boris-johnson-did-next-files-pursuit-of-profit",
+    "uk-news/2025/sep/08/revealed-how-boris-johnson-traded-pm-contacts-for-global-business-deals",
+    "uk-news/2025/sep/09/boris-johnson-under-pressure-to-explain-how-private-office-follows-funding-rules",
+    "uk-news/2025/sep/09/call-to-halt-boris-johnson-allowance-after-boris-files-revelations",
+    "uk-news/2025/sep/09/boris-johnson-secretly-lobbied-uae-business-venture-leak-suggests",
+    "uk-news/2025/sep/08/what-are-the-boris-johnson-files-former-prime-minister",
+    "politics/2025/sep/10/payments-and-pravda-in-the-boris-files",
+    "uk-news/2025/sep/09/boris-johnson-paid-speeches-putin-queen-birthday-bash",
+    "world/2025/sep/10/wednesday-briefing-what-are-the-key-revelations-from-the-boris-files-and-why-do-they-matter"
+  ],
+  "noise": [
+    "uk-news/2025/sep/10/washington-post-boss-will-lewis-secret-adviser-boris-johnson-leak"
+  ],
+  "evaluation": "This cluster effectively details the unfolding 'Boris Files' scandal. Articles introduce the leak, explain its contents, detail specific instances of Johnson's alleged post-premiership financial misconduct (lobbying, paid speeches, use of public funds), and cover the political fallout and investigations. Article 'uk-news/2025/sep/10/washington-post-boss-will-lewis-secret-adviser-boris-johnson-leak' was de-noised as it focuses on a separate individual's conduct, even if revealed by the same leak, rather than Johnson's direct financial activities or misuse of office for personal gain.",
+  "score": 9
+}

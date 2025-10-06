@@ -1,0 +1,19 @@
+{
+  "topic": "Arsenal's recent Champions League and Premier League performances and reactions.",
+  "articles": [
+    "football/live/2025/sep/16/athletic-bilbao-v-arsenal-champions-league-live-score-updates",
+    "football/live/2025/sep/21/arsenal-v-manchester-city-premier-league-live-score-updates",
+    "football/live/2025/sep/28/newcastle-v-arsenal-premier-league-live",
+    "football/live/2025/oct/01/arsenal-v-olympiakos-champions-league-live"
+  ],
+  "noise": [
+    "football/live/2025/sep/18/newcastle-united-v-barcelona-champions-league-live",
+    "football/live/2025/sep/20/liverpool-v-everton-premier-league-live",
+    "football/live/2025/sep/20/manchester-united-v-chelsea-premier-league-live",
+    "football/live/2025/sep/17/liverpool-v-atletico-madrid-champions-league-live",
+    "football/live/2025/oct/01/barcelona-v-psg-monaco-v-manchester-city-and-more-champions-league-and-championship-live",
+    "football/live/2025/sep/30/chelsea-v-benfica-bodglimt-v-tottenham-and-more-champions-league-live"
+  ],
+  "evaluation": "The identified core cluster of four articles provides a continuous and developmental narrative about Arsenal's performance across Champions League and Premier League fixtures from mid-September to early October 2025. The articles feature post-match comments from manager Mikel Arteta and key players like Gabriel Martinelli and Martin Odegaard, offering insights into the team's form, resilience, and specific match outcomes. The timeline is logical and the content is strictly relevant and synthesizable. The remaining six articles were de-noised as they focused on other teams, different competitions, or were general roundups lacking specific developmental context for the Arsenal narrative.",
+  "score": 9
+}

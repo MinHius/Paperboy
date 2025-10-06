@@ -1,0 +1,19 @@
+{
+  "topic": "UN commission finds Israel committing genocide in Gaza and global reactions.",
+  "articles": [
+    "world/2025/sep/16/israel-committed-genocide-in-gaza-says-un-inquiry",
+    "us-news/2025/sep/16/first-thing-israel-has-committed-genocide-in-gaza-says-un-commission-of-inquiry",
+    "world/2025/sep/16/un-commission-of-inquiry-report-israel-gaza-legal-analysis-genocide-accusation",
+    "commentisfree/2025/sep/17/un-report-israel-genocide-gaza-western-governments",
+    "us-news/2025/sep/17/bernie-sanders-israel-gaza-genocide",
+    "australia-news/2025/sep/18/albanese-urged-to-end-double-standard-on-israel-after-un-commission-finds-genocide-occurring-in-gaza",
+    "commentisfree/2025/sep/23/gaza-international-law-un-convention",
+    "politics/2025/sep/29/labour-party-conference-vote-israel-genocide-gaza"
+  ],
+  "noise": [
+    "us-news/2025/sep/11/democratic-senators-gaza-ethnic-cleansing",
+    "world/live/2025/sep/25/palestinian-authority-mahmoud-abbas-unga-israel-gaza-us-yemen-middle-east-crisis-live-news-updates"
+  ],
+  "evaluation": "The core topic revolves around the United Nations Commission of Inquiry's finding that Israel is committing genocide in Gaza, and the subsequent international political reactions and commentaries. Articles from Sep 16 detail the report's release and its legal analysis. Subsequent articles (Sep 17-29) cover immediate political responses, such as Bernie Sanders' statement, calls for action in Australia, expert analysis of the report's implications, and significant political developments like the UK Labour Party endorsing the UN finding and the UK's recognition of Palestine. This forms a clear, continuous, and developmental narrative. \n\n'us-news/2025/sep/11/democratic-senators-gaza-ethnic-cleansing' was de-noised as it predates the UN COI report and discusses 'ethnic cleansing' rather than directly referencing the COI's specific 'genocide' finding, making it less relevant to this particular story's progression. 'world/live/2025/sep/25/palestinian-authority-mahmoud-abbas-unga-israel-gaza-us-yemen-middle-east-crisis-live-news-updates' was de-noised because while Mahmoud Abbas uses the term 'war of genocide,' the article's primary focus is his UNGA speech and US visa issues, not directly the impact or reaction to the UN COI's report itself, which is the central theme of the qualified cluster.",
+  "score": 9
+}

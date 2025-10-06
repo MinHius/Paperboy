@@ -1,0 +1,19 @@
+{
+  "topic": "Gaza aid flotilla's journey, Israeli interception, and global aftermath.",
+  "articles": [
+    "world/live/2025/oct/01/israel-gaza-aid-global-sumud-flotilla-middle-east-crisis-latest-updates",
+    "world/2025/oct/01/pro-palestine-flotilla-heading-towards-gaza-harassed-by-israeli-naval-boats",
+    "world/2025/oct/02/gaza-aid-flotilla-greta-thunberg-what-we-know-so-far-israel-interception-boat-convoy",
+    "world/2025/oct/02/israels-gaza-flotilla-interception-triggers-protests-diplomatic-expulsions-and-calls-for-strikes",
+    "world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza",
+    "australia-news/2025/oct/03/australians-gaza-flotilla-detained-government-pushing-israel-for-information",
+    "world/2025/sep/10/gaza-aid-flotilla-carrying-greta-thunberg-reports-second-drone-attack-on-boat-at-tunisian-port",
+    "world/2025/oct/02/israel-intercepts-aid-flotilla-but-one-ship-reported-to-have-got-through-blockade",
+    "world/2025/sep/24/explosions-and-multiple-drones-targeting-gaza-aid-flotilla-boats-activists-say"
+  ],
+  "noise": [
+    "australia-news/live/2025/sep/29/australia-news-live-optus-suffers-fresh-triple-zero-glitch-labors-first-deficit-not-as-bad-as-feared"
+  ],
+  "evaluation": "The cluster provides a comprehensive, time-continuous narrative about the Global Sumud Flotilla's attempt to deliver aid to Gaza, detailing pre-interception drone attacks (Sep 10, Sep 24), initial harassment (Oct 1), the full Israeli naval interception and detention of activists (Oct 1-2), and the subsequent global protests and diplomatic reactions (Oct 2-3). Article 9 was de-noised as it discusses unrelated Australian domestic news. The remaining articles are highly relevant and developmental, offering a clear, synthesizable story arc.",
+  "score": 10
+}

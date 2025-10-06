@@ -1,0 +1,19 @@
+{
+  "topic": "Concerns over Georgia's political climate, alleged authoritarianism, and geopolitical alignment.",
+  "articles": [
+    "world/2025/sep/13/former-aide-to-de-facto-leader-of-georgia-being-held-as-personal-prisoner-mother-claims",
+    "world/2025/sep/14/georgia-freezes-bank-accounts-parents-jailed-former-aide-bidzina-ivanishvili",
+    "world/2025/oct/01/jailed-georgian-politicians-allege-links-between-ruling-party-and-iran-in-letter-to-uk"
+  ],
+  "noise": [
+    "uk-news/2025/sep/17/lawyer-who-brought-hamas-case-claims-he-was-unlawfully-detained-by-police-fahad-ansari",
+    "world/2025/sep/22/un-rights-groups-condemn-reported-jailing-wuhan-covid-citizen-journalist-zhang-zhan",
+    "world/2025/oct/01/china-replaces-liu-jianchao-high-level-diplomat-after-reported-detention",
+    "world/2025/sep/23/unification-church-leader-han-hak-ja-arrested-south-korea-ntwnfb",
+    "world/2025/sep/23/west-africans-deported-by-the-us-were-denied-their-rights-says-lawyer",
+    "politics/2025/oct/01/keir-starmer-narendra-modi-india-jagtar-singh-johal-release",
+    "uk-news/2025/sep/22/more-than-150-lawyers-and-refugee-ngos-report-being-pressured-into-silence-by-far-right-protesters"
+  ],
+  "evaluation": "The core cluster focuses on the evolving political situation in Georgia, specifically concerns surrounding Bidzina Ivanishvili's influence and the ruling Georgian Dream party. Article 1 details accusations against Ivanishvili regarding a jailed former aide. Article 3 immediately follows up with the freezing of the accuser's bank accounts, directly linked as a consequence. Article 7 broadens the scope, with other jailed Georgian politicians raising concerns about the ruling party's links to Iran, explicitly referencing the Marina Ramazashvili interview from Article 1/3, thus connecting the narratives. The de-noised articles cover distinct, unrelated international and domestic news stories from the UK, China, South Korea, US, and India, which bear no direct relevance or developmental connection to the Georgian political narrative.",
+  "score": 9
+}

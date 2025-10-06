@@ -1,0 +1,19 @@
+{
+  "topic": "Australia's ongoing shark net debate: fatal attacks vs. whale entanglements and policy disputes.",
+  "articles": [
+    "australia-news/2025/sep/13/queensland-locust-plague-qld-spider-venom",
+    "environment/2025/sep/13/are-shark-attacks-on-rise-australia-what-is-being-done-reduce-risk-fatal-incidents",
+    "australia-news/2025/sep/27/mother-and-baby-whale-trapped-in-shark-net-off-queenslands-rainbow-beach",
+    "environment/2025/sep/30/whales-tangled-shark-nets-queensland-coast",
+    "environment/2025/sep/18/whale-and-calf-entangled-in-shark-net-off-queensland-australia",
+    "environment/2025/sep/09/after-a-deadly-shark-attack-in-sydney-some-are-wondering-do-shark-nets-even-work",
+    "australia-news/2025/sep/28/crisafulli-insists-on-more-shark-nets-to-protect-human-lives-despite-trapped-mother-and-baby-whale",
+    "australia-news/2025/sep/07/nsw-shark-net-reduction-trial-explainer-after-dee-why-long-reef-beach-attack"
+  ],
+  "noise": [
+    "environment/2025/sep/25/can-bite-resistant-wetsuits-help-protect-surfers-against-sharks-heres-what-australian-researchers-have-found",
+    "environment/2025/sep/30/fish-killer-problem-shark-dna-caribbean-scientists-cull-aoe"
+  ],
+  "evaluation": "This cluster effectively captures the ongoing national debate in Australia regarding shark net policies. It begins with a fatal shark attack in NSW and the subsequent decision to pause trials for net removal, highlighting public safety concerns. Simultaneously, it covers a significant increase in whale entanglements in Queensland's shark nets, leading to a strong political stance by the state premier to expand nets despite environmental concerns. The included articles provide logical timeline progression, detailing incidents, policy reactions, and scientific context, making the narrative highly relevant and synthesizable for a comprehensive story on this complex issue. Noise articles were removed due to irrelevance (different topic like wetsuit technology, or different geographical location, or unrelated subject matter).",
+  "score": 9
+}

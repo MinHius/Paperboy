@@ -1,0 +1,19 @@
+{
+  "topic": "New Zealand fugitive father Tom Phillips shot dead, children rescued after four years in wilderness.",
+  "articles": [
+    "world/2025/sep/08/tom-phillips-new-zealand-fugitive-father-shot-dead-nz-police",
+    "world/live/2025/sep/08/tom-phillips-shooting-live-updates-nz-police-search-for-children-of-fugitive-father-shot-new-zealand-police-latest-updates",
+    "world/2025/sep/09/tom-phillips-new-zealand-remote-campsite-images-pictures-revealed",
+    "world/2025/sep/13/as-a-dark-chapter-closes-nz-reckons-with-fugitive-father-tom-phillips-four-years-on-the-run-ntwnfb"
+  ],
+  "noise": [
+    "australia-news/2025/sep/11/two-victoria-police-officers-charged-with-negligent-manslaughter-luke-briggs-arrest-ntwnfb",
+    "australia-news/2025/sep/08/families-shattered-and-community-terrified-as-police-continue-to-hunt-alleged-cobblebank-machete-murderers-ntwnfb",
+    "australia-news/2025/sep/19/afternoon-update-friday-ntwnfb",
+    "uk-news/2025/sep/17/man-charged-with-of-fellow-inmate-at-hmp-exeter",
+    "us-news/2025/sep/29/d4vd-tesla-teen-girl",
+    "us-news/2025/sep/27/new-york-man-murder-confession-tv-news"
+  ],
+  "evaluation": "The cluster focuses on the continuous story of New Zealand fugitive Tom Phillips, his death in a police standoff, and the subsequent rescue of his three children after nearly four years in the wilderness. Articles detail the initial shooting (ID: world/2025/sep/08/tom-phillips-new-zealand-fugitive-father-shot-dead-nz-police, world/live/2025/sep/08/tom-phillips-shooting-live-updates-nz-police-search-for-children-of-fugitive-father-shot-new-zealand-police-latest-updates), the finding of his children and campsite details (ID: world/2025/sep/09/tom-phillips-new-zealand-remote-campsite-images-pictures-revealed), and a reflective piece providing broader context on their time on the run (ID: world/2025/sep/13/as-a-dark-chapter-closes-nz-reckons-with-fugitive-father-tom-phillips-four-years-on-the-run-ntwnfb). The timeline is logical, showing clear story development. Noise articles were removed due to irrelevance in topic, location, and non-continuous nature with the main story, including an inadequate group of two Australian murder articles which did not meet the minimum size requirement for a continuous story.",
+  "score": 10
+}

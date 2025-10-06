@@ -1,0 +1,19 @@
+{
+  "topic": "Middle East conflict escalates; Australia's diplomatic efforts towards Gaza peace plan.",
+  "articles": [
+    "australia-news/2025/sep/10/morning-mail-wednesday-ntwnfb",
+    "australia-news/2025/sep/18/morning-mail-thursday-ntwnfb",
+    "australia-news/2025/sep/22/morning-mail-monday-ntwnfb",
+    "australia-news/2025/sep/30/afternoon-update-tuesday-ntwnfb",
+    "australia-news/2025/sep/30/morning-mail-tuesday-ntwnfb"
+  ],
+  "noise": [
+    "australia-news/2025/sep/23/afternoon-update-tuesday-ntwnfb",
+    "australia-news/2025/sep/15/afternoon-update-monday-ntwnfb",
+    "australia-news/2025/sep/15/morning-mail-monday-ntwnfb",
+    "australia-news/2025/sep/09/afternoon-update-tuesday-ntwnfb",
+    "australia-news/2025/sep/16/afternoon-update-tuesday-ntwnfb"
+  ],
+  "evaluation": "The core continuous story details the escalation of the Middle East conflict, Australia's evolving diplomatic stance (criticism, recognition of Palestinian statehood), and its engagement with the Trump administration's Gaza peace plan. Articles are chronologically ordered and show clear developmental progress. Other potential stories, such as Australian climate targets, failed the initial inspection due to inadequate size (below 3 articles) when strictly assigning articles to a single primary narrative. Irrelevant articles covered unrelated topics like medical claims, media succession, and local incidents, and were therefore de-noised.",
+  "score": 9
+}

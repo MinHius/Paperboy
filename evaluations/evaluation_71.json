@@ -1,0 +1,19 @@
+{
+  "topic": "Nottinghamshire's path to winning the 2025 County Cricket Championship title.",
+  "articles": [
+    "sport/live/2025/sep/09/somerset-v-yorkshire-leicestershire-v-gloucestershire-and-more-county-cricket-day-two-live",
+    "sport/live/2025/sep/10/surrey-v-warwickshire-somerset-v-yorkshire-and-more-county-cricket-live",
+    "sport/live/2025/sep/11/worcestershire-v-nottinghamshire-surrey-v-warwickshire-and-more-county-cricket-day-four-live",
+    "sport/live/2025/sep/15/surrey-v-nottinghamshire-sussex-v-yorkshire-and-more-county-cricket-day-one-live",
+    "sport/live/2025/sep/16/surrey-v-nottinghamshire-sussex-v-yorkshire-and-more-county-cricket-day-two-live",
+    "sport/live/2025/sep/17/surrey-v-nottinghamshire-sussex-v-yorkshire-and-more-county-cricket-day-three-live",
+    "sport/live/2025/sep/18/surrey-v-nottinghamshire-somerset-v-hampshire-and-more-county-cricket-day-four-live",
+    "sport/live/2025/sep/25/nottinghamshire-close-on-title-against-warwickshire-county-cricket-final-round-live"
+  ],
+  "noise": [
+    "sport/live/2025/sep/08/county-championship-cricket-surrey-warwickshire-somerset-yorkshire-live",
+    "sport/live/2025/sep/27/hampshire-v-surrey-yorkshire-v-durham-and-more-county-cricket-final-day-live"
+  ],
+  "evaluation": "The core narrative follows Nottinghamshire's crucial ascent to winning the County Championship. Articles 8, 4, and 2 establish the context of the title race, detailing Notts' position relative to Surrey and setting up their decisive clash. Articles 7, 3, 5, and 1 provide day-by-day coverage of the pivotal Surrey vs. Nottinghamshire match, culminating in Notts' victory and a significant lead. Article 6 delivers the final outcome, confirming Nottinghamshire as County Champions. Article 10 was de-noised as it was too general, primarily focusing on earlier matches and Leicestershire's promotion without direct, continuous relevance to the Notts title push. Article 9, dated after the title win, offers a general final day summary for other teams and doesn't add developmental information to Nottinghamshire's championship story.",
+  "score": 9
+}

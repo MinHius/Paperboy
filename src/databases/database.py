@@ -1,4 +1,5 @@
 import psycopg2
+import numpy as np
 from .config_database import HOST, PORT, DB, USER, PASSWORD, INTERVAL_TIME, SIMILARITY_THRESHOLD
 
 # CONNECT
@@ -30,35 +31,47 @@ def upsert_articles(all_articles):
 # LOAD
 def load_articles(inference_time):
     sql = """
-    SELECT * FROM articles WHERE published_at BETWEEN %s::date - %s AND %s::date
+    SELECT id, title, url, section, published_at, trail_text, body, embedding
+    FROM articles 
+    WHERE published_at BETWEEN %s::date - %s AND %s::date
     """
     
     with get_connection() as conn:
         with conn.cursor() as cur:
-            cur.execute(sql, (inference_time, INTERVAL_TIME, inference_time))   
-            rows = cur.fetchall()                 
-    return rows
+            cur.execute(sql, (inference_time, INTERVAL_TIME, inference_time))
+            colnames = [desc[0] for desc in cur.description]  # get column names
+            rows = cur.fetchall()
+    
+    # turn each row into a dict
+    return [dict(zip(colnames, row)) for row in rows]
+
     
 
 # GATHER
 def search_similar_articles(clusters, threshold=SIMILARITY_THRESHOLD) -> list:
     article_groups = []
     sql = """
-    SELECT id, title, section, trail_text, body, 1 - (embedding <#> %s) AS similarity
+    SELECT id, body,
+           1 - (embedding <#> %s::vector) AS similarity
     FROM articles
-    WHERE 1 - (embedding <#> %s) >= %s
+    WHERE 1 - (embedding <#> %s::vector) >= %s
     ORDER BY similarity DESC
-    LIMIT 15;
+    LIMIT 10;
     """
     
     with get_connection() as conn:
         with conn.cursor() as cur:
-            for cluster in clusters:
-                cur.execute(sql, (cluster["centroid"], cluster["centroid"], threshold))
+            for label, cluster in clusters.items():   # <-- fix here
+                centroid = cluster["centroid"]
+                if isinstance(centroid, np.ndarray):
+                    centroid = centroid.astype(float).tolist()
+
+                cur.execute(sql, (centroid, centroid, threshold))
                 rows = cur.fetchall()
                 article_groups.append(rows)
-                print(f"Cluster {cluster}: Found {len(rows)} articles.")
+                print(f"Cluster {label}: Found {len(rows)} articles.")
         conn.commit()
     return article_groups
+
 
         

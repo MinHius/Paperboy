@@ -4,3 +4,7 @@ panda
 feedparser
 elasticsearch
 psycopg2
+numpy
+umap
+scikit-learn
+google-generativeai

@@ -1,0 +1,19 @@
+{
+  "topic": "Sky News platforming far-right extremism and its consequences in Australia",
+  "articles": [
+    "australia-news/2025/sep/04/neo-nazi-groups-should-be-treated-like-criminal-gangs-to-combat-hate-fuelled-thuggery-peak-jewish-group-says-ntwnfb",
+    "media/commentisfree/2025/sep/05/sky-news-australia-gives-neo-nazi-centre-stage-with-uninterrupted-press-conference",
+    "australia-news/2025/sep/05/afternoon-update-friday-ntwnfb",
+    "media/2025/sep/22/sky-news-australia-admits-editorial-failure-after-guest-insults-islam-while-wearing-bacon-covered-shirt",
+    "media/2025/sep/22/under-16s-may-still-see-gambling-violent-far-right-content-under-australia-social-media-ban-simply-by-not-logging-in-zero-neo-nazis",
+    "media/2025/sep/23/sky-news-australia-staffer-helped-arrange-bacon-on-guests-shirt-before-offensive-anti-islam-interview",
+    "media/2025/sep/29/sky-news-australia-program-axed-after-airing-anti-islam-guest-wearing-shirt-covered-in-bacon"
+  ],
+  "noise": [
+    "australia-news/2025/sep/28/australian-defence-force-says-no-place-for-extremists-despite-members-link-to-neo-nazi-group",
+    "australia-news/2025/sep/13/rune-megaphone-number-88-australia-neo-nazi-symbols-after-swastikas-banned-ntwnfb",
+    "news/2025/sep/22/id-rather-be-bored-than-in-danger-muslim-women-change-how-they-behave-in-public-because-of-racist-attacks-ntwnfb"
+  ],
+  "evaluation": "This cluster presents a strong, continuous story focusing on the platforming of far-right extremism in Australia and its repercussions. It tracks the controversy surrounding neo-Nazi Thomas Sewell, his alleged attack, and Sky News Australia giving him a platform (Articles 7, 1, 8). It then develops into another significant Sky News controversy involving an anti-Islam guest, detailing the editorial failure, staff involvement, and the eventual axing of the program (Articles 3, 5, 6). Article 9 broadens the discussion to the amplification of extremist figures like Sewell through social media algorithms, reinforcing the overarching theme. Articles concerning general neo-Nazi trends (Article 4), broader extremism within the ADF (Article 2), or personal experiences with racism (Article 10) were de-noised as they did not directly contribute to the specific, developmental narrative of these platforming incidents and their direct consequences.",
+  "score": 9
+}

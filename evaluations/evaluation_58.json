@@ -1,0 +1,19 @@
+{
+  "topic": "RFK Jr.'s controversial leadership, CDC turmoil, and Senate scrutiny over vaccine policies.",
+  "articles": [
+    "us-news/2025/sep/03/west-coast-alliance-trump-rfk-vaccines",
+    "us-news/2025/sep/04/rfk-jr-hearing-calls-resign-democrats",
+    "us-news/2025/sep/05/first-thing-rfk-jr-accused-of-reckless-disregard-for-science-and-the-truth-in-senate-hearing",
+    "us-news/2025/sep/05/trump-administration-news-updates-today-latest",
+    "commentisfree/2025/sep/05/rfk-jr-anti-science-agenda-us-health",
+    "us-news/2025/sep/06/jerome-adams-trump-surgeon-blasts-rfk-jr",
+    "commentisfree/2025/sep/12/rfk-jr-does-not-just-reject-vaccines-he-rejects-science-and-must-step-down",
+    "us-news/2025/sep/17/cdc-director-susan-monarez-key-takeaways",
+    "us-news/2025/sep/17/rfk-jr-senate-hearing-cdc-susan-monarez"
+  ],
+  "noise": [
+    "us-news/2025/sep/19/acip-vote-no-prescription-covid-vaccine"
+  ],
+  "evaluation": "This cluster presents a strong, continuous narrative detailing the escalating controversy surrounding Robert F. Kennedy Jr.'s role as US health secretary. It tracks the turmoil at the CDC, his controversial vaccine policies, the firing of director Susan Monarez, and the subsequent intense scrutiny from two distinct Senate hearings. The articles provide a clear chronological progression from initial reactions and policy criticisms (Sep 3-6), through calls for resignation (Sep 12), to official testimony from former CDC leaders in Senate hearings (Sep 17). Article 'us-news/2025/sep/19/acip-vote-no-prescription-covid-vaccine' was de-noised as it focuses on a specific ACIP policy vote which, while broadly related to vaccine policy, does not directly advance the core narrative of RFK Jr.'s personal controversies, his leadership's impact, or the Senate's investigation.",
+  "score": 9
+}

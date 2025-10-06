@@ -1,4 +1,3 @@
-import logging
 from typing import TypedDict
 import numpy as np
 import umap
@@ -14,7 +13,6 @@ from .config_cluster import (
     HDBSCAN_MIN_CLUSTER_SIZE,
     HDBSCAN_MIN_SAMPLES,
     HDBSCAN_METRIC,
-    CLUSTER_MERGE_THRESHOLD,
 )
 
 from .utils_clstr import articles_centroid
@@ -31,7 +29,7 @@ def reduce_dimensions(
         min_dist=UMAP_MIN_DIST,
         metric=UMAP_METRIC,
         verbose=False,
-        random_state=UMAP_RANDOM_STATE if seeding else None,
+        random_state=UMAP_RANDOM_STATE,
     )
     reduced = reducer.fit_transform(embeddings)
     return np.array(reduced, dtype=np.float32)
@@ -44,6 +42,7 @@ def _perform_clustering(
     min_samples=HDBSCAN_MIN_SAMPLES,
 ) -> dict:
     """Internal function to perform HDBSCAN clustering with configurable parameters."""
+    
     clusterer = HDBSCAN(
         min_cluster_size=min_cluster_size,
         min_samples=min_samples,

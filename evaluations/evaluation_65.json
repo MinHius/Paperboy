@@ -1,0 +1,19 @@
+{
+  "topic": "Coverage of the 2025 Emmy Awards, from predictions to winners and post-show analysis.",
+  "articles": [
+    "tv-and-radio/2025/sep/13/emmys-2025-predictions-winners",
+    "tv-and-radio/2025/sep/14/emmys-2025-full-list-of-winners",
+    "tv-and-radio/2025/sep/14/emmy-awards-2025-winners-adolescence-the-studio",
+    "tv-and-radio/2025/sep/15/forget-adolescence-this-is-the-real-victory-the-biggest-shocks-from-the-emmy-awards",
+    "tv-and-radio/live/2025/sep/14/emmys-2025-winners-losers-severance-the-studio-white-lotus-speeches-live-updates",
+    "tv-and-radio/2025/sep/15/emmys-2025-adolescence-star-owen-cooper-makes-history-as-youngest-ever-winner-for-best-supporting-actor-in-a-limited-series"
+  ],
+  "noise": [
+    "film/2025/sep/12/film-festival-premieres-promise-a-history-making-oscars-showdown",
+    "australia-news/2025/sep/15/afternoon-update-monday-ntwnfb",
+    "tv-and-radio/2025/sep/30/the-simpsons-movie-2-sequel-release-date-returns-2027",
+    "film/2025/sep/14/hamnet-wins-top-award-toronto-film-festival"
+  ],
+  "evaluation": "This cluster forms a highly continuous story about the 2025 Emmy Awards. It progresses logically from pre-show predictions, through the announcement of winners and live event coverage, to post-show analysis and highlights of significant achievements like Owen Cooper's historic win and 'Adolescence's' triumph. Articles not related to the Emmys, such as film festivals, climate change, or other entertainment news, were identified and removed as noise. The remaining articles are strictly relevant and suitable for synthesis.",
+  "score": 9
+}

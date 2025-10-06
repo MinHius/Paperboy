@@ -1,0 +1,18 @@
+{
+  "topic": "Trump's controversial claims linking Tylenol to autism and the widespread scientific and political backlash.",
+  "articles": [
+    "us-news/2025/sep/22/trump-administration-autism-causes",
+    "us-news/2025/sep/22/trump-tylenol-experts-autism",
+    "us-news/2025/sep/22/trump-tylenol-autism-women",
+    "us-news/2025/sep/23/share-your-reaction-to-trumps-comments-about-pregnant-women-tylenol-and-autism",
+    "us-news/2025/sep/21/trump-officials-tylenol-autism",
+    "world/2025/sep/24/world-health-organization-trump-autism-tylenol",
+    "australia-news/2025/sep/23/australian-health-experts-warns-trumps-unfounded-claims-about-paracetamol-may-harm-pregnant-women",
+    "us-news/2025/oct/02/trump-tylenol-autism-expert-analysis",
+    "us-news/2025/sep/24/obama-says-trump-linking-paracetamol-to-autism-is-violence-against-the-truth",
+    "politics/2025/sep/23/wes-streeting-rejects-trump-claim-linking-paracetamol-and-autism"
+  ],
+  "noise": [],
+  "evaluation": "This cluster presents a robust and continuous narrative surrounding President Trump's highly controversial claims linking acetaminophen (Tylenol/paracetamol) use during pregnancy to autism. The story begins with a pre-announcement leak (Sep 21), progresses through the official announcement and immediate scientific backlash (Sep 22), widens to international expert and political condemnation (Sep 23-24), and concludes with an expert analysis debunking the administration's subsequent attempts to provide scientific justification (Oct 02). All articles are strictly relevant, developmental, and form a coherent, informative timeline without any noise.",
+  "score": 10
+}

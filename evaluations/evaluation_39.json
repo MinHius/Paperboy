@@ -1,0 +1,19 @@
+{
+  "topic": "Australia's eSafety efforts on child online safety and social media ban.",
+  "articles": [
+    "australia-news/2025/sep/08/big-tech-not-stopping-online-sharing-of-child-abuse-images-esafety-commissioner-says-amid-new-online-codes",
+    "australia-news/2025/sep/13/australias-esafety-watchdog-tells-social-media-giants-to-shield-kids-from-gruesome-kirk-shooting-footage",
+    "news/2025/sep/19/how-accurate-are-age-checks-for-australias-under-16s-social-media-ban-what-trial-data-reveals",
+    "media/2025/sep/22/under-16s-may-still-see-gambling-violent-far-right-content-under-australia-social-media-ban-simply-by-not-logging-in-zero-neo-nazis",
+    "media/2025/sep/24/australia-under-16-social-media-ban-could-extend-reddit-twitch-roblox-lego-play-steam-dating-apps"
+  ],
+  "noise": [
+    "technology/2025/sep/21/chatbot-site-depicting-child-sexual-abuse-images-raises-fears-over-misuse-of-ai",
+    "technology/2025/sep/26/kido-nursery-hackers-radiant-threaten-publish-children-profiles",
+    "technology/2025/sep/25/instagram-risk-children-safety-tools-meta",
+    "australia-news/2025/sep/15/secret-rating-system-kept-parents-in-dark-about-allegations-of-abuse-at-nsw-childcare-centre-ntwnfb",
+    "technology/2025/sep/17/chatgpt-developing-age-verification-system-to-identify-under-18-users-after-teen-death"
+  ],
+  "evaluation": "The core cluster focuses on Australia's eSafety Commissioner's efforts to regulate online platforms for child safety, particularly concerning the under-16 social media ban. Articles detail initial criticisms, specific interventions, technical challenges of age verification, loopholes in the ban's effectiveness, and its scope. Other articles related to AI chatbot misuse (globally), general Instagram safety, and offline child protection/data breaches were de-noised as they did not directly contribute to this specific, continuous narrative of Australian regulatory developments.",
+  "score": 10
+}
