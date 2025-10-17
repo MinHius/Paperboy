@@ -12,7 +12,6 @@ ORDER BY embedding <=> %s::vector
 LIMIT %s;
 """
 
-
 SEARCH_HYBRID = """
 WITH bm25_ranked AS (
     SELECT id, title, section, trail_text, RANK() OVER (ORDER BY score DESC) AS rank
