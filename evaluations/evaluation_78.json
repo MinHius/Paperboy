@@ -1,9 +1,9 @@
 {
-  "topic": "Australian Bird of the Year 2025: Poll launch and engagement activities",
+  "topic": "Australian Bird of the Year 2025 Poll Launch and Public Engagement",
   "articles": [
     "environment/2025/sep/14/australian-bird-of-the-year-2025-poll-vote-nominate-shortlist-guardian-birdlife-australia",
-    "environment/2025/sep/16/australian-bird-of-the-year-2025-colouring-in-sheets-create-your-own-bird-art-pete-cromer",
-    "environment/2025/sep/27/make-your-own-origami-bird-simple-guide-australian-bird-of-the-year-2025"
+    "environment/2025/sep/27/make-your-own-origami-bird-simple-guide-australian-bird-of-the-year-2025",
+    "environment/2025/sep/16/australian-bird-of-the-year-2025-colouring-in-sheets-create-your-own-bird-art-pete-cromer"
   ],
   "noise": [
     "australia-news/2025/sep/17/pets-will-soon-be-allowed-virgin-flights-how-will-it-work-when-which-animals-cost",
@@ -14,6 +14,6 @@
     "world/2025/sep/29/new-zealand-bird-of-the-year-2025-karearea-falcon-nz-winner",
     "environment/2025/sep/15/scientists-fear-this-cute-and-chonky-flying-fox-could-be-one-cyclone-away-from-extinction"
   ],
-  "evaluation": "The cluster successfully identifies a continuous, developmental story centered around the 'Australian Bird of the Year 2025' event. The articles track the poll's announcement and call for nominations (Sep 14), followed by public engagement activities such as the release of colouring sheets (Sep 16) and an origami guide (Sep 27). These articles are strictly relevant, informative, and show a logical progression over time, making them highly synthesizable. Noise articles were removed because they cover unrelated topics like pets on flights, specific bird/animal conservation efforts not tied to the 'Bird of the Year' event, general birdwatching, or a different country's 'Bird of the Year' competition.",
-  "score": 9
+  "evaluation": "This cluster successfully identifies a continuous story focusing on the Australian Bird of the Year 2025 poll. The articles detail the poll's introduction, nomination process, and public engagement activities, such as craft guides and colouring sheets, providing a clear and logical progression of event coverage. Noise articles were removed due to irrelevance, covering topics like pet travel, unrelated bird conservation efforts, general birdwatching, marine mammal conservation, or bird of the year events from different countries (New Zealand), which do not form a continuous narrative with the Australian poll.",
+  "score": 10
 }

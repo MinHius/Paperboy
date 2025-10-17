@@ -46,7 +46,6 @@ def load_articles(inference_time):
     return [dict(zip(colnames, row)) for row in rows]
 
     
-
 # GATHER
 def search_similar_articles(clusters, threshold=SIMILARITY_THRESHOLD) -> list:
     article_groups = []
@@ -68,7 +67,7 @@ def search_similar_articles(clusters, threshold=SIMILARITY_THRESHOLD) -> list:
 
                 cur.execute(sql, (centroid, centroid, threshold))
                 rows = cur.fetchall()
-                article_groups.append(rows)
+                article_groups.append([centroid, rows])
                 print(f"Cluster {label}: Found {len(rows)} articles.")
         conn.commit()
     return article_groups

@@ -1,19 +1,19 @@
 {
-  "topic": "London Fashion Week: UK industry revival, key shows, and cultural significance.",
+  "topic": "London Fashion Week 2025: Strategy, Major Brands, and Cultural Impact",
   "articles": [
     "fashion/2025/sep/19/london-fashion-week-aims-to-restore-sectors-role-as-uk-economic-powerhouse",
-    "business/2025/sep/17/marks-spencer-womenswear-revive-autumn-fortunes",
-    "fashion/2025/sep/22/london-fashion-weeks-headline-act-suggests-its-blue-skies-ahead-at-burberry",
-    "news/2025/sep/24/the-long-wave-black-fashion-britain-foday-dumbuya"
+    "news/2025/sep/24/the-long-wave-black-fashion-britain-foday-dumbuya",
+    "fashion/2025/sep/22/london-fashion-weeks-headline-act-suggests-its-blue-skies-ahead-at-burberry"
   ],
   "noise": [
     "fashion/2025/sep/25/prada-glamour-utilitarian-collection-uniform-milan-fashion-week",
     "fashion/2025/sep/15/cos-new-york-fashion-week-gwyneth-paltrow-rebrands",
     "fashion/2025/sep/30/saint-laurent-ysl-old-threads-spins-something-new-paris-anthony-vaccarello",
     "fashion/2025/sep/11/its-a-celebration-of-all-the-creativity-in-the-north-of-england-the-return-of-manchester-fashion-week",
+    "business/2025/sep/17/marks-spencer-womenswear-revive-autumn-fortunes",
     "commentisfree/2025/sep/22/dark-academia-medievalcore-fashion-embracing-need-escapism",
     "fashion/2025/sep/16/baggy-jeans-workwear-grit-luxury-reimagined-coach-new-york-fashion-week"
   ],
-  "evaluation": "This cluster effectively captures the continuous story of London Fashion Week in September 2025. Article 'fashion/2025/sep/19' sets the strategic context of the BFC's efforts to boost the UK fashion industry. Article 'business/2025/sep/17' provides a commercial prelude to LFW with M&S's new collection. Article 'fashion/2025/sep/22' details a major event within LFW, focusing on Burberry's show and its corporate recovery. Finally, 'news/2025/sep/24' adds a vital cultural dimension by highlighting Black designers like Labrum during the week. The timeline is logical, showing a progression from pre-event buzz to key events. Noise articles were removed as they pertain to other fashion weeks (Milan, New York, Paris, Manchester) or general, unconnected fashion trends.",
-  "score": 9
+  "evaluation": "The core cluster focuses on London Fashion Week (LFW) in September 2025. Article 3 outlines LFW's strategic goals under new leadership. Article 8 details Burberry's significant show and financial recovery during LFW. Article 5 highlights the cultural importance of Black designers at LFW. These articles are de-noised from others covering different fashion weeks (Milan, New York, Paris, Manchester) or general fashion trends, ensuring a tight, continuous narrative about LFW. The timeline is logical, covering different aspects of the same event within the same period.",
+  "score": 10
 }

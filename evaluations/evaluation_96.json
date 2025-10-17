@@ -1,5 +1,5 @@
 {
-  "topic": "Keir Starmer's UK digital ID plan: announcement, civil liberties, and cybersecurity debate.",
+  "topic": "Keir Starmer's UK Digital ID Plan: Announcement, Controversies, and Public Reaction",
   "articles": [
     "politics/2025/sep/26/share-your-thoughts-on-plans-for-a-uk-digital-id-scheme",
     "politics/2025/sep/26/why-does-the-uk-need-digital-ids-and-what-data-will-they-include",
@@ -8,12 +8,12 @@
     "politics/2025/sep/29/mixed-feelings-on-labours-plan-for-mandatory-digital-id",
     "politics/2025/sep/25/digital-id-cards-a-versatile-and-useful-tool-or-a-worrying-cybersecurity-risk",
     "politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
-    "uk-news/2025/sep/26/keir-starmers-plan-for-digital-ids-risks-creating-an-enormous-hacking-target",
-    "commentisfree/2025/sep/26/digital-id-cards-reform-government-civil-liberties-trump-america"
+    "uk-news/2025/sep/26/keir-starmers-plan-for-digital-ids-risks-creating-an-enormous-hacking-target"
   ],
   "noise": [
-    "politics/live/2025/sep/25/andy-burnham-steve-reed-keir-starmer-labour-news-updates-uk-politics-live"
+    "politics/live/2025/sep/25/andy-burnham-steve-reed-keir-starmer-labour-news-updates-uk-politics-live",
+    "commentisfree/2025/sep/26/digital-id-cards-reform-government-civil-liberties-trump-america"
   ],
-  "evaluation": "The core cluster focuses on Keir Starmer's announcement of a mandatory digital ID scheme, covering its details, historical context (revival of Blair's policy), rationale, and immediate reactions. Key themes include civil liberties concerns, cybersecurity risks, political opposition and support, and public opinion. Article 'politics/live/2025/sep/25/andy-burnham-steve-reed-keir-starmer-labour-news-updates-uk-politics-live' was identified as noise due to its sole focus on Starmer's comments on Andy Burnham's economic views, which is entirely unrelated to the digital ID scheme. The remaining articles demonstrate strong continuity and developmental potential, progressing from the initial announcement to public and expert reactions, making them highly synthesizable and informative.",
+  "evaluation": "This cluster effectively tracks the announcement and initial reception of Keir Starmer's proposed UK digital ID scheme. The articles comprehensively cover the plan's details, rationale, historical context, immediate political reactions, and significant concerns regarding civil liberties and cybersecurity. Article 'politics/live/2025/sep/25/andy-burnham-steve-reed-keir-starmer-labour-news-updates-uk-politics-live' was de-noised as it discusses an unrelated political dispute between Starmer and Andy Burnham. Article 'commentisfree/2025/sep/26/digital-id-cards-reform-government-civil-liberties-trump-america' was also de-noised as it offers a broader political critique of Starmer's immigration stance, rather than directly developing the digital ID story. The remaining articles form a highly cohesive, time-continuous narrative suitable for synthesis.",
   "score": 9
 }

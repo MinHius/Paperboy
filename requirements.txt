@@ -8,3 +8,5 @@ numpy
 umap
 scikit-learn
 google-generativeai
+fastapi
+uvicorn

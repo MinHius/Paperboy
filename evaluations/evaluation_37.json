@@ -1,5 +1,5 @@
 {
-  "topic": "Disparate obituaries for various public figures, lacking continuity for a single story.",
+  "topic": "Various obituaries; no continuous or developmental story detected",
   "articles": [],
   "noise": [
     "media/2025/sep/21/broadcaster-john-stapleton-dies-aged-79",
@@ -13,6 +13,6 @@
     "artanddesign/2025/sep/15/eden-project-architect-nicholas-grimshaw-dies-aged-85",
     "film/2025/sep/25/henry-jaglom-fiercely-independent-director-and-friend-of-orson-welles-dies-aged-87"
   ],
-  "evaluation": "The cluster consists solely of individual obituaries for different public figures across various fields (broadcasting, sport, arts, science, etc.). There is no continuous, developmental, or shared narrative connecting these articles. Each article reports a distinct, unrelated event, failing to meet the minimum size requirement of three interconnected articles for a potential continuous story. Consequently, all articles are classified as noise as they do not contribute to a synthesizable, evolving narrative.",
-  "score": 1
+  "evaluation": "The cluster consists of individual articles announcing the deaths of various public figures, including broadcasters, athletes, artists, and scientists. Each article reports on a distinct event (a different person's death) and does not relate to or develop any other article within the cluster. No continuous, developmental, or strictly relevant narrative could be identified across these articles. As such, no qualified group of adequate size (minimum 3 articles) could be formed for synthesis. All articles are considered noise in the context of forming a singular, evolving story from this cluster.",
+  "score": 0
 }

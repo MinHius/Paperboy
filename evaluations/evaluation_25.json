@@ -1,5 +1,5 @@
 {
-  "topic": "Bolsonaro's Coup Trial: From Anticipation to Conviction and Aftermath",
+  "topic": "Jair Bolsonaro convicted for coup attempt in Brazil and its aftermath.",
   "articles": [
     "world/2025/sep/07/hes-our-last-resort-bolsonaro-supporters-beg-trump-to-intervene-in-ex-presidents-coup-trial",
     "world/2025/sep/09/brazil-jair-bolsonaro-trial",
@@ -10,10 +10,10 @@
     "commentisfree/2025/sep/12/the-guardian-view-on-bolsonaros-coup-conviction-a-landmark-for-brazilian-democracy-but-this-fight-isnt-over"
   ],
   "noise": [
+    "world/2025/sep/08/judge-alexandre-de-moraes-jair-bolsonaro-trial",
     "world/2025/sep/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-trial",
-    "world/2025/sep/16/bolsonaro-damages-brazil",
-    "world/2025/sep/08/judge-alexandre-de-moraes-jair-bolsonaro-trial"
+    "world/2025/sep/16/bolsonaro-damages-brazil"
   ],
-  "evaluation": "This cluster successfully captures the continuous and developmental story of Jair Bolsonaro's coup trial. The articles logically progress from the lead-up and final stages of the trial (Sep 7, 9) to the definitive conviction and sentencing (Sep 11), followed by an explainer, public reactions, and political analysis (Sep 11, 12). Noise articles were removed for being entirely irrelevant (Sarkozy trial), covering a separate legal matter concerning Bolsonaro (racist remarks damages), or focusing on a human interest aspect of a key figure rather than the direct progression of the coup storyline (Judge Moraes's celebrity).",
-  "score": 10
+  "evaluation": "This cluster effectively tracks the continuous story of Jair Bolsonaro's coup trial and conviction in Brazil. Articles progress from pre-verdict anticipation, through the judicial process and final sentencing, to immediate public reaction and political analysis. Noise articles include a profile piece on the judge (world/2025/sep/08/judge-alexandre-de-moraes-jair-bolsonaro-trial), a completely unrelated international legal case (world/2025/sep/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-trial), and a separate legal ruling against Bolsonaro for racist remarks (world/2025/sep/16/bolsonaro-damages-brazil) which, while involving Bolsonaro, is not a direct development of the coup trial narrative.",
+  "score": 9
 }

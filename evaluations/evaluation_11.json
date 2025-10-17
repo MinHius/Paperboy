@@ -1,5 +1,5 @@
 {
-  "topic": "England's triumphant Rugby World Cup 2025 campaign, from quarterfinals to championship.",
+  "topic": "England's triumphant journey to winning the 2025 Women's Rugby World Cup.",
   "articles": [
     "sport/live/2025/sep/06/england-v-australia-womens-rugby-world-cup-rugby-union-live",
     "sport/live/2025/sep/14/england-v-scotland-womens-rugby-world-cup-2025-quarter-final-live",
@@ -13,6 +13,6 @@
     "sport/2025/sep/28/exciting-attack-clear-culture-and-a-new-captain-how-england-won-rugby-world-cup"
   ],
   "noise": [],
-  "evaluation": "The cluster provides a comprehensive and continuous narrative of the England Women's Rugby World Cup 2025 journey. Articles cover the group stage (vs Australia), quarter-final (vs Scotland), semi-final preview and live report (vs France), final previews (vs Canada, redemption, mainstream impact), live final report, match report (vs Canada), and post-final analysis. All articles are strictly relevant, chronological, and demonstrate clear developmental potential, allowing for a synthesizable story of England's path to becoming world champions. No articles were deemed noisy or irrelevant.",
+  "evaluation": "This cluster chronicles England's complete journey through the 2025 Women's Rugby World Cup, from an early group stage match (Australia), through quarter-final (Scotland) and semi-final (France), to their ultimate triumph in the final (Canada) and post-victory analysis. All articles are highly relevant, strictly continuous, developmental, and chronologically follow the tournament's progression, offering a comprehensive narrative of their championship win. No articles were de-noised as all contribute significantly to the story.",
   "score": 10
 }

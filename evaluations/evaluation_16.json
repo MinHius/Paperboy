@@ -1,5 +1,5 @@
 {
-  "topic": "Rachel Roddy's ongoing series of everyday and weekly meal recipes.",
+  "topic": "Rachel Roddy's Latest Recipes and Everyday Cooking Insights",
   "articles": [
     "food/2025/sep/11/parcel-baked-fish-tomatoes-olives-capers-al-cartoccio-rachel-roddy",
     "food/2025/sep/18/lasagne-courgette-three-cheeses-recipe-rachel-roddy",
@@ -14,6 +14,6 @@
     "food/2025/oct/01/how-to-turn-blackberries-into-chocolate-cake-recipe-zero-waste-cooking",
     "food/2025/sep/22/quick-and-easy-ricotta-fritters-recipe-sage-butter-rukmini-iyer"
   ],
-  "evaluation": "This cluster of articles focuses on Rachel Roddy's continuous contributions to everyday cooking. Article 'feast-everyday-hero-weekly-recipes-rachel-roddy' explicitly frames the narrative around the challenge of finding 'week-in, week-out meal suggestions', making the preceding and subsequent recipes ('parcel-baked-fish', 'lasagne', 'store-cupboard-spaghetti', 'pizzette') highly relevant as practical solutions and examples within her column. The other articles by different authors or on disparate themes (e.g., specific event recipes, zero-waste tips by other writers, different author recipes) were de-noised due to lacking direct continuity or developmental narrative with Roddy's specific series.",
-  "score": 8
+  "evaluation": "This cluster effectively captures a continuous story centered around Rachel Roddy's recipe contributions and food writing. All selected articles are either direct recipes or discussions about her ongoing work as a food writer, creating a cohesive narrative. The inclusion of 'food/2025/sep/23/feast-everyday-hero-weekly-recipes-rachel-roddy' further contextualizes her regular contributions, indicating developmental potential as her book with 120 recipes is mentioned. Noise articles were de-noised due to featuring different authors, distinct thematic focuses (e.g., zero-waste cooking), or being multi-author recipe compilations that do not fit the strict continuous story requirement for a single author.",
+  "score": 9
 }

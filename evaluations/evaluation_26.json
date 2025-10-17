@@ -1,5 +1,5 @@
 {
-  "topic": "Arsenal's recent Champions League and Premier League performances and reactions.",
+  "topic": "Arsenal's recent match performance and post-game reactions from manager and key players.",
   "articles": [
     "football/live/2025/sep/16/athletic-bilbao-v-arsenal-champions-league-live-score-updates",
     "football/live/2025/sep/21/arsenal-v-manchester-city-premier-league-live-score-updates",
@@ -14,6 +14,6 @@
     "football/live/2025/oct/01/barcelona-v-psg-monaco-v-manchester-city-and-more-champions-league-and-championship-live",
     "football/live/2025/sep/30/chelsea-v-benfica-bodglimt-v-tottenham-and-more-champions-league-live"
   ],
-  "evaluation": "The identified core cluster of four articles provides a continuous and developmental narrative about Arsenal's performance across Champions League and Premier League fixtures from mid-September to early October 2025. The articles feature post-match comments from manager Mikel Arteta and key players like Gabriel Martinelli and Martin Odegaard, offering insights into the team's form, resilience, and specific match outcomes. The timeline is logical and the content is strictly relevant and synthesizable. The remaining six articles were de-noised as they focused on other teams, different competitions, or were general roundups lacking specific developmental context for the Arsenal narrative.",
+  "evaluation": "This cluster focuses on Arsenal's recent football matches between mid-September and early October 2025. The core articles detail post-match comments from manager Mikel Arteta and key players like Martin Odegaard and Gabriel Martinelli following Champions League and Premier League fixtures. These articles are highly relevant as they track Arsenal's performance and internal reactions over a continuous period, offering insights into their form, challenges, and successes. All articles not pertaining to Arsenal's specific matches and direct commentary were de-noised, as they covered other teams and unrelated fixtures, preventing the formation of a cohesive, single-team narrative.",
   "score": 9
 }

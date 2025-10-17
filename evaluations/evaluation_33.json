@@ -1,5 +1,5 @@
 {
-  "topic": "US-China TikTok deal progresses, details on investors and ownership emerge.",
+  "topic": "US-China TikTok deal evolves with executive orders and new investor details.",
   "articles": [
     "technology/2025/sep/15/trump-china-tiktok-sale-ban",
     "world/2025/sep/17/trump-celebrates-tiktok-deal-as-beijing-suggests-us-app-would-use-chinas-algorithm",
@@ -14,6 +14,6 @@
   "noise": [
     "business/live/2025/sep/15/uk-house-prices-drop-tax-budget-rents-financial-markets-business-live-news-updates"
   ],
-  "evaluation": "This cluster provides a highly continuous and developmental story chronicling the US-China deal for TikTok's US operations. It logically progresses from the initial framework agreement (Sep 15) and President Trump's subsequent announcements (Sep 17, 19), through the naming of key potential investors like Oracle and the Murdochs (Sep 21), to the signing of the executive order and detailed ownership structures including an Abu Dhabi stake (Sep 22-26). Each article adds significant, distinct information to the evolving narrative, making the sequence informative and comprehensive. Article 'business/live/2025/sep/15/uk-house-prices-drop-tax-budget-rents-financial-markets-business-live-news-updates' was de-noised as it is a general business live blog with a brief, redundant mention of the TikTok framework deal already covered more extensively by a dedicated article (technology/2025/sep/15/trump-china-tiktok-sale-ban). Its primary focus is not the TikTok story.",
+  "evaluation": "This cluster provides a strong, continuous narrative detailing the evolving US-China TikTok deal. The articles chronologically outline the initial framework agreement, presidential announcements, Xi Jinping's approval, the signing of an executive order, the naming of key investors (Oracle, Murdochs), the deal's structure, and the final inclusion of an Abu Dhabi royal family stake. Article 5 was de-noised due to its high redundancy with Article 4, providing virtually identical information on the same day without adding new, unique developmental content essential for synthesis.",
   "score": 9
 }

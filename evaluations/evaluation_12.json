@@ -1,19 +1,19 @@
 {
-  "topic": "Brisbane Lions' Back-to-Back AFL Premiership Win in 2025",
+  "topic": "2025 AFL Grand Final: Brisbane Lions claim back-to-back premierships against Geelong Cats.",
   "articles": [
-    "sport/live/2025/sep/27/afl-grand-final-2025-live-updates-geelong-vs-lions-blog-scores-results-start-time-cats-v-lions-mcg",
-    "sport/blog/2025/sep/27/afl-2025-grand-final-brisbane-lions-v-geelong-cats-decider",
-    "sport/2025/sep/27/afl-grand-final-winner-results-geelong-cats-vs-brisbane-lions-match-report",
     "sport/2025/sep/22/afl-grand-final-2025-ultimate-guide-to-flag-decider-between-geelong-brisbane",
-    "sport/blog/2025/sep/28/lions-in-dreamland-as-staggering-second-half-delivers-grand-final-glory-to-brisbane",
+    "sport/blog/2025/sep/27/afl-2025-grand-final-brisbane-lions-v-geelong-cats-decider",
+    "sport/live/2025/sep/27/afl-grand-final-2025-live-updates-geelong-vs-lions-blog-scores-results-start-time-cats-v-lions-mcg",
+    "sport/2025/sep/27/afl-grand-final-winner-results-geelong-cats-vs-brisbane-lions-match-report",
+    "sport/blog/2025/sep/28/lions-in-dreamland-as-staggering-second-half-delivers-grand-final-glory-to-brisbane"
+  ],
+  "noise": [
     "sport/2025/sep/16/afl-finals-geelong-cats-v-hawthorn-hawks-preliminary-final-guide",
     "sport/live/2025/sep/19/afl-2025-first-preliminary-final-geelong-cats-v-hawthorn-hawks-live",
+    "sport/blog/2025/sep/12/adelaides-chance-to-break-streak-of-sadness-is-at-hand-in-this-years-afl-finals",
     "sport/blog/2025/sep/09/afl-finals-brisbane-lions-v-hawthorn-hawks-semi-final-guide",
     "sport/live/2025/sep/13/afl-2025-second-semi-final-brisbane-v-gold-coast-live"
   ],
-  "noise": [
-    "sport/blog/2025/sep/12/adelaides-chance-to-break-streak-of-sadness-is-at-hand-in-this-years-afl-finals"
-  ],
-  "evaluation": "This cluster provides a comprehensive, continuous narrative of the 2025 AFL Grand Final, focusing on the Brisbane Lions' journey to their back-to-back premiership against the Geelong Cats. The articles chronologically cover the preliminary stages of the finals (Brisbane's semi-final win, Geelong's preliminary final win), leading to the Grand Final preview, live coverage, detailed match report, and post-game analysis of Brisbane's victory. The timeline is logical, starting from early September leading up to the Grand Final on September 27th and analysis on September 28th. One article concerning Adelaide's finals chances and the Phil Walsh story was de-noised as it was not directly relevant to the specific narrative of the Geelong vs. Brisbane Grand Final.",
+  "evaluation": "The core cluster focuses on the 2025 AFL Grand Final between Geelong and Brisbane, providing a clear chronological narrative from pre-game guides to post-match analysis. The articles detail the anticipation, the live event, the final result, and immediate reactions to Brisbane's second consecutive premiership. Noise articles were removed as they covered preliminary/semi-final matches (which did not form a group of adequate size 3 or more) or were entirely irrelevant to the main Grand Final event (Adelaide Crows story). The remaining articles form a highly coherent and developmental story.",
   "score": 10
 }

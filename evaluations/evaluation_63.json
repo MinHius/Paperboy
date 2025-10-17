@@ -1,19 +1,19 @@
 {
-  "topic": "Australia's ongoing shark net debate: fatal attacks vs. whale entanglements and policy disputes.",
+  "topic": "Australia's shark net debate: fatal attack in NSW and whale entanglements in QLD.",
   "articles": [
-    "australia-news/2025/sep/13/queensland-locust-plague-qld-spider-venom",
-    "environment/2025/sep/13/are-shark-attacks-on-rise-australia-what-is-being-done-reduce-risk-fatal-incidents",
-    "australia-news/2025/sep/27/mother-and-baby-whale-trapped-in-shark-net-off-queenslands-rainbow-beach",
-    "environment/2025/sep/30/whales-tangled-shark-nets-queensland-coast",
-    "environment/2025/sep/18/whale-and-calf-entangled-in-shark-net-off-queensland-australia",
+    "australia-news/2025/sep/07/nsw-shark-net-reduction-trial-explainer-after-dee-why-long-reef-beach-attack",
     "environment/2025/sep/09/after-a-deadly-shark-attack-in-sydney-some-are-wondering-do-shark-nets-even-work",
+    "environment/2025/sep/13/are-shark-attacks-on-rise-australia-what-is-being-done-reduce-risk-fatal-incidents",
+    "environment/2025/sep/18/whale-and-calf-entangled-in-shark-net-off-queensland-australia",
+    "australia-news/2025/sep/27/mother-and-baby-whale-trapped-in-shark-net-off-queenslands-rainbow-beach",
     "australia-news/2025/sep/28/crisafulli-insists-on-more-shark-nets-to-protect-human-lives-despite-trapped-mother-and-baby-whale",
-    "australia-news/2025/sep/07/nsw-shark-net-reduction-trial-explainer-after-dee-why-long-reef-beach-attack"
+    "environment/2025/sep/30/whales-tangled-shark-nets-queensland-coast"
   ],
   "noise": [
     "environment/2025/sep/25/can-bite-resistant-wetsuits-help-protect-surfers-against-sharks-heres-what-australian-researchers-have-found",
-    "environment/2025/sep/30/fish-killer-problem-shark-dna-caribbean-scientists-cull-aoe"
+    "environment/2025/sep/30/fish-killer-problem-shark-dna-caribbean-scientists-cull-aoe",
+    "australia-news/2025/sep/13/queensland-locust-plague-qld-spider-venom"
   ],
-  "evaluation": "This cluster effectively captures the ongoing national debate in Australia regarding shark net policies. It begins with a fatal shark attack in NSW and the subsequent decision to pause trials for net removal, highlighting public safety concerns. Simultaneously, it covers a significant increase in whale entanglements in Queensland's shark nets, leading to a strong political stance by the state premier to expand nets despite environmental concerns. The included articles provide logical timeline progression, detailing incidents, policy reactions, and scientific context, making the narrative highly relevant and synthesizable for a comprehensive story on this complex issue. Noise articles were removed due to irrelevance (different topic like wetsuit technology, or different geographical location, or unrelated subject matter).",
+  "evaluation": "The main story centers on the unfolding debate and policy decisions surrounding shark nets in Australia. This includes the immediate aftermath of a fatal shark attack in New South Wales leading to the pause of a net reduction trial, and a series of whale entanglements in Queensland's shark nets prompting the Premier to reaffirm his commitment to the program despite environmental concerns and scientific explanations. Article 'environment/2025/sep/25/can-bite-resistant-wetsuits-help-protect-surfers-against-sharks-heres-what-australian-researchers-have-found' was de-noised as it discusses a general shark bite prevention method (wetsuits) and does not directly contribute to the continuous narrative of incidents, policy responses, or the core debate surrounding shark nets. Articles 'environment/2025/sep/30/fish-killer-problem-shark-dna-caribbean-scientists-cull-aoe' and 'australia-news/2025/sep/13/queensland-locust-plague-qld-spider-venom' were de-noised for being entirely irrelevant, one covering shark incidents in the Caribbean and the other a locust plague.",
   "score": 9
 }

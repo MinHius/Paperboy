@@ -1,19 +1,19 @@
 {
-  "topic": "Escalating Protests and Arrests Against Palestine Action Ban",
+  "topic": "Escalating protests, arrests, and legal challenges following Palestine Action ban.",
   "articles": [
-    "world/2025/sep/06/police-make-arrests-at-london-palestine-action-ban-protest",
     "uk-news/2025/sep/07/almost-900-people-arrested-at-palestine-action-protest-say-met-police",
     "uk-news/2025/sep/12/week-protests-palestine-action-ban-begin-labour-conference",
-    "uk-news/2025/sep/28/arrests-palestine-action-protest-labour-party-conference",
+    "uk-news/2025/sep/25/fate-of-hundreds-arrested-for-alleged-palestine-action-support-in-limbo-if-challenge-to-ban-is-blocked-court-told",
     "uk-news/2025/sep/29/police-arrest-people-palestine-action-rally-labour-conference",
     "uk-news/2025/oct/01/palestine-action-protest-london-could-set-record-number-arrests-say-organisers",
     "uk-news/2025/oct/02/police-ask-for-palestine-action-protest-to-be-postponed-to-free-up-officers-in-wake-of-terror-attack"
   ],
   "noise": [
+    "uk-news/2025/sep/28/arrests-palestine-action-protest-labour-party-conference",
     "uk-news/2025/sep/27/palestine-action-protest-terrorism-uk-prisons",
-    "uk-news/2025/sep/25/fate-of-hundreds-arrested-for-alleged-palestine-action-support-in-limbo-if-challenge-to-ban-is-blocked-court-told",
+    "world/2025/sep/06/police-make-arrests-at-london-palestine-action-ban-protest",
     "politics/2025/sep/19/labour-rules-against-dozens-of-motions-about-palestine-being-debated-at-party-conference"
   ],
-  "evaluation": "This cluster effectively tracks the continuous and developmental story of protests against the Palestine Action ban. It begins with initial mass arrests in London, progresses to the announcement of a 'week of action' including protests at the Labour conference, details specific arrests at that conference, and concludes with the build-up to a large planned London protest and the police's request for its postponement. Articles focusing on the legal challenge to the ban, the impact on prisoners, or internal Labour party debates were de-noised as they deviate from the direct narrative of organized protests and arrests.",
+  "evaluation": "The cluster provides a continuous and developmental narrative centered on the Palestine Action ban, the resulting protests, and related legal and logistical challenges. The selected articles logically chronicle events from initial mass arrests in London (Sep 7), through the announcement of escalated protests (Sep 12), an ongoing legal challenge to the ban (Sep 25), specific arrests at the Labour conference (Sep 29), and the build-up to a major London protest on October 4th, including police requests for postponement following a terror attack (Oct 1-2). Noise articles were removed due to redundancy (e.g., 'uk-news/2025/sep/28...' and 'world/2025/sep/06...' were superseded by more detailed articles covering the same events), or irrelevance to the direct protest/ban storyline (e.g., 'uk-news/2025/sep/27...' focuses on prison conditions for pre-ban detainees, and 'politics/2025/sep/19...' discusses broader Labour policy on Palestine). The remaining articles offer significant and coherent coverage.",
   "score": 9
 }

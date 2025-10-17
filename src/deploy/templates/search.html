@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Paperboy Search</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fafafa;
+      color: #222;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 { text-align: center; }
+    form {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    input[type="text"] {
+      width: 70%;
+      padding: 0.6rem;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 1rem;
+    }
+    button {
+      padding: 0.6rem 1rem;
+      font-size: 1rem;
+      border: none;
+      border-radius: 8px;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+    }
+    button:hover { background-color: #0056b3; }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      background: white;
+      margin: 0.5rem 0;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>Paperboy Search</h1>
+  <form method="get" action="/search">
+    <input type="text" name="query" value="{{ query or '' }}" placeholder="Enter your search..." required />
+    <button type="submit">Search</button>
+  </form>
+
+  {% if results %}
+    <h2>Results for "{{ query }}"</h2>
+    <ul>
+      {% for item in results %}
+        <li>
+          <strong>{{ item.title }}</strong><br/>
+          {{ item.overview }}
+        </li>
+      {% endfor %}
+    </ul>
+  {% elif query %}
+    <p>No results found.</p>
+  {% endif %}
+</body>
+</html>

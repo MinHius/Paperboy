@@ -1,5 +1,5 @@
 {
-  "topic": "Chelsea's Dominant WSL Season Start with Record Transfer",
+  "topic": "Chelsea's dominant start to the WSL season, including major transfer and opening victory.",
   "articles": [
     "football/2025/sep/04/record-transfers-and-a-managerial-merry-go-round-but-can-anyone-stop-chelsea-in-the-wsl",
     "football/2025/sep/04/chelsea-women-alyssa-thompson-angel-city",
@@ -14,6 +14,6 @@
     "football/2025/sep/07/liverpool-everton-wsl-match-report",
     "football/live/2025/sep/28/newcastle-v-arsenal-buildup-barcelona-in-action-wsl-and-more-matchday-live"
   ],
-  "evaluation": "This cluster effectively tracks Chelsea's impressive start to the WSL season. It begins with a league preview highlighting significant transfers and Chelsea's dominance, followed by detailed reporting of their record signing, Alyssa Thompson. The narrative continues with comprehensive coverage of their opening victory against Manchester City, including a live blog, match report, and a feature on key player Aggie Beever-Jones. Articles related to other teams (Arsenal, Everton, Liverpool) or general league updates are de-noised as they do not contribute to this specific, continuous Chelsea narrative.",
+  "evaluation": "The core story identified tracks Chelsea's preparation for the new WSL season, specifically their significant transfer activity with Alyssa Thompson, followed by comprehensive coverage of their opening match against Manchester City. Articles progress logically from season preview and transfer news (Sep 4) to live match updates, a detailed match report, and a player-focused feature from the game (Sep 5). This provides a continuous and developmental narrative of Chelsea's strong start. Other articles, mainly pertaining to Arsenal's opening match or general WSL updates, were de-noised due to insufficient group size (below 3 for Arsenal) or a lack of direct developmental relevance and specific focus within the given timeframe.",
   "score": 9
 }

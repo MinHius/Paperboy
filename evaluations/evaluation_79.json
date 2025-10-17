@@ -1,19 +1,19 @@
 {
-  "topic": "Trump's Controversial Portland Deployment: Orders, Justification, Local Pushback, and Misinformation.",
+  "topic": "Trump's federal interventions in cities using National Guard for law enforcement and immigration.",
   "articles": [
+    "us-news/commentisfree/2025/sep/04/trump-troop-deployment-intimidation-crime",
+    "us-news/2025/sep/05/trump-ice-immigration-chicago-national-guard",
+    "us-news/2025/sep/12/trump-national-guard-memphis-tennessee",
+    "us-news/2025/sep/15/trump-national-guard-democratic-run-memphis",
+    "us-news/2025/sep/15/trump-national-emergency-washington-dc-police",
     "us-news/2025/sep/27/portland-oregon-us-military-trump",
     "us-news/2025/sep/28/trump-administration-news-updates-today",
     "us-news/2025/oct/01/trump-national-guard-portland-misinformation"
   ],
   "noise": [
-    "us-news/2025/sep/15/trump-national-guard-democratic-run-memphis",
-    "us-news/2025/sep/05/trump-ice-immigration-chicago-national-guard",
-    "us-news/2025/sep/15/trump-national-emergency-washington-dc-police",
-    "us-news/2025/sep/12/trump-national-guard-memphis-tennessee",
     "us-news/2025/sep/30/pete-hegseth-war-diversity-efforts-military",
-    "us-news/live/2025/sep/05/donald-trump-pentagon-department-of-war-immigration-tariffs-us-politics-live-news-updates",
-    "commentisfree/2025/sep/04/trump-troop-deployment-intimidation-crime"
+    "us-news/live/2025/sep/05/donald-trump-pentagon-department-of-war-immigration-tariffs-us-politics-live-news-updates"
   ],
-  "evaluation": "This cluster primarily features Donald Trump's controversial federal troop deployment to Portland, Oregon. Articles were de-noised by identifying a clear three-part narrative on Portland's events, which met the minimum size requirement for continuous, developmental stories. Other articles, while thematically related to federal intervention in cities, covered different cities (Memphis, Chicago, Washington DC) or broader military policy, and individually formed groups of less than three articles, thus failing the initial inspection's size criteria for continuous development. These were categorized as noise to focus on the strongest, most coherent narrative.",
+  "evaluation": "This cluster effectively tracks President Trump's consistent policy of deploying federal forces, including the National Guard, federal agents, and ICE, to various Democratic-run cities (Chicago, Memphis, Washington D.C., Portland). The articles detail the administration's stated reasons (crime, protests, immigration), the issuance of executive orders, direct deployments, and the significant local opposition faced. The timeline from early September to early October shows a clear, developmental narrative across different cities, highlighting a central theme of federal intervention. Article 'us-news/2025/sep/30/pete-hegseth-war-diversity-efforts-military' was de-noised as its focus was on broader military policy changes and training suggestions rather than direct city deployments for law enforcement. Article 'us-news/live/2025/sep/05/donald-trump-pentagon-department-of-war-immigration-tariffs-us-politics-live-news-updates' was de-noised because it was a broad news summary containing disparate topics (e.g., tariffs, specific immigration raids) that did not align with the continuous story of federal troop/agent deployments to cities for general 'law and order' or protest suppression.",
   "score": 9
 }

@@ -1,5 +1,5 @@
 {
-  "topic": "Rachel Reeves' fiscal strategy, tax, and welfare changes for the November 2025 Autumn Budget.",
+  "topic": "Rachel Reeves' Autumn Budget: Navigating Fiscal Challenges and Policy Decisions",
   "articles": [
     "business/2025/sep/09/cbi-boss-calls-for-rachel-reeves-to-tear-up-labours-manifesto-pledge-on-tax",
     "business/2025/sep/12/stagnant-gdp-shows-scale-of-challenge-for-rachel-reeves-at-autumn-budget",
@@ -14,6 +14,6 @@
   "noise": [
     "politics/2025/sep/10/rachel-reeves-tells-private-equity-bosses-she-plans-to-shut-down-more-regulators"
   ],
-  "evaluation": "The cluster provides a robust, continuous narrative detailing the economic landscape, external pressures, and Rachel Reeves' evolving fiscal policy in the run-up to the November 2025 Autumn Budget. Key developments include calls for tax and welfare reforms from influential bodies (CBI, Resolution Foundation), the acknowledgement of stagnant GDP, Reeves' nuanced stance on fiscal discipline versus investment at the Labour conference, and crucial confirmations regarding impending tax rises and the lifting of the two-child benefit cap. Article 'politics/2025/sep/10/rachel-reeves-tells-private-equity-bosses-she-plans-to-shut-down-more-regulators' was de-noised as its focus on deregulation, while a growth strategy, did not directly contribute to the specific fiscal and spending decisions forming the core budget narrative.",
+  "evaluation": "This cluster effectively traces the build-up to Rachel Reeves' Autumn Budget, detailing economic pressures, external policy recommendations from the CBI and Resolution Foundation, and Reeves' evolving public stance and key decisions during the Labour conference. Articles cover discussions on tax increases, fiscal responsibility, investment strategies, and the decision to lift the two-child benefit cap, leading to post-conference analysis of potential budget measures. Article 'politics/2025/sep/10/rachel-reeves-tells-private-equity-bosses-she-plans-to-shut-down-more-regulators' was deemed noise as it focuses on regulatory reform rather than the core budget/fiscal policy debate.",
   "score": 9
 }

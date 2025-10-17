@@ -1,19 +1,19 @@
 {
-  "topic": "Peter Mandelson sacked as US ambassador over Jeffrey Epstein links scandal.",
+  "topic": "Peter Mandelson sacked as US ambassador due to Jeffrey Epstein association",
   "articles": [
     "politics/live/2025/sep/10/keir-starmer-isaac-herzog-pmqs-labour-kemi-badenoch-uk-politics-live-news-updates",
-    "politics/live/2025/sep/11/peter-mandelson-keir-starmer-deputy-labour-leader-uk-politics-latest-news",
     "politics/2025/sep/10/starmer-urged-to-sack-mandelson-amid-epstein-business-deal-revelations",
-    "politics/2025/sep/13/keir-starmer-peter-mandelson-jeffrey-epstein-emails",
-    "politics/2025/sep/11/keir-starmer-sacks-peter-mandelson-over-jeffrey-epstein-revelations",
-    "politics/2025/sep/11/peter-mandelson-messages-jeffrey-epstein-disturbing-and-sickening-says-minister",
     "politics/2025/sep/10/my-best-pal-messages-between-mandelson-and-epstein-suggest-a-close-bond",
+    "politics/2025/sep/10/mandelson-more-very-embarrassing-details-of-epstein-friendship-to-come",
+    "politics/2025/sep/11/peter-mandelson-messages-jeffrey-epstein-disturbing-and-sickening-says-minister",
+    "politics/live/2025/sep/11/peter-mandelson-keir-starmer-deputy-labour-leader-uk-politics-latest-news",
+    "politics/2025/sep/11/keir-starmer-sacks-peter-mandelson-over-jeffrey-epstein-revelations",
     "politics/2025/sep/12/peter-mandelson-advisory-firm-global-counsel-cuts-ties-amid-jeffrey-epstein-revelations",
-    "politics/2025/sep/10/mandelson-more-very-embarrassing-details-of-epstein-friendship-to-come"
+    "politics/2025/sep/13/keir-starmer-peter-mandelson-jeffrey-epstein-emails"
   ],
   "noise": [
     "politics/live/2025/sep/16/starmer-cabinet-resignation-paul-ovenden-news-updates-uk-politics-live"
   ],
-  "evaluation": "This cluster thoroughly covers the evolving story of Peter Mandelson's association with Jeffrey Epstein. It begins with initial revelations and calls for his sacking, progresses through political pressure and his eventual dismissal as US ambassador, and concludes with the immediate aftermath and further scrutiny into the timeline of events. The articles are strictly relevant, continuous, and highly synthesizable, providing significant, informative coverage with a logical timeline. Article 'politics/live/2025/sep/16/starmer-cabinet-resignation-paul-ovenden-news-updates-uk-politics-live' was de-noised as it is completely unrelated, discussing Donald Trump's state visit and trade talks.",
+  "evaluation": "The cluster provides a strong, continuous narrative detailing the evolving scandal surrounding Peter Mandelson's ties to Jeffrey Epstein. Articles from September 10th establish the initial revelations, mounting political pressure, and Mandelson's public response. Article 7 (Sep 11) captures immediate political reactions pre-sacking. The core event of his dismissal as US Ambassador is covered extensively on September 11th (Articles 2, 6), followed by articles detailing the financial fallout (Article 9, Sep 12th) and retrospective scrutiny of the Prime Minister's prior knowledge and actions (Article 5, Sep 13th). Article 4, concerning Donald Trump's state visit, was deemed irrelevant and moved to the noise list, as it bears no connection to the Mandelson story. The remaining articles form a highly coherent, chronological, and synthesizable story.",
   "score": 10
 }

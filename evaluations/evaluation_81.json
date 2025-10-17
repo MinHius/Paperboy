@@ -1,19 +1,19 @@
 {
-  "topic": "Ange Postecoglou's tumultuous start as Nottingham Forest manager: early losses and fan discontent.",
+  "topic": "Ange Postecoglou's tumultuous initial weeks as Nottingham Forest manager.",
   "articles": [
+    "football/2025/sep/09/nottingham-forest-part-company-with-head-coach-nuno-espirito-santo",
     "football/2025/sep/09/ange-postecoglou-appointed-nottingham-forest-head-coach-after-nuno-sacked",
     "football/2025/sep/11/ill-find-out-who-the-true-believers-are-postecoglou-dreams-of-trophy-joy-at-forest",
-    "football/2025/sep/13/arsenal-nottingham-forest-premier-league-match-report",
     "football/2025/sep/13/nottingham-forest-ange-postecoglou",
+    "football/2025/sep/13/arsenal-nottingham-forest-premier-league-match-report",
     "football/2025/sep/17/swansea-nottingham-forest-carabao-cup-match-report",
     "football/2025/sep/23/nottingham-forest-ange-postecoglou-europa-league-real-betis",
     "football/2025/sep/27/nottingham-forest-sunderland-premier-league-match-report",
     "football/2025/oct/02/nottingham-forest-midtjylland-europa-league-match-report"
   ],
   "noise": [
-    "football/2025/sep/09/nottingham-forest-part-company-with-head-coach-nuno-espirito-santo",
     "football/live/2025/sep/13/premier-league-returns-with-postecoglou-taking-nottingham-forest-to-arsenal-matchday-live"
   ],
-  "evaluation": "This cluster accurately tracks Ange Postecoglou's initial challenging period as Nottingham Forest's head coach. The narrative begins with his official appointment and public introduction, then logically progresses through a series of early defeats in the Premier League, Carabao Cup, and Europa League, culminating in significant fan discontent. Article 'football/2025/sep/09/nottingham-forest-part-company-with-head-coach-nuno-espirito-santo' was de-noised due to its redundancy with 'football/2025/sep/09/ange-postecoglou-appointed-nottingham-forest-head-coach-after-nuno-sacked', which provided a more comprehensive confirmation of his appointment. Article 'football/live/2025/sep/13/premier-league-returns-with-postecoglou-taking-nottingham-forest-to-arsenal-matchday-live', a brief live blog snippet, was also removed for being less informative and detailed than the dedicated match reports and Postecoglou's direct quotes present in other articles.",
+  "evaluation": "This cluster provides a strong, time-continuous narrative detailing Ange Postecoglou's arrival at Nottingham Forest, starting with Nuno Espirito Santo's departure and Postecoglou's subsequent appointment. It then tracks his initial games across various competitions (Premier League, Carabao Cup, Europa League), highlighting the club's struggles and the increasing pressure on the new manager, culminating in significant fan backlash. The articles are highly relevant, developmental, and paint a clear picture of a manager's turbulent start. Article 'football/live/2025/sep/13/premier-league-returns-with-postecoglou-taking-nottingham-forest-to-arsenal-matchday-live' was de-noised as it is a generic live blog and does not provide specific, reportable content for synthesis into the main narrative.",
   "score": 9
 }

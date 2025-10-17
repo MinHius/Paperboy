@@ -4,7 +4,7 @@ sys.path.append("D:/DH/Senior/Paperboy")
 from datetime import datetime
 from src.databases.database import load_articles, search_similar_articles
 from src.cluster.clustering import reduce_dimensions, _perform_clustering
-from src.api.LLM import validate_clusters
+from src.api.LLM import validate_clusters, synthesize_stories
 from pathlib import Path
 import pickle
 import json
@@ -16,6 +16,9 @@ inference_time = datetime.now()
 
 """Step 1: Load articles"""
 articles = load_articles(inference_time)
+LU_table = {}
+for article in articles:
+    LU_table[article["id"]] = article
 print("Step 1: Done!")
 
 
@@ -28,6 +31,7 @@ embeddings = [
 embeddings = np.array(embeddings, dtype=np.float32)
 ROOT = Path("d:/DH/Senior/Paperboy/src")  # your project root
 file_path = ROOT / "pickled_data" / "articles.pkl"  
+
 reduced_embeddings = reduce_dimensions(embeddings, None)
 for article, embedding in zip(reduced_dim_articles, reduced_embeddings):
     article["embedding"] = embedding
@@ -46,9 +50,24 @@ print("Step 3: Done!")
 
 """Step 4: Validate clusters"""
 similar_articles = [
-    [(a[0], a[1][:701]) for a in group]
+    [(a[0], a[1][:701]) for a in group[1]]
     for group in similar_articles
-]
-        
+]        
 validation_result = validate_clusters(similar_articles)
-print(validation_result[0])
+qualified_groups = []
+for result in validation_result:
+    if result["score"] >= 8:
+        qualified_groups.append([LU_table[d]["body"][:701] for d in result["articles"]])
+        
+with open("src/pickled_data/validation_result.pkl", "wb") as f:
+    pickle.dump(qualified_groups, f)
+print("Step 4: Done!")
+
+
+"""Step 5: Synthesize stories"""
+synthesized_story = synthesize_stories(qualified_groups)
+
+with open("src/pickled_data/synthesis_result.pkl", "wb") as f:
+    pickle.dump(synthesized_story, f)
+    
+print("Step 5 done!")

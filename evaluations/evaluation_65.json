@@ -1,5 +1,5 @@
 {
-  "topic": "Coverage of the 2025 Emmy Awards, from predictions to winners and post-show analysis.",
+  "topic": "2025 Emmy Awards: Predictions, Winners, and Post-Event Analysis",
   "articles": [
     "tv-and-radio/2025/sep/13/emmys-2025-predictions-winners",
     "tv-and-radio/2025/sep/14/emmys-2025-full-list-of-winners",
@@ -14,6 +14,6 @@
     "tv-and-radio/2025/sep/30/the-simpsons-movie-2-sequel-release-date-returns-2027",
     "film/2025/sep/14/hamnet-wins-top-award-toronto-film-festival"
   ],
-  "evaluation": "This cluster forms a highly continuous story about the 2025 Emmy Awards. It progresses logically from pre-show predictions, through the announcement of winners and live event coverage, to post-show analysis and highlights of significant achievements like Owen Cooper's historic win and 'Adolescence's' triumph. Articles not related to the Emmys, such as film festivals, climate change, or other entertainment news, were identified and removed as noise. The remaining articles are strictly relevant and suitable for synthesis.",
-  "score": 9
+  "evaluation": "This cluster provides a strong, continuous, and developmental narrative around the 2025 Emmy Awards. It progresses logically from predictions (Sep 13), through live coverage and full winner lists on the night of the event (Sep 14), to post-event analysis, significant wins, and historical achievements (Sep 15). Articles focus on key winners like 'The Pitt,' 'The Studio,' and 'Adolescence,' and highlight moments such as Owen Cooper's historic win. Noise articles were removed for discussing unrelated film festivals/Oscars, climate change, or other non-Emmy entertainment news.",
+  "score": 10
 }

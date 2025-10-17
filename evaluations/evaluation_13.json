@@ -1,9 +1,8 @@
 {
-  "topic": "AI's escalating impact on human employment and creative industries globally.",
+  "topic": "AI's growing impact on human jobs and creative livelihoods across sectors",
   "articles": [
     "australia-news/2025/sep/09/dhanushi-lost-her-job-the-same-day-cba-rolled-out-an-ai-chatbot-it-may-just-be-the-beginning",
     "commentisfree/2025/sep/10/tech-companies-are-stealing-our-books-music-and-films-for-ai-its-brazen-theft-and-must-be-stopped",
-    "education/2025/sep/13/its-going-to-be-a-life-skill-educators-discuss-the-impact-of-ai-on-university-education",
     "film/2025/sep/23/subtitlers-replaced-by-ai-sdh",
     "film/2025/oct/01/tilly-norwood-ai-actress-reaction",
     "lifeandstyle/2025/oct/01/artificial-intelligence-em-dashes-ai-stealing-my-livelihood"
@@ -12,8 +11,9 @@
     "science/2025/sep/17/new-ai-tool-can-predict-a-persons-risk-of-more-than-1000-diseases-say-experts",
     "technology/2025/oct/01/anthropic-ai-model-claude-sonnet-asks-if-it-is-being-tested",
     "commentisfree/2025/sep/30/artificial-intelligence-personhood",
-    "technology/2025/sep/20/british-ai-startup-beats-humans-in-international-forecasting-competition"
+    "technology/2025/sep/20/british-ai-startup-beats-humans-in-international-forecasting-competition",
+    "education/2025/sep/13/its-going-to-be-a-life-skill-educators-discuss-the-impact-of-ai-on-university-education"
   ],
-  "evaluation": "This cluster effectively captures the continuous and developing story of AI's pervasive impact on various job sectors and creative industries. The core narrative revolves around job displacement (banking, subtitling, acting, writing), the ethical implications of AI training data (copyright infringement impacting creators' livelihoods), and the broader societal discussion on future employment and education in an AI-driven world. The articles are strictly relevant, demonstrating a logical progression of events and discussions from early September to early October 2025. Noise articles were removed for focusing on distinct aspects of AI, such as medical applications, AI model capabilities, psychological impacts, or competitive performance, which do not contribute to the narrative of AI's impact on employment and creativity.",
+  "evaluation": "The cluster primarily focuses on the multifaceted impact of Artificial Intelligence on human employment and creative industries. Articles detail specific instances of job displacement in banking and subtitling, broader ethical concerns regarding AI training data infringing on creative livelihoods, the backlash against AI actors, and a personal account of AI's perceived influence on writing professions. Articles concerning AI's capabilities in disease prediction, self-awareness, or forecasting, as well as educational responses to AI, were de-noised as they did not directly contribute to the core, continuous narrative of AI-driven job displacement and economic threat to human work and creativity.",
   "score": 9
 }

@@ -1,18 +1,19 @@
 {
-  "topic": "Collection of unrelated personal narratives",
-  "articles": [],
-  "noise": [
+  "topic": "Personal journeys of self-discovery and transformation through significant life changes",
+  "articles": [
     "lifeandstyle/2025/sep/08/the-one-change-that-worked-sobered-up-started-to-listen-my-body",
     "lifeandstyle/2025/sep/29/the-one-change-that-worked-i-gave-away-my-last-dress-and-embraced-the-real-me",
+    "lifeandstyle/2025/sep/15/the-one-change-that-worked-i-went-to-a-festival-by-myself-and-made-peace-with-being-perimenopausal"
+  ],
+  "noise": [
     "lifeandstyle/2025/sep/21/infertility-loss-children-life-changing-call-psychic-elizabeth-day-author-podcaster",
     "lifeandstyle/2025/sep/17/a-moment-that-changed-me-i-was-a-gobby-teen-who-lived-to-win-then-i-lost-a-contest-and-found-the-real-me",
-    "lifeandstyle/2025/sep/15/the-one-change-that-worked-i-went-to-a-festival-by-myself-and-made-peace-with-being-perimenopausal",
     "lifeandstyle/2025/sep/15/a-new-start-after-60-id-spent-five-decades-travelling-then-i-fell-in-love-got-married-and-finally-found-a-home",
     "wellness/2025/sep/08/robot-massage-aescape-experience",
     "culture/2025/sep/27/my-cultural-awakening-the-parent-trap-made-me-reconnect-with-my-estranged-father",
     "culture/2025/sep/13/my-cultural-awakening-a-bastille-show-helped-me-get-over-my-crippling-covid-era-anxiety",
     "lifeandstyle/2025/sep/15/the-kindness-of-strangers-i-felt-self-conscious-studying-law-then-a-classmate-praised-my-op-shop-suit"
   ],
-  "evaluation": "The cluster consists of ten distinct personal narratives, each detailing an individual's unique life change, experience, or awakening. No articles were found to be continuous or developmental with each other, meaning there is no single evolving story arc across three or more articles. Consequently, the initial inspection determined 'Inadequate size', and no qualified groups suitable for synthesis were identified. All articles are categorized as noise.",
-  "score": 1
+  "evaluation": "The core cluster consists of articles explicitly belonging to 'The one change that worked' series, showcasing diverse first-person accounts of significant personal transformations. These articles are continuous in their thematic approach and developmental in exploring various facets of self-improvement over time. Other articles were de-noised as they either represented standalone pieces, incomplete series (less than 3 articles), or had entirely irrelevant subject matter (e.g., robot massage, scam text).",
+  "score": 10
 }

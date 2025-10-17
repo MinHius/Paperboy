@@ -1,5 +1,5 @@
 {
-  "topic": "Ongoing inquiry into Southport attack: Testimonies and emerging details.",
+  "topic": "Ongoing public inquiry into the Southport attack and its devastating impact.",
   "articles": [
     "uk-news/2025/sep/16/southport-killer-thought-to-have-viewed-teen-stabbing-footage-shortly-before-attack",
     "uk-news/2025/sep/11/southport-attack-inquiry-testimony-teenage-girl-stabbed",
@@ -14,6 +14,6 @@
   "noise": [
     "uk-news/2025/sep/12/stephen-lawrence-mother-doreen-plea-witnesses-review"
   ],
-  "evaluation": "The cluster provides a continuous and developmental story centered around the ongoing public inquiry into the Southport attack of July 29, 2024. Articles detail various testimonies from victims, parents, witnesses, and staff, along with revelations about the attacker's background and actions. The articles collectively address the circumstances leading to the tragedy and questions of accountability. Article 'uk-news/2025/sep/12/stephen-lawrence-mother-doreen-plea-witnesses-review' was de-noised as it pertains to the unrelated Stephen Lawrence murder review, not the Southport attack.",
-  "score": 10
+  "evaluation": "The core cluster of articles details the ongoing public inquiry into the Southport attack, focusing on testimonies from victims, parents, witnesses, and details regarding the attacker, Axel Rudakubana. These articles are highly relevant, developmental, and chronologically track the inquiry's proceedings from early September to late September 2025. Article 'uk-news/2025/sep/12/stephen-lawrence-mother-doreen-plea-witnesses-review' was identified as noise due to its complete irrelevance to the Southport attack inquiry, discussing the Stephen Lawrence murder review instead.",
+  "score": 9
 }

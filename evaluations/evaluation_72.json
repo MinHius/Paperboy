@@ -1,19 +1,19 @@
 {
-  "topic": "Trump's legal battle to fire Federal Reserve Governor Lisa Cook and challenge Fed independence",
+  "topic": "Trump's legal battle to fire Federal Reserve governor Lisa Cook",
   "articles": [
     "business/2025/sep/09/fed-governor-lisa-cook-trump-lawsuit",
     "us-news/2025/sep/15/trump-lisa-cook-firing-court-declines",
-    "business/2025/sep/15/stephen-miran-federal-reserve-lisa-cook",
-    "us-news/live/2025/sep/15/donald-trump-politics-washington-dc-national-emergency-ice-charlie-kirk-live-news-updates",
     "us-news/2025/sep/18/trump-supreme-court-lisa-cook-fed"
   ],
   "noise": [
+    "business/2025/sep/15/stephen-miran-federal-reserve-lisa-cook",
+    "us-news/live/2025/sep/15/donald-trump-politics-washington-dc-national-emergency-ice-charlie-kirk-live-news-updates",
     "us-news/2025/sep/09/trump-supreme-court-foreign-aid",
     "us-news/2025/sep/08/trump-loses-e-jean-carroll-appeal",
     "us-news/2025/sep/16/fani-willis-appeal-georgia-supreme-court-trump",
     "us-news/2025/sep/05/donald-trump-legal-woes-mount-supreme-court-rule-trade-tariffs",
     "us-news/2025/sep/08/trump-tariffs-supreme-court"
   ],
-  "evaluation": "The cluster provides a highly continuous and developmental story centered on Donald Trump's attempts to fire Federal Reserve Governor Lisa Cook and the subsequent legal challenges to the Fed's independence. The articles trace the progression from Cook's initial lawsuit and temporary restraining order (Sep 9), through the appeals court's decision denying Trump's request to remove her (Sep 15), with two additional articles on the same day providing context and confirmation, to Trump's escalation by taking the case to the Supreme Court (Sep 18). The timeline is logical, and the coverage is significant and informative regarding a major constitutional and economic issue. Articles pertaining to foreign aid, the E Jean Carroll defamation case, Fani Willis's disqualification, and trade tariffs were de-noised as they represent distinct and unrelated legal challenges faced by the Trump administration.",
+  "evaluation": "This cluster accurately tracks the continuous legal developments regarding President Trump's unprecedented attempt to remove Federal Reserve governor Lisa Cook. The articles 'business/2025/sep/09/fed-governor-lisa-cook-trump-lawsuit', 'us-news/2025/sep/15/trump-lisa-cook-firing-court-declines', and 'us-news/2025/sep/18/trump-supreme-court-lisa-cook-fed' provide a clear, chronological narrative, detailing the initial judicial allowance for Cook to remain, the appeals court's refusal of Trump's request, and his subsequent escalation to the Supreme Court. These articles are highly relevant, developmental, and synthesizeable. Other articles were de-noised as they covered unrelated legal challenges, general political updates, or focused on separate Federal Reserve appointments, thus not contributing directly to this specific continuous story.",
   "score": 9
 }

@@ -1,5 +1,5 @@
 {
-  "topic": "No continuous story identified due to distinct reports and empty content",
+  "topic": "No continuous story: UK university subject league tables",
   "articles": [],
   "noise": [
     "education/ng-interactive/2025/sep/13/best-uk-universities-for-education-league-table",
@@ -13,6 +13,6 @@
     "education/ng-interactive/2025/sep/13/best-uk-universities-for-history-league-table",
     "education/ng-interactive/2025/sep/13/best-uk-universities-for-biomedical-science-league-table"
   ],
-  "evaluation": "Initial inspection failed due to inadequate size. The articles represent distinct subject-specific university league tables published on the same date. They do not form a single continuous or developmental news story. Each article is a standalone report rather than a progression of a narrative. Furthermore, the full_text for all articles was empty, preventing any content-based validation of continuity, development, relevance, or synthesizability.",
-  "score": 0
+  "evaluation": "Initial inspection revealed all articles have empty full_text content, preventing any assessment of continuity, development, or relevance based on textual analysis. Although all articles pertain to 'Best UK Universities for [Subject] League Table' published on the same date, they represent distinct subject rankings, not a continuous or developmental narrative about a single story or ranking process. As no group of 3 or more articles could be identified as a continuous, developmental story due to lack of content and distinct topics, all articles are designated as noise for the purpose of synthesis.",
+  "score": 1
 }

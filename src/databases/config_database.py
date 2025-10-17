@@ -1,5 +1,5 @@
 HOST = "localhost"
-PORT = 5434
+PORT = 5436
 DB = "paperboy"
 USER = "minhhieu"
 PASSWORD = "minhhieu888"

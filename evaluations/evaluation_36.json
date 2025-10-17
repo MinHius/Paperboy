@@ -1,5 +1,5 @@
 {
-  "topic": "Dallas ICE facility shooting: perpetrator, victims, and political reactions.",
+  "topic": "Dallas ICE facility shooting: perpetrator identified, victims named, ongoing investigation.",
   "articles": [
     "us-news/2025/sep/24/dallas-ice-shooting-texas-immigration-center-latest",
     "us-news/2025/sep/25/dallas-shooting-ice-facility",
@@ -14,6 +14,6 @@
     "us-news/2025/sep/28/ice-detention-texas-children",
     "us-news/2025/sep/23/citizens-permanent-residents-racial-profiling-ice-immigration"
   ],
-  "evaluation": "This cluster was validated for potential continuous stories focusing on the Dallas ICE facility shooting. Articles 'us-news/2025/sep/24/dallas-ice-shooting-texas-immigration-center-latest', 'us-news/2025/sep/25/dallas-shooting-ice-facility', and 'us-news/2025/sep/26/immigrant-detainees-shot-dallas-identified' form a strong developmental narrative, covering the initial incident, the shooter's motives and political commentary, and the identification of the victims. These articles provide significant, time-continuous coverage of the specific event. Other articles were de-noised as they address separate incidents such as an officer misconduct video, detainee death in another state, general ICE detention conditions, solitary confinement reports, ICE policy warnings, or legal developments on racial profiling, which do not contribute to the continuity or development of the Dallas shooting story.",
+  "evaluation": "This cluster effectively tracks the unfolding story of the deadly shooting at the Dallas ICE facility. The articles provide a continuous narrative, detailing the initial incident, the identification of the shooter (Joshua Jahn), and subsequently naming the three immigrant detainees who were shot, including the one fatality. These articles demonstrate clear developmental potential and a logical timeline (Sep 24-26). Other articles discussing different ICE-related incidents such as general detention conditions (e.g., Dilley, which did not meet the minimum article count for a continuous story), officer misconduct, policy changes, or unrelated detainee deaths were de-noised due to their irrelevance to this specific continuous event.",
   "score": 9
 }

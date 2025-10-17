@@ -1,9 +1,9 @@
 {
-  "topic": "Taliban's escalating internet shutdown across Afghanistan, suppressing information and dissent.",
+  "topic": "Taliban's escalating internet and communications blackout across Afghanistan.",
   "articles": [
     "global-development/2025/sep/23/taliban-afghanistan-internet-shutdown-women-girls-education-hope",
-    "commentisfree/2025/oct/01/afghanistan-internet-shutdown-taliban-calculated-effort-consolidate-power-silence-dissent",
-    "world/2025/sep/30/afghanistan-mobile-phones-internet-telecoms-blackout-taliban"
+    "world/2025/sep/30/afghanistan-mobile-phones-internet-telecoms-blackout-taliban",
+    "commentisfree/2025/oct/01/afghanistan-internet-shutdown-taliban-calculated-effort-consolidate-power-silence-dissent"
   ],
   "noise": [
     "football/2025/sep/11/i-was-lost-but-football-gave-me-strength-afghan-women-refugees-on-their-fight-for-recognition",
@@ -14,6 +14,6 @@
     "sport/2025/sep/10/afghan-women-dream-of-freedom-the-spin-cricket",
     "global-development/2025/sep/18/visa-medical-evacuation-gaza-injured-children-palestinian"
   ],
-  "evaluation": "This cluster accurately identifies a continuous and developmental story regarding the Taliban's escalating internet shutdown in Afghanistan. The selected articles (ID: global-development/2025/sep/23, world/2025/sep/30, commentisfree/2025/oct/01) provide a clear, logical timeline: from initial regional restrictions in mid-September, through gradual nationwide weakening of services, to a sweeping national blackout ordered on October 1st. They are strictly relevant, synthesizable, and cover the event's progression and impact. Other articles, while some relate to Afghanistan (women's struggles with sport or education), are considered noise as they do not directly contribute to the specific, time-continuous narrative of the internet shutdown. Articles on South Sudan, Malawi, and Gaza are entirely irrelevant to this story.",
+  "evaluation": "This cluster effectively tracks the Taliban's progressive internet and communications blackout in Afghanistan. Article 'global-development/2025/sep/23/taliban-afghanistan-internet-shutdown-women-girls-education-hope' reports initial regional shutdowns impacting online education. Article 'world/2025/sep/30/afghanistan-mobile-phones-internet-telecoms-blackout-taliban' details the subsequent nationwide escalation of the blackout. Article 'commentisfree/2025/oct/01/afghanistan-internet-shutdown-taliban-calculated-effort-consolidate-power-silence-dissent' provides broader context on the Taliban's motives, linking it to consolidating power and silencing dissent. The timeline is logical, showing a clear development of the story. Other articles were de-noised due to unrelated geographical focus (Sudan, South Sudan, Malawi, Gaza) or different thematic focuses on Afghan women's lives (sports, general education restrictions) not directly tied to the internet crackdown.",
   "score": 10
 }

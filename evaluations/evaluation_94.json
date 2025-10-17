@@ -1,9 +1,10 @@
 {
-  "topic": "Lisbon funicular crash: investigation, victims, and cause",
+  "topic": "Lisbon Funicular Crash: Casualties, Investigation, and Preliminary Findings",
   "articles": [
     "world/2025/sep/03/at-least-three-people-killed-many-injured-in-lisbon-funicular-crash",
     "world/2025/sep/04/lisbon-funicular-crash-portugal-declares-day-of-mourning-deaths",
     "world/2025/sep/04/someone-needs-to-answer-for-what-happened-lisbon-reacts-to-streetcar-crash-that-killed-16",
+    "world/2025/sep/04/explainer-what-is-lisbons-funicular-railway-elevador-da-gloria-and-how-does-it-work",
     "world/2025/sep/05/initial-report-into-lisbon-funicular-crash-due-after-16-killed",
     "world/2025/sep/06/british-couple-killed-in-lisbon-funicular-crash-named",
     "world/2025/sep/06/lisbon-funicular-cable-disconnected-before-deadly-crash-report-finds",
@@ -11,9 +12,8 @@
   ],
   "noise": [
     "commentisfree/2025/sep/09/lisbon-funicular-tragedy-city-struggling-balance-old-and-new",
-    "world/2025/sep/04/explainer-what-is-lisbons-funicular-railway-elevador-da-gloria-and-how-does-it-work",
     "uk-news/2025/sep/04/several-people-taken-to-hospital-after-london-victoria-station-bus-crash"
   ],
-  "evaluation": "The core cluster effectively covers the Lisbon funicular crash, starting from initial reports of casualties and official reactions, progressing through victim identification (including British nationals), local public sentiment, and culminating in the crucial investigative finding that a cable snapped. This forms a clear, continuous, and developmental narrative. Article 10 was de-noised as it describes an entirely unrelated bus crash in London. Articles 3 (opinion piece) and 8 (explainer) were de-noised because, while contextually related, they do not constitute direct developmental news updates to the ongoing story of the crash, its victims, or investigation, as per the strict criteria for continuous stories.",
+  "evaluation": "The core cluster of articles effectively chronicles the tragic Lisbon funicular crash, providing immediate reports of casualties, public reaction, subsequent identification of victims, and progress of the official investigation including preliminary findings about the cable failure. The articles demonstrate clear chronological and thematic development. An opinion piece reflecting on the incident was de-noised as it did not constitute a direct news development suitable for a continuous story narrative. A completely unrelated article about a bus crash in London was also removed as noise.",
   "score": 9
 }

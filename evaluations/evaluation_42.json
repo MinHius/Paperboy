@@ -1,5 +1,5 @@
 {
-  "topic": "Unrelated reviews of global cultural productions.",
+  "topic": "Evaluation of individual media reviews for continuity",
   "articles": [],
   "noise": [
     "film/2025/sep/11/eternity-movie-review",
@@ -13,6 +13,6 @@
     "tv-and-radio/2025/sep/16/rebel-royals-an-unlikely-love-story-review-the-one-about-the-princess-and-the-soul-sexual-shaman",
     "film/2025/oct/01/the-threesome-review-romcom-zoey-deutch"
   ],
-  "evaluation": "Initial inspection determined that all articles are standalone reviews of distinct cultural productions (films, plays, opera, documentary). No group of three or more articles exhibited continuous or developmental storytelling regarding a single evolving topic or event. Therefore, no qualified cluster could be formed, and all articles are categorized as noise due to inadequate size for a continuous narrative.",
+  "evaluation": "This cluster contains ten distinct reviews of various cultural works (films, plays, an opera, and a documentary). Each article is a standalone piece evaluating a different subject, lacking any continuous or developmental narrative links between them. Consequently, no groups of articles could be formed that meet the criteria for a continuous story, resulting in an inadequate size (zero relevant articles) for potential synthesis. All articles are considered noise in the context of forming a cohesive, ongoing news story.",
   "score": 1
 }

@@ -1,5 +1,5 @@
 {
-  "topic": "Middle East conflict escalates; Australia's diplomatic efforts towards Gaza peace plan.",
+  "topic": "Australia's diplomatic push for Gaza peace and Palestinian statehood amidst conflict.",
   "articles": [
     "australia-news/2025/sep/10/morning-mail-wednesday-ntwnfb",
     "australia-news/2025/sep/18/morning-mail-thursday-ntwnfb",
@@ -10,10 +10,11 @@
   "noise": [
     "australia-news/2025/sep/23/afternoon-update-tuesday-ntwnfb",
     "australia-news/2025/sep/15/afternoon-update-monday-ntwnfb",
+    "australia-news/2025/sep/30/afternoon-update-tuesday-ntwnfb",
     "australia-news/2025/sep/15/morning-mail-monday-ntwnfb",
     "australia-news/2025/sep/09/afternoon-update-tuesday-ntwnfb",
     "australia-news/2025/sep/16/afternoon-update-tuesday-ntwnfb"
   ],
-  "evaluation": "The core continuous story details the escalation of the Middle East conflict, Australia's evolving diplomatic stance (criticism, recognition of Palestinian statehood), and its engagement with the Trump administration's Gaza peace plan. Articles are chronologically ordered and show clear developmental progress. Other potential stories, such as Australian climate targets, failed the initial inspection due to inadequate size (below 3 articles) when strictly assigning articles to a single primary narrative. Irrelevant articles covered unrelated topics like medical claims, media succession, and local incidents, and were therefore de-noised.",
+  "evaluation": "This cluster effectively traces the ongoing Middle East conflict, focusing on Israeli-Hamas tensions, Australia's evolving diplomatic stance including the recognition of Palestinian statehood, and the reception of the Trump administration's Gaza peace plan. Articles concerning domestic climate targets, local incidents (gas leak, childcare), corporate succession (Murdoch), and health controversies (paracetamol/autism) were de-noised as they did not contribute to this specific geopolitical and diplomatic continuous story.",
   "score": 9
 }

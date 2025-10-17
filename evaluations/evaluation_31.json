@@ -1,19 +1,19 @@
 {
-  "topic": "Russian drone incursions into Polish airspace trigger NATO response and international condemnation.",
+  "topic": "Russian drone incursions into Polish airspace and subsequent international response.",
   "articles": [
-    "world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates",
-    "world/live/2025/sep/11/europe-live-news-updates-poland-russia-drones-ukraine-war-latest",
     "world/2025/sep/10/poland-shoots-down-drones-over-its-territory-amid-russian-attack-on-ukraine-says-military",
     "world/live/2025/sep/10/poland-pm-condemns-repeated-violation-of-airspace-amid-russian-attack-on-ukraine-follow-live",
-    "world/2025/sep/14/russian-drone-incursion-poland-nato-ukraine-europe",
-    "world/2025/sep/12/nato-announces-enhanced-air-support-to-defend-poland-against-future-russian-incursions",
     "world/2025/sep/10/ukraine-war-briefing-russian-drone-alert-in-poland-before-belarus-border-closure",
-    "world/live/2025/sep/12/poland-russia-drones-ukraine-war-latest-news-europe-live",
-    "world/2025/sep/11/poland-says-un-will-hold-emergency-meeting-after-russian-drone-incursions"
+    "world/2025/sep/11/poland-says-un-will-hold-emergency-meeting-after-russian-drone-incursions",
+    "world/2025/sep/12/nato-announces-enhanced-air-support-to-defend-poland-against-future-russian-incursions",
+    "world/2025/sep/14/russian-drone-incursion-poland-nato-ukraine-europe"
   ],
   "noise": [
-    "world/2025/sep/10/drones-poland-post-alaska-escalation-russia-analysis"
+    "world/2025/sep/10/drones-poland-post-alaska-escalation-russia-analysis",
+    "world/live/2025/sep/11/europe-live-news-updates-poland-russia-drones-ukraine-war-latest",
+    "world/live/2025/sep/12/poland-russia-drones-ukraine-war-latest-news-europe-live",
+    "world/live/2025/sep/20/poland-russia-estonia-ukraine-war-europe-latest-news-updates"
   ],
-  "evaluation": "This cluster presents a robust and continuous story detailing Russian drone incursions into Polish airspace, triggering a significant international response. The narrative progresses chronologically, starting with the initial incidents on September 10th (Articles 3, 4, 7), followed by Poland's request for a UN Security Council meeting and initial reactions on September 11th (Articles 2, 10). NATO's decision to enhance air defence capabilities on September 12th (Articles 6, 9) shows the alliance's decisive response. Subsequent analysis on September 14th offers insight into Russia's potential motives (Article 5), and the story culminates with a report on September 20th indicating ongoing threats and allied deployments (Article 1). Article 8 was de-noised because its content significantly overlaps with and is largely redundant to Article 4, both covering the same initial incident and analysis about 'post-Alaska escalation'. Article 4, being a live blog summary with a direct quote from the PM, was retained for its conciseness and timeliness.",
+  "evaluation": "The cluster provides a robust and continuous narrative on the Russian drone incursions into Polish airspace on September 9-10, 2025, and the subsequent national, diplomatic, and alliance responses. The story develops chronologically from the initial incident and Poland's immediate defensive actions, through UN Security Council requests and Nato's enhanced defense commitments, culminating in a foreign minister's assessment of Russia's intent. Articles identified as noise were either redundant summaries of events already covered in more comprehensive reports (e.g., live blog closings, analysis pieces reiterating facts) or described a distinct, albeit related, incident (Polish aircraft deployment on September 20 due to airstrikes near the Ukrainian border, not an airspace incursion itself). The qualified articles are highly relevant, developmental, informative, and provide significant coverage, creating a logical and synthesizable story arc.",
   "score": 9
 }

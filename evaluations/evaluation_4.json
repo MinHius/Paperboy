@@ -1,19 +1,19 @@
 {
-  "topic": "Robert Redford's passing, enduring legacy, and widespread tributes from Hollywood and fans.",
+  "topic": "Robert Redford's death prompts widespread tributes for his acting, directing, and Sundance legacy.",
   "articles": [
     "film/2025/sep/16/share-your-tributes-and-memories-of-robert-redford",
     "film/2025/sep/16/barbra-streisand-robert-redford-tribute",
-    "film/filmblog/2025/sep/16/robert-redford-the-incandescently-handsome-star-who-changed-hollywood-forever",
-    "film/2025/sep/22/letter-robert-redford-obituary",
     "film/2025/sep/16/robert-redford-obituary",
     "film/2025/sep/16/robert-redford-oscar-winning-actor-and-director-dies",
+    "film/live/2025/sep/16/robert-redford-dies-tributes-cinema-hollywood-legend-latest-news-updates",
     "film/2025/sep/17/robert-redford-remembered-beautiful-man-decent-human-being",
-    "film/2025/sep/19/robert-redford-ralph-fiennes-judd-hirsch-norman-reedus",
-    "film/live/2025/sep/16/robert-redford-dies-tributes-cinema-hollywood-legend-latest-news-updates"
+    "film/2025/sep/19/robert-redford-ralph-fiennes-judd-hirsch-norman-reedus"
   ],
   "noise": [
+    "film/filmblog/2025/sep/16/robert-redford-the-incandescently-handsome-star-who-changed-hollywood-forever",
+    "film/2025/sep/22/letter-robert-redford-obituary",
     "film/2025/sep/22/a-worrying-obsession-with-robert-redford-looks"
   ],
-  "evaluation": "The main topic revolves around the death of Robert Redford and the subsequent global outpouring of tributes and reflections on his multifaceted legacy. The validated articles chronologically cover the initial announcement of his passing, immediate reactions from key figures like Barbra Streisand and Ron Howard, comprehensive obituaries detailing his iconic career as an actor, director, and his pivotal role in founding the Sundance Institute, and extended personal anecdotes and public remembrances. Article 'film/2025/sep/22/a-worrying-obsession-with-robert-redford-looks' was de-noised as it functions as a meta-critique of another article's focus on Redford's looks, rather than directly contributing to the continuous story of his life, death, or impact.",
+  "evaluation": "The core cluster effectively captures the continuous story of Robert Redford's death, beginning with the initial news and official obituaries on September 16, followed by immediate and subsequent tributes from fellow actors, filmmakers, and institutions over the following days. Articles were de-noised if they were opinion/feature pieces analyzing his career, personal anecdotes from readers, or meta-commentary critiquing other articles, as these did not directly contribute to the developmental news narrative of his passing and its immediate aftermath. The selected articles provide informative and significant coverage, with a logical timeline reflecting the unfolding story of his death and the widespread reactions.",
   "score": 9
 }

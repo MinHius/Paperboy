@@ -1,19 +1,19 @@
 {
-  "topic": "Boris Johnson's post-PM profit allegations from leaked 'Boris Files'",
+  "topic": "Boris Johnson's post-PM financial dealings and ethics breaches revealed by 'Boris Files'.",
   "articles": [
-    "news/ng-interactive/2025/sep/14/what-boris-johnson-did-next-files-pursuit-of-profit",
     "uk-news/2025/sep/08/revealed-how-boris-johnson-traded-pm-contacts-for-global-business-deals",
+    "uk-news/2025/sep/08/what-are-the-boris-johnson-files-former-prime-minister",
     "uk-news/2025/sep/09/boris-johnson-under-pressure-to-explain-how-private-office-follows-funding-rules",
     "uk-news/2025/sep/09/call-to-halt-boris-johnson-allowance-after-boris-files-revelations",
     "uk-news/2025/sep/09/boris-johnson-secretly-lobbied-uae-business-venture-leak-suggests",
-    "uk-news/2025/sep/08/what-are-the-boris-johnson-files-former-prime-minister",
-    "politics/2025/sep/10/payments-and-pravda-in-the-boris-files",
     "uk-news/2025/sep/09/boris-johnson-paid-speeches-putin-queen-birthday-bash",
-    "world/2025/sep/10/wednesday-briefing-what-are-the-key-revelations-from-the-boris-files-and-why-do-they-matter"
+    "politics/2025/sep/10/payments-and-pravda-in-the-boris-files",
+    "world/2025/sep/10/wednesday-briefing-what-are-the-key-revelations-from-the-boris-files-and-why-do-they-matter",
+    "news/ng-interactive/2025/sep/14/what-boris-johnson-did-next-files-pursuit-of-profit"
   ],
   "noise": [
     "uk-news/2025/sep/10/washington-post-boss-will-lewis-secret-adviser-boris-johnson-leak"
   ],
-  "evaluation": "This cluster effectively details the unfolding 'Boris Files' scandal. Articles introduce the leak, explain its contents, detail specific instances of Johnson's alleged post-premiership financial misconduct (lobbying, paid speeches, use of public funds), and cover the political fallout and investigations. Article 'uk-news/2025/sep/10/washington-post-boss-will-lewis-secret-adviser-boris-johnson-leak' was de-noised as it focuses on a separate individual's conduct, even if revealed by the same leak, rather than Johnson's direct financial activities or misuse of office for personal gain.",
-  "score": 9
+  "evaluation": "This cluster effectively details the unfolding scandal surrounding Boris Johnson's post-premiership financial activities and alleged ethics breaches, as revealed by a leak dubbed the 'Boris Files'. The articles cohesively cover the initial revelations, provide specific examples of lobbying and paid speeches, discuss the misuse of taxpayer-funded office resources, and report on the political and ethical backlash. The timeline is logical, starting with the initial exposé and progressing through specific developments and reactions. Article 'uk-news/2025/sep/10/washington-post-boss-will-lewis-secret-adviser-boris-johnson-leak' was de-noised because its primary focus is on Will Lewis's conduct as an adviser during Johnson's time as PM, not Johnson's post-premiership financial dealings, making it tangential to the core narrative.",
+  "score": 10
 }

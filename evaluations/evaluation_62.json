@@ -1,19 +1,19 @@
 {
-  "topic": "UK energy crisis: household debt, price cap increase, and its societal impact on rationing.",
+  "topic": "UK energy debt crisis deepens as households face rising bills and rationing amid price cap increase.",
   "articles": [
     "money/2025/sep/10/rise-in-energy-prices-leaves-1m-uk-households-behind-on-bills",
     "money/2025/sep/10/people-in-the-uk-tell-us-how-you-have-been-affected-by-the-rise-in-energy-costs",
-    "politics/2025/sep/17/privatisation-premium-billions-from-uk-energy-bills-paid-to-shareholders",
-    "money/2025/sep/23/energy-bills-millions-overpaying-meter-readings-uswitch",
     "money/2025/oct/01/energy-price-cap-great-britain-cut-bill-better-deal",
     "money/2025/oct/01/homes-in-great-britain-brace-for-winter-with-soaring-energy-debts",
-    "money/2025/oct/01/britons-preparing-to-ration-energy-as-ofgem-price-cap-rises-says-charity"
+    "money/2025/sep/23/energy-bills-millions-overpaying-meter-readings-uswitch",
+    "money/2025/oct/01/britons-preparing-to-ration-energy-as-ofgem-price-cap-rises-says-charity",
+    "politics/2025/sep/17/privatisation-premium-billions-from-uk-energy-bills-paid-to-shareholders"
   ],
   "noise": [
     "money/2025/sep/09/shock-in-store-for-350000-uk-households-on-low-interest-fixed-rate-mortgages",
     "money/2025/sep/10/uk-contactless-payments-could-go-above-100-pounds-or-become-unlimited",
     "money/2025/sep/19/uk-isas-cash-tax-savings-accounts-allowance-cut"
   ],
-  "evaluation": "This cluster provides a strong, time-continuous story about the UK energy crisis. It begins with reports on rising household energy debt, includes an analysis of the underlying structural causes, builds up to the anticipated energy price cap increase on October 1st, and culminates with reports on the cap's impact and household coping strategies like rationing. Articles on mortgages, contactless payments, and ISAs were de-noised as they are irrelevant to the core narrative of energy costs and household financial struggles.",
-  "score": 9
+  "evaluation": "The core topic focuses on the escalating UK energy debt crisis, its impact on households, and the context of the energy price cap. Articles detailing the rise in household energy debt (Art 1, 2), the increase of the energy price cap and its consequences (Art 3, 4, 6), practical advice for consumers (Art 5), and underlying structural causes like privatisation (Art 8) form a highly relevant and time-continuous narrative. Articles concerning mortgages (Art 7), contactless payments (Art 9), and ISAs/savings (Art 10) were de-noised as they address distinct financial topics, lacking direct relevance or developmental continuity with the energy crisis storyline.",
+  "score": 10
 }

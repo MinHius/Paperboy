@@ -1,5 +1,5 @@
 {
-  "topic": "Concerns over Georgia's political climate, alleged authoritarianism, and geopolitical alignment.",
+  "topic": "Georgia's political repression under Ivanishvili's influence, with growing autocratic concerns.",
   "articles": [
     "world/2025/sep/13/former-aide-to-de-facto-leader-of-georgia-being-held-as-personal-prisoner-mother-claims",
     "world/2025/sep/14/georgia-freezes-bank-accounts-parents-jailed-former-aide-bidzina-ivanishvili",
@@ -14,6 +14,6 @@
     "politics/2025/oct/01/keir-starmer-narendra-modi-india-jagtar-singh-johal-release",
     "uk-news/2025/sep/22/more-than-150-lawyers-and-refugee-ngos-report-being-pressured-into-silence-by-far-right-protesters"
   ],
-  "evaluation": "The core cluster focuses on the evolving political situation in Georgia, specifically concerns surrounding Bidzina Ivanishvili's influence and the ruling Georgian Dream party. Article 1 details accusations against Ivanishvili regarding a jailed former aide. Article 3 immediately follows up with the freezing of the accuser's bank accounts, directly linked as a consequence. Article 7 broadens the scope, with other jailed Georgian politicians raising concerns about the ruling party's links to Iran, explicitly referencing the Marina Ramazashvili interview from Article 1/3, thus connecting the narratives. The de-noised articles cover distinct, unrelated international and domestic news stories from the UK, China, South Korea, US, and India, which bear no direct relevance or developmental connection to the Georgian political narrative.",
+  "evaluation": "The cluster presents a strong continuous story about the deteriorating political landscape in Georgia. Article 1 establishes the initial claim of political vendetta and accusations of autocracy against the de facto leader, Bidzina Ivanishvili. Article 3 details a direct, punitive consequence—the freezing of bank accounts—against the family previously highlighted, serving as a clear development and reinforcement of the initial allegations. Article 7 expands the narrative by detailing jailed Georgian opposition leaders raising broader concerns about the ruling Georgian Dream party's conduct and international alignment, logically extending the 'autocracy' theme to a wider political context. Noise articles were removed as they discuss unrelated international or domestic issues.",
   "score": 9
 }

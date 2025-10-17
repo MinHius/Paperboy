@@ -1,5 +1,5 @@
 {
-  "topic": "Trump's H-1B visa fee hike impacting tech industry and prompting UK's talent attraction efforts.",
+  "topic": "Trump's $100,000 H-1B Visa Fee Sparks US Tech Concerns and UK Talent Attraction",
   "articles": [
     "us-news/2025/sep/20/trump-administration-news-updates-today-latest",
     "technology/2025/sep/22/trump-visa-fees-techscape-newsletter",
@@ -14,6 +14,6 @@
     "us-news/2025/sep/24/rolex-trump-us-open-invite",
     "us-news/2025/sep/08/trump-tariffs-supreme-court"
   ],
-  "evaluation": "This cluster effectively captures the continuous story of President Trump's decision to significantly increase H-1B visa fees. The articles detail the initial announcement of the $100,000 fee (us-news/2025/sep/20), its immediate impact and concerns within the US tech industry and economy (technology/2025/sep/22 and business/2025/sep/22/trump-h-1b-visa-fees-us-economy-tech-india), and the subsequent international reaction, specifically the UK's strategy to attract skilled workers in response (business/2025/sep/22/uk-visa-fee-cuts-trump-us-charges-h-1b-starmer). The articles deemed noise were primarily focused on various trade tariffs on goods or general legal challenges to tariffs, which are distinct from the H-1B visa fee policy and its specific implications.",
-  "score": 9
+  "evaluation": "This cluster focuses on Donald Trump's decision to increase H-1B visa fees to $100,000. The qualified articles detail the policy announcement, its anticipated negative impact on the US tech industry and economy, and the UK's strategic response to attract talent potentially deterred by the new US policy. This forms a clear, continuous, and developmental narrative. Other articles discussing various general tariff impacts, threats, or legal challenges were de-noised because they represented disparate events or broader policy impacts rather than a direct, evolving story tied to the H-1B visa fee increase. Their inclusion would fragment the primary narrative, making it less synthesizable and specific.",
+  "score": 10
 }

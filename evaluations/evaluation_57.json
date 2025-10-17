@@ -1,19 +1,19 @@
 {
-  "topic": "US military escalates 'war on drugs' with lethal strikes against Venezuelan vessels in the Caribbean",
+  "topic": "Trump's escalating military campaign against Venezuelan drug cartels in the Caribbean",
   "articles": [
-    "world/2025/sep/03/us-military-venezuela-strike-guerrilla-war",
-    "commentisfree/2025/sep/04/trumps-killing-alleged-venezuelan-drug-traffickers",
-    "us-news/2025/sep/05/trump-fighter-planes-puerto-rico-venezuela-drug-cartel",
     "us-news/2025/sep/15/trump-strike-venezuela-drug-cartel-vessel",
     "us-news/2025/sep/19/trump-military-strike-boat-caribbean",
+    "us-news/2025/sep/05/trump-fighter-planes-puerto-rico-venezuela-drug-cartel",
     "world/2025/sep/23/trinidadian-fishers-trump-caribbean-war-on-drugs",
-    "us-news/2025/sep/29/stephen-miller-venezuela-drug-boat-strike",
     "global-development/2025/sep/30/as-us-warships-prowl-the-caribbean-our-region-must-hold-fast-against-trumps-gaslighting",
+    "world/2025/sep/03/us-military-venezuela-strike-guerrilla-war",
+    "commentisfree/2025/sep/04/trumps-killing-alleged-venezuelan-drug-traffickers",
+    "us-news/2025/sep/29/stephen-miller-venezuela-drug-boat-strike",
     "us-news/2025/oct/02/trump-administration-caribbean-drug-cartels"
   ],
   "noise": [
     "society/2025/sep/04/fentanyl-guns-us-mexico-border-arizona-california"
   ],
-  "evaluation": "This cluster provides a highly coherent and continuous narrative detailing the Trump administration's escalating military campaign against alleged Venezuelan drug traffickers in the Caribbean. The story begins with the initial lethal strikes, progresses through subsequent attacks and military deployments, covers regional reactions and internal White House orchestration, and culminates with the administration's legal justifications. All selected articles are directly relevant, chronologically consistent, and contribute significantly to understanding the multi-faceted story. Article 'society/2025/sep/04/fentanyl-guns-us-mexico-border-arizona-california' was de-noised as it discusses fentanyl trafficking at the US-Mexico border, which is entirely separate from the Caribbean operations.",
-  "score": 10
+  "evaluation": "This cluster provides a strong, continuous narrative regarding the Trump administration's military actions against alleged Venezuelan drug traffickers in the Caribbean. The articles detail initial strikes, subsequent deployments, political implications, regional perspectives, internal administration roles, and the evolving legal justifications. Article 'society/2025/sep/04/fentanyl-guns-us-mexico-border-arizona-california' was de-noised as it focuses on fentanyl and gun trafficking at the US-Mexico border, which is entirely separate and irrelevant to the Caribbean military operations.",
+  "score": 9
 }

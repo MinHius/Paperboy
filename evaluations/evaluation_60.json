@@ -1,5 +1,5 @@
 {
-  "topic": "New Zealand fugitive father Tom Phillips shot dead, children rescued after four years in wilderness.",
+  "topic": "New Zealand fugitive Tom Phillips shot dead; children found after four years.",
   "articles": [
     "world/2025/sep/08/tom-phillips-new-zealand-fugitive-father-shot-dead-nz-police",
     "world/live/2025/sep/08/tom-phillips-shooting-live-updates-nz-police-search-for-children-of-fugitive-father-shot-new-zealand-police-latest-updates",
@@ -14,6 +14,6 @@
     "us-news/2025/sep/29/d4vd-tesla-teen-girl",
     "us-news/2025/sep/27/new-york-man-murder-confession-tv-news"
   ],
-  "evaluation": "The cluster focuses on the continuous story of New Zealand fugitive Tom Phillips, his death in a police standoff, and the subsequent rescue of his three children after nearly four years in the wilderness. Articles detail the initial shooting (ID: world/2025/sep/08/tom-phillips-new-zealand-fugitive-father-shot-dead-nz-police, world/live/2025/sep/08/tom-phillips-shooting-live-updates-nz-police-search-for-children-of-fugitive-father-shot-new-zealand-police-latest-updates), the finding of his children and campsite details (ID: world/2025/sep/09/tom-phillips-new-zealand-remote-campsite-images-pictures-revealed), and a reflective piece providing broader context on their time on the run (ID: world/2025/sep/13/as-a-dark-chapter-closes-nz-reckons-with-fugitive-father-tom-phillips-four-years-on-the-run-ntwnfb). The timeline is logical, showing clear story development. Noise articles were removed due to irrelevance in topic, location, and non-continuous nature with the main story, including an inadequate group of two Australian murder articles which did not meet the minimum size requirement for a continuous story.",
+  "evaluation": "This cluster successfully captures the continuous story of New Zealand fugitive Tom Phillips being shot dead by police, the subsequent search for and discovery of his children, and a reflective summary of their four years on the run. Articles progress chronologically, are strictly relevant, and provide significant, developmental updates. Other articles were de-noised due to being unrelated incidents or forming groups of inadequate size for continuous stories (e.g., the Cobblebank murders had only two connected articles, failing the minimum size requirement).",
   "score": 10
 }
