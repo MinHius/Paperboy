@@ -1,0 +1,52 @@
+{
+  "title": "Verstappen Reigns Supreme at US Grand Prix, Reigniting F1 Title Battle Amidst McLaren Driver Drama",
+  "topic": "Verstappen wins US Grand Prix, closing gap in F1 title race as McLaren's drivers clash.",
+  "story": "The Formula One title battle has significantly intensified following a dramatic US Grand Prix, with Max Verstappen re-emerging as a serious contender after a dominant victory. Heading into the Austin weekend, the championship was primarily a McLaren internal affair, with Lando Norris and Oscar Piastri separated by just 22 points, despite the team facing its longest win drought of the season. Verstappen, who had recently won in Monza and Baku, had been 55 points behind and publicly indifferent about his title chances, stating, \"It's 50-50. You either win it, or you don't. I don’t really think about it.\"\n\nThe US Grand Prix at the Circuit of the Americas proved to be a pivotal moment. Verstappen set the tone by claiming pole position with an immense lap. However, a major talking point was an incident during the sprint race where Oscar Piastri crashed into Lando Norris on the opening lap, taking both McLaren drivers out and causing a 'headache' for the team. Further drama unfolded pre-race when Red Bull was fined £43,000 for a gamesmanship attempt, trying to remove a piece of tape McLaren had placed to aid Norris's grid alignment.\n\nIn the main race, Verstappen delivered a flawless drive from pole to flag, securing a dominant win. Lando Norris finished second, while his McLaren teammate and championship leader, Oscar Piastri, managed only fifth place from his sixth-place grid start.\n\nVerstappen's victory has dramatically reshaped the championship landscape. He has now narrowed the gap to championship leader Piastri to 40 points, while Norris is just 14 points behind Piastri, making it a thrilling three-way battle. A beaming Verstappen declared his conviction that he is \"very much in the fight\" for what would be his fifth title. The outcome in Austin suggests that while first place in the race was never in doubt, the intrigue surrounding the championship standings is palpable, with the next race scheduled for Mexico.",
+  "figure": [
+    "Max Verstappen",
+    "Lando Norris",
+    "Oscar Piastri"
+  ],
+  "video": [
+    {
+      "src": "https://www.youtube.com/embed/example_usgp_highlights_video_id",
+      "title": "US Grand Prix Race Highlights"
+    },
+    {
+      "src": "https://www.youtube.com/embed/example_usgp_analysis_video_id",
+      "title": "F1 US Grand Prix Post-Race Analysis"
+    }
+  ],
+  "location": [
+    {
+      "name": "Monza",
+      "lat": 45.5847,
+      "lon": 9.2742
+    },
+    {
+      "name": "Baku",
+      "lat": 40.4093,
+      "lon": 49.8671
+    },
+    {
+      "name": "Singapore",
+      "lat": 1.3521,
+      "lon": 103.8198
+    },
+    {
+      "name": "Austin, Texas",
+      "lat": 30.2672,
+      "lon": -97.7431
+    },
+    {
+      "name": "Circuit of the Americas",
+      "lat": 30.1324,
+      "lon": -97.6369
+    },
+    {
+      "name": "Mexico",
+      "lat": 23.6345,
+      "lon": -102.5528
+    }
+  ]
+}

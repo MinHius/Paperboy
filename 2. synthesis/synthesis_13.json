@@ -1,0 +1,50 @@
+{
+  "title": "Trump Escalates Federal Troop Deployments Amid Legal Battles and 'No Kings' Protests",
+  "topic": "Trump intensifies federal troop deployments in Democratic cities, facing legal challenges and public backlash.",
+  "story": "President Donald Trump is aggressively pushing for federal troop deployments in Democratic-led cities across the United States, igniting widespread legal battles and public dissent.\n\nThis past Wednesday, President Trump publicly targeted San Francisco, California, for potential federal deployment. Speaking from the White House with FBI Director Kash Patel, Trump called the city 'a mess,' asserting a need to protect Americans from crime. Local and state officials, however, continue to label such interventions as unnecessary and unwelcome, a sentiment echoed in cities like Portland, Chicago, Washington D.C., and Los Angeles, already facing similar threats or deployments.\n\nLegally, the administration faces hurdles. On Thursday, a federal appeals court upheld a ruling blocking hundreds of National Guard troops from the Chicago, Illinois, area, citing doubts about the administration's justification. Undeterred, the Trump administration elevated the fight on Friday, petitioning the US Supreme Court to permit the Chicago deployment. Simultaneously, in Portland, Oregon, a federal appeals court panel lifted a block on troop deployment, though a procedural challenge means the legal battle persists. State and local officials vow to continue fighting this deployment, which they argue is based on the president's 'false claims' regarding immigration raid protests.\n\nThese escalating actions follow a Supreme Court ruling last year on presidential immunity, which critics say has emboldened Trump and granted his office monarch-like powers. Trump himself recently posted, 'He who saves his country does not violate any law.' The situation has prompted warnings from former intelligence and national security officials of the country's drift towards 'competitive authoritarianism.' In response, 'No Kings protests' are anticipated across the US this upcoming Saturday, as millions prepare to challenge the president's expanding authority.",
+  "figure": [
+    "Donald Trump",
+    "Kash Patel"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/example_video_id_1",
+    "https://www.youtube.com/embed/example_video_id_2"
+  ],
+  "location": [
+    {
+      "name": "United States",
+      "lat": 37.09024,
+      "lon": -95.712891
+    },
+    {
+      "name": "San Francisco, California",
+      "lat": 37.7749,
+      "lon": -122.4194
+    },
+    {
+      "name": "Portland, Oregon",
+      "lat": 45.5231,
+      "lon": -122.6765
+    },
+    {
+      "name": "Chicago, Illinois",
+      "lat": 41.8781,
+      "lon": -87.6298
+    },
+    {
+      "name": "Washington D.C.",
+      "lat": 38.9072,
+      "lon": -77.0369
+    },
+    {
+      "name": "Los Angeles, California",
+      "lat": 34.0522,
+      "lon": -118.2437
+    },
+    {
+      "name": "Illinois",
+      "lat": 40.6331,
+      "lon": -89.3985
+    }
+  ]
+}

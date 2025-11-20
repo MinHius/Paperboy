@@ -1,0 +1,39 @@
+{
+  "title": "England's World Cup Journey: From Crucial India Victory to Australia Showdown",
+  "topic": "England secures semi-final spot with thrilling win over India, eyes top finish against Australia.",
+  "story": "England's Women's Cricket team found themselves in a strong, yet precarious, position at the World Cup's halfway mark. Unbeaten and sitting third in the points table, they held a 98% chance of semi-final qualification, needing just one more win. Despite this, concerns lingered over their batting performance, save for Nat Sciver-Brunt's century against Sri Lanka, which had often saved them on challenging pitches in Guwahati and Colombo. \n\nThe crucial opportunity came against hosts India on Sunday in Indore. In a thrilling last-over encounter, England successfully defended their total of 288, securing a four-run victory and cementing their place in the semi-finals. The foundation of England's innings was laid by captain Heather Knight, who marked her 300th international appearance with a magnificent century of 109 runs. India mounted a formidable chase, led by skipper Harmanpreet Kaur's 70 and vice-captain Smriti Mandhana's 88 off 94 balls, which at one point threatened to take India to a straightforward victory. However, England's bowlers, particularly Linsey Smith, held their nerve. Smith conceded just four runs in the 48th over and expertly defended 14 off the final over, having earlier taken the vital wicket of Mandhana. \n\nWith semi-final qualification secured, England now looks ahead to a clash with Australia on Wednesday, also in Indore. Both teams have already qualified, but the match carries significant weight. Pundits suggest this game could be a crucial psychological precursor to the final, potentially taking place in Navi Mumbai on November 2, especially given the historical context of January’s Ashes whitewash against England. England's Amy Jones downplayed discussions of the Ashes, but the underlying tension and desire for a strong performance against their rivals are palpable.",
+  "figure": [
+    "Nat Sciver-Brunt",
+    "Heather Knight",
+    "Harmanpreet Kaur",
+    "Smriti Mandhana",
+    "Linsey Smith",
+    "Amy Jones"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/examplevideoid1",
+    "https://www.youtube.com/embed/examplevideoid2"
+  ],
+  "location": [
+    {
+      "name": "Guwahati",
+      "lat": 26.1445,
+      "lon": 91.7362
+    },
+    {
+      "name": "Colombo",
+      "lat": 6.9271,
+      "lon": 79.8612
+    },
+    {
+      "name": "Indore",
+      "lat": 22.7196,
+      "lon": 75.8577
+    },
+    {
+      "name": "Navi Mumbai",
+      "lat": 19.033,
+      "lon": 73.0297
+    }
+  ]
+}

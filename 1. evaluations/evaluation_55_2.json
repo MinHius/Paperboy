@@ -1,0 +1,19 @@
+{
+  "centroid": "Australian federal environment law reform and the controversy surrounding its implementation, particularly regarding fossil fuel projects and their environmental impact, with Minister Murray Watt at the center of policy and approvals.",
+  "articles": [
+    "environment/2025/oct/01/australia-laws-to-protect-the-environment-dont-work-woodside-greenlight-proves-it",
+    "environment/2025/oct/13/legal-challenges-woodside-gas-plant-north-west-shelf-extension-environmental-cultural-grounds",
+    "australia-news/2025/oct/22/companies-could-have-profits-from-breaking-environment-laws-stripped-under-australian-reforms",
+    "environment/2025/oct/22/greens-say-labors-nature-laws-revamp-worse-than-status-quo-with-climate-impact-of-fossil-fuel-projects-overlooked"
+  ],
+  "noise": [
+    "australia-news/2025/sep/27/native-forest-logging-must-end-in-order-to-reach-labors-emissions-reduction-target-expert-says",
+    "us-news/2025/oct/06/trump-logging-forests",
+    "australia-news/2025/oct/02/nsw-fast-track-planning-laws-could-allow-mines-to-be-approved-without-environmental-assessment-ntwnfb",
+    "commentisfree/2025/oct/16/labour-england-nature-housing-planning-bill",
+    "environment/commentisfree/2025/oct/01/news-corp-daily-telegraph-calls-climate-crisis-science-fiction",
+    "commentisfree/2025/sep/24/the-guardian-view-on-the-climate-crisis-green-energy-is-booming-but-fossil-fuels-need-to-shrink-too"
+  ],
+  "evaluation": "The core continuous story focuses on the inadequacy of Australia's federal environment laws, exemplified by the controversial approval of the Woodside North West Shelf gas plant extension by Environment Minister Murray Watt. This approval led to legal challenges and subsequently spurred the Albanese government to propose new environmental reforms. The proposed reforms, however, immediately faced criticism, particularly from the Greens, for not adequately addressing the climate impact of fossil fuel projects. This sequence (problem, legal challenge, proposed solution, political debate) forms a cohesive, developmental narrative. Noisy articles were removed for being either geographically irrelevant (US, UK, global climate views), or discussing distinct environmental issues (native forest logging, NSW state planning laws) or general media criticism not directly tied to the federal law reform narrative.",
+  "score": 9.5
+}

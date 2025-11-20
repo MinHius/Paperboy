@@ -1,0 +1,19 @@
+{
+  "centroid": [],
+  "articles": [
+    "australia-news/2025/oct/13/morning-mail-monday-ntwnfb",
+    "australia-news/2025/oct/06/morning-mail-monday-ntwnfb",
+    "australia-news/2025/oct/14/morning-mail-tuesday-ntwnfb",
+    "australia-news/2025/sep/22/morning-mail-monday-ntwnfb",
+    "australia-news/2025/oct/02/morning-mail-israel-intercepts-gaza-flotilla-the-fight-to-repair-gadgets-designed-to-fail-jane-goodall-dies",
+    "australia-news/2025/oct/07/morning-mail-tuesday-ntwnfb"
+  ],
+  "noise": [
+    "australia-news/2025/oct/21/morning-mail-tuesday-ntwnfb",
+    "australia-news/2025/oct/22/morning-mail-wednesday-ntwnfb",
+    "australia-news/2025/oct/17/morning-mail-friday-ntwnfb",
+    "australia-news/2025/sep/30/morning-mail-tuesday-ntwnfb"
+  ],
+  "evaluation": "The main topic of this continuous story is the evolving Middle East conflict, specifically focusing on peace efforts in the Gaza region. The narrative begins with Australia's recognition of Palestinian statehood, progressing through the proposal and discussions of Donald Trump's peace plan, the humanitarian event of the Gaza aid flotilla and its contentious aftermath, and culminating in the preparation for and signing of a significant peace agreement at a summit, alongside the release of Israeli hostages and Palestinian prisoners. The timeline is logical, showing a clear developmental arc of diplomatic efforts and direct actions. Articles were de-noised by strictly adhering to the primary focus of each article; those whose lead stories or overall emphasis were not predominantly on the Middle East peace process (e.g., Albanese-Trump meetings, domestic policy, financial news, other international events like the Ukraine war) were moved to the noise list to ensure strict relevance and synthesizability.",
+  "score": 9
+}

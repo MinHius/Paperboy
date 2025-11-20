@@ -1,0 +1,19 @@
+{
+  "centroid": "N/A",
+  "articles": [
+    "commentisfree/2025/oct/17/the-guardian-view-on-trump-and-the-law-a-restraint-on-the-executive-is-morphing-into-its-weapon",
+    "us-news/2025/oct/15/san-francisco-trump-national-guard-troops",
+    "us-news/2025/oct/17/trump-supreme-court-national-guard-illinois",
+    "us-news/live/2025/oct/20/james-comey-donald-trump-charges-shutdown-albanese-politics-live-updates"
+  ],
+  "noise": [
+    "commentisfree/2025/oct/16/the-us-and-venezuela-trumps-war-on-drugs-ramps-up-military-threats-to-maduro",
+    "us-news/2025/oct/15/trump-venezuela-cia-maduro",
+    "us-news/2025/oct/20/trump-briefing-news-at-a-glance-latest",
+    "us-news/2025/oct/16/trump-administration-news-updates-today-latest",
+    "us-news/2025/oct/22/gavin-newsom-trump-food-benefits",
+    "environment/2025/oct/15/trump-threatens-vulnerable-countries-before-key-shipping-emissions-vote"
+  ],
+  "evaluation": "The core continuous story identified revolves around Donald Trump's assertion of executive power, particularly concerning the domestic deployment of federal troops, and the legal and public challenges to these actions. Article 1 sets the thematic context by discussing Trump's growing presidential power and challenges to the rule of law. Article 5 details Trump's suggestion of federal troop deployment in San Francisco, indicating an intention. This is followed by Article 8, which reports on the administration's active pursuit of Supreme Court approval for National Guard deployment in Illinois after lower court blocks. Finally, Article 9 updates on an ongoing legal battle regarding federal troop deployment in Portland, showing the continuous nature of these judicial challenges. Articles related to Venezuela policy (Articles 2, 3), Colombia policy (Article 4), the government shutdown's impact on federal employees and food benefits (Articles 6, 7), and environmental/trade policy (Article 10) were de-noised as they do not directly contribute to this specific, developing narrative on executive power and domestic troop deployments, making them distinct and unrelated stories.",
+  "score": 9
+}

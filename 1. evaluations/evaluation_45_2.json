@@ -1,0 +1,19 @@
+{
+  "centroid": "Cluster 45",
+  "articles": [
+    "football/2025/sep/22/football-daily-liverpool-arsenal-manchester-city",
+    "football/2025/oct/17/liverpool-manchester-united-transfers-goalkeepers-preview-newsletter-football-daily",
+    "football/2025/oct/20/get-to-the-chopper-hopes-hair-rise-manchester-united-win-two-on-spin-liverpool-football-daily"
+  ],
+  "noise": [
+    "football/2025/sep/26/aston-villa-bologna-unai-emery-europa-league-football-daily",
+    "football/2025/sep/29/west-ham-want-a-bounce-but-the-club-is-a-mess-from-top-to-bottom",
+    "football/2025/oct/16/football-daily-email-glasner-iraola-in-demand-manager-derby",
+    "football/2025/oct/15/england-thomas-tuchel-world-cup-2026-football-daily-newsletter",
+    "football/2025/oct/08/football-daily-email-steven-gerrard-england-egotistical-losers",
+    "football/2025/oct/09/football-daily-email-republic-of-ireland-portugal-ronaldo",
+    "football/2025/oct/21/sweden-evangelos-marinakis-nottingham-forest-football-daily-newsletter"
+  ],
+  "evaluation": "The core cluster of articles revolves around the early season performance of Liverpool and Manchester United, culminating in a preview and post-match context of their rivalry. Article 2 details Liverpool's strong start and position at the top of the league in late September. Article 4 previews the highly anticipated Liverpool vs Manchester United match in mid-October, highlighting both teams' current form (with particular emphasis on United's struggles). Article 5 provides further context on Manchester United's poor run under manager Ruben Amorim, as seen through a fan's unique challenge. This forms a logical, time-continuous, and developmental story focusing on these two major clubs. All other articles were de-noised as they cover disparate topics such as Aston Villa's win, West Ham's managerial situation, Oliver Glasner's award, England's international match, Republic of Ireland's international game, Nottingham Forest's owner's actions, and a philosophical piece about a podcast, none of which connect to form a continuous narrative with each other or the main Liverpool/Man Utd story.",
+  "score": 8.5
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": "",
+  "articles": [
+    "film/2025/oct/11/diane-keaton-oscar-winning-star-of-annie-hall-and-the-godfather-dies-aged-79",
+    "film/2025/oct/11/an-ethereally-self-aware-comedy-genius-the-loss-of-diane-keaton-is-devastating",
+    "film/2025/oct/12/diane-keaton-comedy-queen-annie-hall-somethings-gotta-give",
+    "film/2025/oct/13/writers-remember-diane-keaton-annie-hall-first-wives-club",
+    "film/2025/oct/13/diane-keaton-woody-allen-pays-tribute",
+    "artanddesign/2025/oct/15/a-photographer-with-a-cool-and-deadly-eye-diane-keatons-creativity-behind-the-lens",
+    "film/2025/oct/16/diane-keaton-cause-death"
+  ],
+  "noise": [
+    "tv-and-radio/2025/sep/21/watchdog-cornflakes-tv-and-so-much-more-john-stapleton-the-tv-star-who-could-do-it-all",
+    "stage/2025/oct/03/patricia-routledge-brought-humanity-to-an-array-of-eccentrics-from-hyacinth-bucket-to-lady-bracknell",
+    "tv-and-radio/2025/oct/03/patricia-routledge-obituary"
+  ],
+  "evaluation": "The primary continuous story revolves around the death of actress Diane Keaton, announced on October 11, 2025. The cluster includes the initial news of her passing, multiple tributes and reflections on her career and impact from various perspectives (including Woody Allen and other writers), and a follow-up article revealing her cause of death. This sequence presents a clear, logical, and developing narrative. Articles related to the obituaries of John Stapleton and Patricia Routledge were de-noised as they represent entirely separate individuals and events, and their respective sub-clusters did not meet the minimum size requirement of three articles to form a continuous story.",
+  "score": 10
+}

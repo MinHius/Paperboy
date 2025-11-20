@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "books/2025/oct/08/can-xue-and-laszlo-krasznahorkai-are-joint-favourites-to-win-2025-nobel-prize-in-literature",
+    "books/2025/oct/09/laszlo-krasznahorkai-wins-the-nobel-prize-in-literature-2025",
+    "books/live/2025/oct/09/nobel-prize-in-literature-2025-live",
+    "books/2025/sep/23/brilliantly-human-kiran-desai-and-david-szalay-make-booker-prize-shortlist",
+    "books/2025/sep/23/booker-prize-judge-shortlist-six",
+    "commentisfree/2025/sep/28/the-guardian-view-on-the-2025-booker-prize-bringing-posh-bingo-to-the-booktok-generation"
+  ],
+  "noise": [
+    "books/2025/oct/07/bryan-washington-rabih-alameddine-national-book-award-finalists",
+    "books/2025/oct/07/sarah-hall-and-charlie-porter-writers-goldsmiths-prize-shortlist",
+    "books/2025/oct/04/best-australian-books-out-now-october-2025-trent-dalton-bri-lee-melissa-leong",
+    "books/2025/oct/07/ts-eliot-poetry-prize-shortlist-announced-tom-paulin-sarah-howe"
+  ],
+  "evaluation": "The cluster was analyzed to identify continuous and developmental stories, primarily focusing on literary awards. Two main continuous story threads were successfully extracted. The first thread covers the 2025 Nobel Prize in Literature, starting with the prediction of favorites (Oct 8), followed by the official announcement of László Krasznahorkai as the winner (Oct 9), and concluding with a live blog summary and reaction (Oct 9). This demonstrates clear temporal and event-based progression. The second thread concerns the 2025 Booker Prize, featuring the shortlist announcement (Sep 23), a judge's perspective on the shortlisting process (Sep 23), and an opinion piece discussing the prize's public perception (Sep 28). These articles provide both factual updates and contextual commentary, forming a coherent thematic sequence. Articles identified as noise (National Book Award, Goldsmiths Prize, TS Eliot Poetry Prize, Best Australian Books list) were singular announcements or unrelated lists for distinct literary events or book recommendations that did not form a continuous or developmental narrative of adequate size (minimum 3 articles) within themselves or with the identified main stories. They lacked the necessary temporal or thematic depth for synthesis into a continuous story.",
+  "score": 9
+}

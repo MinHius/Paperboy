@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "sport/2025/sep/25/kansas-city-chiefs-patrick-mahomes-nfl",
+    "sport/2025/sep/29/chiefs-ravens-lamar-jackson-nfl",
+    "sport/2025/oct/13/lions-chiefs-fight-nfl-brian-branch",
+    "sport/live/2025/oct/19/nfl-week-seven-chiefs-raiders-vikings-eagles-titans-patriots-and-more-live"
+  ],
+  "noise": [
+    "sport/2025/oct/06/nfl-weeks-five-jets-eagles-ravens",
+    "sport/live/2025/oct/05/nfl-week-five-eagles-broncos-texans-ravens-jets-cowboys-live",
+    "sport/2025/sep/22/for-just-one-game-caleb-williams-finally-game-the-long-suffering-bears-hope",
+    "sport/live/2025/oct/12/steelers-v-browns-ravens-v-rams-and-more-nfl-week-six-live",
+    "sport/2025/sep/26/detroit-tigers-baseball-al-central-cleveland-guardians",
+    "sport/2025/oct/13/drake-maye-new-england-patriots-quarterback"
+  ],
+  "evaluation": "This cluster was meticulously evaluated to identify a core, continuous, and developmental story. The primary narrative identified focuses on the Kansas City Chiefs' early-season performance in the 2025 NFL season. The selected articles sequentially detail their initial struggles (starting with a 1-2 record and Patrick Mahomes' form), followed by significant wins that mark a clear turnaround in their season's trajectory. This progression from a struggling team to one achieving multiple victories forms a coherent and informative developmental story. Articles deemed noise include those covering other NFL teams (such as the Ravens, Jets, Bears, and Patriots) where the coverage was either isolated, not part of a developmental sequence of adequate size, or articles pertaining to a completely different sport (Detroit Tigers baseball). These were de-noised to ensure the final group is strictly relevant, highly connected, and ready for synthesis into a singular, cohesive report.",
+  "score": 10
+}

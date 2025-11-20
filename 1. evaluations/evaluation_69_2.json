@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "sport/blog/2025/sep/23/dream-afl-grand-final-offers-chance-to-stake-claim-to-being-among-greatest-of-this-era",
+    "sport/2025/sep/27/afl-grand-final-winner-results-geelong-cats-vs-brisbane-lions-match-report",
+    "sport/live/2025/sep/27/afl-grand-final-2025-live-updates-geelong-vs-lions-blog-scores-results-start-time-cats-v-lions-mcg",
+    "sport/blog/2025/sep/28/lions-in-dreamland-as-staggering-second-half-delivers-grand-final-glory-to-brisbane"
+  ],
+  "noise": [
+    "sport/blog/2025/oct/05/nrl-grand-final-brisbane-broncos-melbourne-storm-reece-walsh",
+    "sport/blog/2025/sep/30/nrl-grand-final-broncos-ended-one-dynasty-must-beat-benchmark-for-glory-against-melbourne-storm",
+    "sport/2025/oct/04/brisbane-broncos-nrlw-sydney-roosters-2025-grand-final-matchup-preview",
+    "sport/2025/oct/02/nrl-poised-to-pip-afl-for-largest-grand-final-broadcast-audience-for-first-time-in-a-decade",
+    "sport/live/2025/oct/05/nrlw-2025-grand-final-sydney-roosters-v-brisbane-broncos-women-rugby-league-live-updates",
+    "sport/live/2025/oct/05/nrl-2025-grand-final-melbourne-storm-v-brisbane-broncos-rugby-league-live"
+  ],
+  "evaluation": "The primary continuous story identified within this cluster is the 2025 AFL Grand Final. The selected articles cover the event developmentally, starting with a preview of the Geelong vs Brisbane matchup (Sep 23), followed by live updates and the match report of Brisbane's victory (both Sep 27), and concluding with a post-match analysis of the Lions' win (Sep 28). This sequence provides a clear, logical, and informative narrative of the event. \n\nArticles pertaining to the NRL Men's Grand Final (Reece Walsh focus, Storm dynasty, Broncos win) and the NRLW Grand Final (Roosters vs Broncos preview, live updates) were de-noised as they represent distinct sporting events and do not contribute to the developmental story of the AFL Grand Final. The article comparing NRL and AFL broadcast audiences was also considered noise for this specific story, as its focus is a comparative analysis rather than a direct developmental part of the AFL Grand Final event.",
+  "score": 9
+}

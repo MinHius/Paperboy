@@ -1,0 +1,34 @@
+{
+  "title": "France's Government Navigates Crisis: Pension Pause and No-Confidence Survival",
+  "topic": "French PM Lecornu survives no-confidence votes, suspends pension reform amid ongoing political turmoil.",
+  "story": "France's political landscape remains turbulent as Prime Minister Sébastien Lecornu's newly formed minority government narrowly survived two no-confidence votes this week. The votes followed Lecornu's unexpected resignation last week and subsequent reappointment, during which he quickly assembled a new cabinet before President Emmanuel Macron departed for a Gaza peace summit in Egypt. This comes amidst a period of significant political instability in France, which has seen several government changes in a short time. \n\nOn Tuesday, in a pivotal policy speech at the National Assembly, Prime Minister Lecornu announced the suspension of President Macron’s flagship 2023 pension overhaul. This reform aimed to raise the retirement age from 62 to 64. Lecornu stated the law would be paused until after the 2027 presidential election, specifically until January 2028. This strategic move aimed at garnering support from the Socialist party to avert a no-confidence vote. The centre-right Les Républicains (LR) pledged support for the government, while the radical-left France Unbowed (LFI) and the far-right National Rally (RN) had submitted no-confidence motions.\n\nCapitalizing on the government's fragile state, Boris Vallaud, head of the Socialist party grouping in parliament, declared on Wednesday that his party would vigorously pursue the introduction of a wealth tax to target France's richest individuals. Vallaud emphasized this as \"one of our principal battles.\"\n\nThe week culminated on Thursday, when Lecornu's government faced and survived two no-confidence motions. Addressing parliament, Lecornu urged lawmakers to engage in \"parliamentary debate\" on the upcoming budget, warning against \"political chaos.\" The first motion, brought by France Unbowed, garnered 271 votes, falling 18 votes short of the 289 needed to topple the government. A second motion, tabled by Marine Le Pen's National Rally, also failed.\n\nDespite surviving, the government remains the weakest cabinet in decades, reflecting a broader \"crise de régime\" in France, which has seen three governments collapse in less than a year. The nation now anticipates a \"brutal two-month battle\" in parliament to pass the budget. Political analysts suggest President Macron, currently in his final 18 months in power, is the figure most damaged by this persistent domestic political crisis.",
+  "figure": [
+    "Sébastien Lecornu",
+    "Emmanuel Macron",
+    "Boris Vallaud",
+    "Marine Le Pen"
+  ],
+  "video": [],
+  "location": [
+    {
+      "name": "France",
+      "lat": 46.2276,
+      "lon": 2.2137
+    },
+    {
+      "name": "National Assembly",
+      "lat": 48.8618,
+      "lon": 2.3214
+    },
+    {
+      "name": "Gaza",
+      "lat": 31.5,
+      "lon": 34.4667
+    },
+    {
+      "name": "Egypt",
+      "lat": 26.8206,
+      "lon": 30.8025
+    }
+  ]
+}

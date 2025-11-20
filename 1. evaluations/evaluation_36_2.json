@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "football/2025/oct/02/nottingham-forest-midtjylland-europa-league-match-report",
+    "football/2025/oct/05/postecoglou-enters-talks-intent-on-keeping-job-at-nottingham-forest",
+    "football/2025/oct/05/newcastle-nottingham-forest-premier-league-match-report",
+    "football/live/2025/oct/18/nottingham-forest-v-chelsea-premier-league-live",
+    "football/2025/oct/18/ange-postecoglou-sacked-by-nottingham-forest-after-40-days-as-head-coach",
+    "football/2025/oct/18/ange-postecoglou-rapid-nottingham-forest-exit-leaves-marinakis-rebuild-in-peril",
+    "football/2025/oct/18/nottingham-forest-approach-dyche-and-mancini-after-postecoglou-sacked",
+    "football/2025/oct/20/nottingham-forest-sean-dyche-close-appointing-head-coach"
+  ],
+  "noise": [
+    "football/live/2025/oct/18/premier-league-returns-postecoglou-arsenal-matchday-live",
+    "football/live/2025/oct/18/manchester-city-v-everton-brighton-v-newcastle-and-more-football-live"
+  ],
+  "evaluation": "This cluster successfully captures the continuous and developmental story of Ange Postecoglou's brief and tumultuous tenure as Nottingham Forest head coach. The narrative progresses from his early struggles and mounting pressure (Oct 2-5), through the crucial match against Chelsea that led to his sacking (Oct 18), and concludes with the immediate aftermath, including analysis of his departure and the club's search for a replacement (Oct 18-20). The timeline is logical, and the coverage is significant, providing a clear beginning, middle, and end to this particular story arc. \n\nTwo articles were de-noised: 'football/live/2025/oct/18/premier-league-returns-postecoglou-arsenal-matchday-live' was too generic, functioning primarily as a broad matchday preview with insufficient specific detail to contribute to the core narrative. 'football/live/2025/oct/18/manchester-city-v-everton-brighton-v-newcastle-and-more-football-live' was completely irrelevant, covering unrelated Premier League matches.",
+  "score": 9
+}

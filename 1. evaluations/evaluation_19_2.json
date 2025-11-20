@@ -1,0 +1,18 @@
+{
+  "centroid": "centroid_vector_placeholder",
+  "articles": [],
+  "noise": [
+    "environment/2025/oct/23/country-diary-theres-something-cooking-in-the-woods",
+    "environment/2025/oct/10/country-diary-a-wild-morning-at-the-ploughing-match",
+    "environment/2025/sep/26/country-diary-on-harvest-open-day-celebration-relief-and-flying-gazebos",
+    "environment/2025/oct/08/country-diary-the-marshes-are-graced-with-a-little-catwalk-glamour",
+    "environment/2025/sep/30/country-diary-an-unexpected-vista-of-sky-light-and-symmetry",
+    "environment/2025/oct/20/country-diary-the-salty-symphony-of-waders-in-autumn",
+    "environment/2025/oct/14/country-diary-an-easy-going-bunch-doing-hard-work-on-the-moor",
+    "environment/2025/sep/27/country-diary-the-magic-and-mystery-of-the-new-forest-drift",
+    "environment/2025/oct/18/country-diary-racing-peregrines-among-the-rusting-mills",
+    "environment/2025/oct/04/country-diary-ragged-butterflies-comatose-bees-these-are-the-last-of-the-summer-sights"
+  ],
+  "evaluation": "The cluster consists of ten 'Country Diary' articles, each a standalone observational piece about nature, local events, or landscapes. While they share a common theme of environmental observation during autumn, there is no continuous, developmental narrative or shared subject matter that evolves across multiple articles. Each article presents a distinct snapshot, such as a ploughing match, a harvest day, specific wildlife observations, or a local tradition. No group of three or more articles demonstrates the necessary chronological progression, direct causal links, or evolving events required for a continuous story. Therefore, the cluster does not contain any synthesizable developmental stories.",
+  "score": 0
+}

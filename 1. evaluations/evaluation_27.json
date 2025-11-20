@@ -1,0 +1,22 @@
+{
+  "centroid": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "articles": [],
+  "noise": [
+    "sport/2025/oct/19/expanding-variety-at-the-royal-albert-hall",
+    "uk-news/2025/oct/22/non-crime-hate-or-differing-opinions",
+    "society/2025/oct/21/the-ultimate-meaning-of-six-sevvuhnn-and-everything",
+    "lifeandstyle/2025/oct/17/an-unbreakable-lock-on-your-bike",
+    "lifeandstyle/2025/oct/20/protecting-the-crown-jewels-in-pilates-classes",
+    "technology/2025/oct/16/heed-warnings-from-wolmar-on-robotaxis",
+    "uk-news/2025/oct/14/nothing-to-fear-in-london-but-loud-lamborghinis",
+    "stage/2025/oct/21/microphones-are-weakening-actors-voices",
+    "tv-and-radio/2025/oct/20/not-all-witch-hunts-required-witches",
+    "uk-news/2025/oct/19/london-scream-club-viral-trend-tiktok"
+  ],
+  "evaluation": "This cluster primarily consists of 'Letters to the Editor' (Articles 1-9) that comment on a variety of distinct and unrelated news stories not present within this cluster. These articles do not form a continuous or developmental narrative amongst themselves. Article 10 is a standalone news report about the 'London Scream Club' but lacks any supporting or subsequent articles within the cluster to demonstrate development or continuity of this specific story. No group of three or more articles could be identified as being continuous, developmental, strictly relevant, or synthesizable. Consequently, all articles are considered noise for the purpose of forming a coherent news story.",
+  "score": 0
+}

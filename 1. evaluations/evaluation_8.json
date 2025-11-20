@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "politics/2025/oct/21/reeves-says-economic-damage-caused-by-brexit-forcing-her-to-take-action-in-budget",
+    "politics/2025/oct/17/chancellor-says-she-cant-leave-welfare-untouched-this-parliament-ahead-of-tough-budget",
+    "uk-news/2025/oct/15/rachel-reeves-brexit-impact-tax-and-spending-budget",
+    "politics/2025/oct/16/rachel-reeves-says-those-broadest-shoulders-should-pay-fair-share-tax",
+    "politics/2025/oct/22/chancellor-hoping-shift-in-tone-on-brexit-will-ring-true-for-key-groups-of-voters",
+    "politics/2025/oct/15/rachel-reeves-says-higher-taxes-on-wealthy-part-of-the-story-for-november-budget",
+    "uk-news/2025/oct/16/rachel-reeves-should-consider-welfare-cuts-in-budget-ifs-says",
+    "politics/2025/oct/21/rachel-reeves-set-to-launch-blitz-on-business-bureaucracy-to-save-firms-6bn"
+  ],
+  "noise": [
+    "commentisfree/2025/oct/14/rachel-reeves-tax-voters-wealth-society",
+    "politics/2025/oct/21/how-rachel-reeves-could-balance-britains-books-and-lower-inequality"
+  ],
+  "evaluation": "This cluster effectively tracks the developing narrative around Rachel Reeves' preparations for the November budget. The main topic revolves around her strategy for tackling economic challenges, including proposals for tax rises (targeting the wealthy), potential spending cuts (particularly in welfare), and the impact of Brexit on fiscal policy. The articles provide a continuous and developmental timeline, reporting her statements, policy hints, and related expert analysis from October 15-22, 2025. Two articles were de-noised: one was an opinion piece ('commentisfree') speculating on tax rises, and the other was an advocacy-style article suggesting policy directions rather than reporting factual news developments. Both were excluded as they do not constitute direct, informative news coverage suitable for a continuous story.",
+  "score": 9
+}

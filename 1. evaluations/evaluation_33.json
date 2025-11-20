@@ -1,0 +1,19 @@
+{
+  "centroid": "Not Provided",
+  "articles": [
+    "australia-news/live/2025/oct/20/australia-news-live-space-debris-wa-albanese-trump-meeting-labor-supermarkets-price-gouging-barnaby-joyce-nationals-coalition-sussan-ley-net-zero-ntwnfb",
+    "australia-news/live/2025/oct/21/australia-news-live-michaelia-cash-china-jet-raaf-prime-minister-anthony-albanese-donald-trump-white-house-critical-minerals-deal-ntwnfb",
+    "australia-news/live/2025/oct/22/australia-news-live-weather-nsw-qld-heat-record-melbourne-destructive-wind-rex-airlines-bid-albanese-washington-sussan-ley-labor-coalition-ntwnfb"
+  ],
+  "noise": [
+    "world/live/2025/oct/19/gaza-ceasefire-israel-hamas-rafah-hostages-middle-east-crisis-live-news-updates",
+    "australia-news/live/2025/oct/16/australia-news-live-tony-burke-crypto-atms-crime-real-income-aihw-wellbeing-bluey-coins-mint-ntwnfb",
+    "australia-news/live/2025/oct/14/australia-news-live-jim-chalmers-superannuation-concession-tax-cybercrime-anthony-albanese-sussan-ley-coalition-penny-wong-israel-gaza-ntwnfb",
+    "environment/live/2025/oct/16/australian-bird-of-the-year-2025-winner-announcement-live",
+    "australia-news/live/2025/oct/15/australia-news-live-liberals-infighting-james-paterson-sussan-ley-andrew-hastie-superannuation-jim-chalmers-ntwnfb",
+    "us-news/live/2025/oct/17/donald-trump-john-bolton-volodymyr-zelenskyy-us-politics-latest-news-updates",
+    "australia-news/live/2025/oct/17/australia-news-live-sussan-ley-anthony-albanese-trump-meeting-foi-climate-laws-ntwnfb"
+  ],
+  "evaluation": "The core continuous story identified revolves around Australian Prime Minister Anthony Albanese's visit to Washington for a meeting with Donald Trump, the subsequent political commentary regarding Australia's ambassador Kevin Rudd, and Opposition Leader Sussan Ley's evolving stance. Article 2 (Oct 20) sets the stage with Albanese's arrival. Article 10 (Oct 21) details the meeting's outcomes, including a critical rare earths deal, and the controversy surrounding Trump's comments to Rudd and Ley's initial criticism. Article 7 (Oct 22) shows the development of Ley walking back her calls for Rudd's sacking, providing a clear, logical, and time-continuous narrative. \n\nOther articles were de-noised for several reasons: Article 1 and 8 cover distinct international events (Gaza ceasefire, Trump-Zelenskyy) unrelated to the main Australian political narrative. Articles 3, 4, 6, and 9 are daily 'What we learned' recaps, which compile disparate, non-continuous news items rather than focusing on a single developmental story. Article 5, 'Australian Bird of the Year', is considered noise as it is an event announcement and does not constitute actual informative, developmental news content according to the strict criteria.",
+  "score": 9
+}

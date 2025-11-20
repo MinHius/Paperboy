@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "us-news/2025/oct/21/new-york-city-chinatown-ice-raids-protests",
+    "us-news/2025/oct/22/new-york-chinatown-ice-raids-letitia-james",
+    "us-news/2025/oct/22/new-york-chinatown-ice-raid-reaction"
+  ],
+  "noise": [
+    "us-news/2025/oct/17/ice-chicago-protesters-arrests-broadview-facility",
+    "us-news/2025/oct/20/military-veterans-arrested-injured-lawmakers-ice",
+    "us-news/2025/oct/20/ice-facilities-lighting-overnight",
+    "us-news/2025/oct/16/chicago-ice-immigration-body-camera",
+    "world/2025/oct/21/police-car-set-on-fire-in-protests-outside-dublin-hotel-housing-asylum-seekers",
+    "us-news/2025/oct/21/deputy-marshal-shot-los-angeles",
+    "us-news/2025/oct/16/ice-immigration-queer-trans-louisiana"
+  ],
+  "evaluation": "This cluster was validated for continuous stories focusing on ICE enforcement actions. A clear, developmental narrative emerged around the ICE raid in Manhattan's Chinatown, New York. This story includes the initial raid and subsequent protests (Article 2), the response from the New York Attorney General and revelations of citizens' arrests (Article 5), and further outrage from local/state officials with additional details of the operation (Article 10). These three articles form a cohesive, time-continuous, and informative story. Other articles were de-noised for various reasons: Article 7 is irrelevant due to its focus on protests in Dublin, Ireland. Articles 4 and 9 discuss conditions and abuse within ICE detention facilities, which, while related to ICE, do not directly contribute to the narrative of specific raids or protests. Article 8 describes a distinct shooting incident during an immigration enforcement operation in Los Angeles. Articles 1 and 6, while related to ICE protests in Chicago, formed a group of only two articles, failing the minimum size requirement for a continuous story. Article 3 provided general context about veterans in protests but lacked specific development with other articles.",
+  "score": 9
+}

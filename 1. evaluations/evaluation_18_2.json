@@ -1,0 +1,19 @@
+{
+  "centroid": "N/A (Centroid vector was not provided in the input prompt)",
+  "articles": [
+    "environment/2025/oct/05/hot-public-holiday-expected-for-sydney-and-brisbane-after-record-rain-for-parts-of-nsw-and-queensland-in-september",
+    "australia-news/2025/oct/18/october-heat-weather-records-could-tumble-multiple-states-bureau-meteorology-forecast",
+    "environment/2025/oct/20/east-coast-weather-high-temperatures-after-record-breaking-heat-west",
+    "environment/2025/oct/21/australia-weather-october-heat-records-sydney-birdsville-temperature-forecast",
+    "environment/2025/oct/22/sydney-weather-nsw-heat-bom-forecast-wind-warnings-australia"
+  ],
+  "noise": [
+    "environment/2025/oct/16/summer-is-coming-sooner-and-its-lasting-longer-what-the-weather-has-in-store-for-australia",
+    "environment/2025/sep/26/fears-of-abnormally-hot-days-in-southern-australia-after-sudden-stratospheric-warming-over-antarctica",
+    "news/2025/sep/25/australias-horrifying-climate-future-in-four-charts-and-how-we-can-avoid-the-worst",
+    "news/2025/sep/26/the-crunch-australias-horrifying-climate-future-finding-clothes-that-fit-and-charting-the-perfect-coffee",
+    "australia-news/2025/oct/10/severe-weather-tasmania-wind-fallen-trees-powerlines"
+  ],
+  "evaluation": "This cluster effectively tracks the development of an unprecedented October heatwave across Australia. The core narrative progresses logically from early forecasts of warm conditions (Oct 5), to predictions of record-breaking heat (Oct 18, 20), and then to reports of actual records being broken in various states (WA, SA on Oct 20; QLD, NSW on Oct 21; Sydney on Oct 22). Articles were de-noised if they covered general climate change reports, seasonal outlooks, scientific explanations of climate phenomena, or unrelated severe weather events (e.g., Tasmania winds), as these did not contribute to the specific, time-continuous story of the unfolding October heatwave and its immediate impacts.",
+  "score": 10
+}

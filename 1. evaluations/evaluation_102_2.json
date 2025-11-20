@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "world/2025/sep/29/pro-european-party-won-moldovas-election-but-obstacles-to-join-the-eu-remain",
+    "world/2025/sep/27/moldova-election-determine-future-europe-russia",
+    "world/2025/sep/28/moldova-heads-to-the-polls-in-tense-vote-that-could-steer-country-closer-to-eu-or-russia",
+    "world/2025/sep/29/moldova-election-result-boosts-move-towards-eu-away-from-moscow",
+    "world/2025/oct/01/this-is-europe-moldova-election-russian-interference",
+    "world/2025/sep/25/why-are-moldovas-parliamentary-elections-on-sunday-so-important",
+    "world/2025/sep/30/share-your-reaction-to-the-moldova-election-results",
+    "world/2025/sep/27/moldova-diaspora-critical-in-elections-as-country-battles-russian-vote-buying-says-former-minister"
+  ],
+  "noise": [
+    "world/2025/sep/30/will-pivotal-election-turn-czech-republic-into-another-anti-eu-agitator",
+    "world/2025/sep/27/estonia-city-mayoral-election-moscow-threat"
+  ],
+  "evaluation": "This cluster effectively captures the continuous story of Moldova's pivotal parliamentary election in late September 2025. The core narrative spans from the pre-election build-up and its significance for the country's pro-EU path versus Russian influence (Articles 6, 2, 8), through the election day and initial results (Article 3), to the final outcome and post-election analysis, including condemnation of Russian interference (Articles 1, 4, 5, 7). The timeline is logical and developmental. Articles 9 (Czech Republic election) and 10 (Estonia city election and Russian threats) were de-noised as they cover entirely distinct political events in different countries, bearing no direct relevance or developmental connection to the Moldova election story.",
+  "score": 9
+}

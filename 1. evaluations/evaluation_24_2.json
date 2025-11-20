@@ -1,0 +1,19 @@
+{
+  "centroid": "Not provided in input",
+  "articles": [
+    "us-news/2025/sep/28/trump-administration-news-updates-today",
+    "us-news/2025/sep/28/oregon-trump-national-guard-troops-portland",
+    "us-news/2025/sep/29/portland-national-guard-trump-deployment-lawsuit",
+    "us-news/2025/oct/04/woman-shot-border-patrol-chicago",
+    "us-news/2025/oct/05/trump-news-at-a-glance-president-authorizes-sending-national-guard-into-chicago-as-judge-blocks-portland-deployment",
+    "us-news/2025/oct/06/california-oregon-national-guard-trump-lawsuit",
+    "us-news/2025/oct/07/trump-administration-news-updates-today",
+    "us-news/2025/oct/08/trump-administration-news-updates-today",
+    "us-news/2025/oct/09/trump-national-guard-troops-chicago-ruling"
+  ],
+  "noise": [
+    "us-news/2025/oct/10/federal-appeals-court-trump-oregon-national-guard"
+  ],
+  "evaluation": "This cluster details the continuous story of the Trump administration's efforts to deploy National Guard or federal troops to Democratic-led cities and the subsequent legal and political challenges. The core narrative develops across two main fronts: Portland, Oregon, and Chicago, Illinois. Articles track the initial deployment orders, state-level lawsuits, judicial decisions (both temporary blocks and initial non-blocks), troop movements, and the President's reactions, including threats to invoke the Insurrection Act. The timeline is clear, progressing from late September to early October 2025. All included articles are highly relevant and show clear developmental progression within this overarching theme.\n\nArticle 'us-news/2025/oct/10/federal-appeals-court-trump-oregon-national-guard' was de-noised as it introduces a new, distinct geographical focus (Memphis) and a new deployment, rather than directly developing the ongoing legal and logistical narrative specific to Portland or Chicago. While thematically related to broader federal deployments, it does not constitute a continuous or developmental story component for the established Portland/Chicago narratives within this cluster.",
+  "score": 9
+}

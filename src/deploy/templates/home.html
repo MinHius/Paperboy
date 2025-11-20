@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Paperboy – Today's Stories</title>
+  <link rel="stylesheet" href="{{ request.url_for('static', path='home.css') if request else 'home.css' }}">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="banner">
+    <h1>Paperboy</h1>
+    <p class="subtitle">Synthesized news, straight to the point</p>
+    <a href="/search" class = "button">
+      <button>Search</button>
+    </a>
+  </header>
+
+  <main>
+    <!-- 🔹 Stories grid -->
+    <section class="stories">
+      {% for story in stories %}
+      <article class="story-card">
+        <img src="{{ story.thumbnail[0] if story.thumbnail else '/static/default.jpg' }}" alt="Story thumbnail" class="story-thumb">
+        <div class="story-content">
+          <h2>{{ story.title }}</h2>
+          <p class="summary">{{ story.summary }}</p>
+          <p class="meta">
+            <span>{{ story.topic }}</span> • <span>{{ story.created_at }}</span>
+          </p>
+          <a href="/story/{{ story.id | urlencode }}" class="read-more">Read more</a>
+        </div>
+      </article>
+      {% endfor %}
+    </section>
+  </main>
+
+
+  <footer>
+    <p>© {{ year }} Paperboy</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,19 @@
+{
+  "centroid": [],
+  "articles": [
+    "football/2025/oct/04/chelsea-liverpool-premier-league-match-report",
+    "football/2025/oct/19/liverpool-manchester-united-premier-league-match-report",
+    "football/live/2025/oct/22/eintracht-frankfurt-v-liverpool-champions-league-live"
+  ],
+  "noise": [
+    "football/live/2025/oct/12/world-cup-qualifiers-wsl-updates-and-football-news-matchday-live",
+    "football/live/2025/oct/04/arsenal-v-west-ham-manchester-united-v-sunderland-and-more-football-live-clockwatch-score-updates",
+    "football/live/2025/oct/21/newcastle-v-benfica-villarreal-v-manchester-city-and-more-champions-league-live",
+    "football/live/2025/oct/19/tottenham-hotspur-v-aston-villa-premier-league-live",
+    "football/live/2025/sep/30/chelsea-v-benfica-bodglimt-v-tottenham-and-more-champions-league-live",
+    "football/live/2025/oct/18/fulham-v-arsenal-premier-league-live",
+    "football/2025/sep/28/arsenal-stare-down-their-demons-and-a-var-curiosity-to-make-a-title-statement"
+  ],
+  "evaluation": "This cluster contained various football match reports and live updates from late September to late October 2025, covering multiple teams and competitions. A primary continuous and developmental story was identified focusing on Liverpool's recent form. This narrative tracks Liverpool's consecutive Premier League losses against Chelsea (Oct 4) and Manchester United (Oct 19), followed by their Champions League win against Eintracht Frankfurt (Oct 22). The selected articles include match reports and direct manager comments addressing the team's performance, providing a clear chronological and thematic progression of Liverpool's struggles and subsequent rebound. All other articles, relating to different teams (e.g., Arsenal, Manchester City, Tottenham), different competitions (WSL), or general multi-match clockwatches with less specific team focus, were de-noised as they did not contribute to this coherent, developmental storyline.",
+  "score": 9
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "world/2025/sep/25/paris-court-to-rule-on-nicolas-sarkozy-corruption-charge",
+    "world/2025/sep/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-trial",
+    "world/2025/sep/25/sarkozys-spectacular-downfall-marks-turning-point-in-frances-struggle-against-graft",
+    "world/2025/sep/26/nicolas-sarkozy-lawyers-ensure-time-in-prison-as-short-as-possible",
+    "world/2025/sep/29/investigation-into-nicolas-sarkozy-not-due-to-hatred-his-prosecutor-says",
+    "world/2025/oct/13/former-french-president-nicolas-sarkozy-ordered-to-go-to-jail-next-week",
+    "world/2025/oct/19/france-former-president-nicolas-sarkozy-prison",
+    "world/2025/oct/21/nicolas-sarkozy-enters-prison-paris-france"
+  ],
+  "noise": [
+    "world/live/2025/sep/25/aalborg-airport-denmark-drones-oslo-sarkozy-meloni-news-updates-europe-live",
+    "commentisfree/2025/oct/21/the-guardian-view-on-sarkozys-first-day-in-prison-no-citizen-is-above-the-law"
+  ],
+  "evaluation": "This cluster effectively tracks the continuous story of former French President Nicolas Sarkozy's criminal conspiracy conviction and subsequent imprisonment. The main topic is his legal proceedings related to obtaining election campaign funds from Muammar Gaddafi's regime, from the day of the verdict to his actual incarceration. Articles provide a clear, logical, and chronological narrative of events. Two articles were de-noised: Article 4 ('world/live/2025/sep/25/aalborg-airport-denmark-drones-oslo-sarkozy-meloni-news-updates-europe-live') was removed as it's a 'closing summary' from a live blog, lacking the focused, in-depth content of dedicated news reports and potentially covering other topics. Article 10 ('commentisfree/2025/oct/21/the-guardian-view-on-sarkozys-first-day-in-prison-no-citizen-is-above-the-law') was removed as it is an opinion piece, which does not constitute 'actual and informative content' for a continuous news story, but rather commentary on it.",
+  "score": 9.5
+}

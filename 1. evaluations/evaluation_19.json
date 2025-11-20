@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "books/2025/oct/17/great-act-love-heather-rose-book-review-convict-australia",
+    "tv-and-radio/2025/oct/15/to-cook-a-bear-review-daft-historical-drama-law-and-order-special-ursine-unit",
+    "books/2025/oct/14/big-kiss-bye-bye-by-claire-louise-bennett-review-remembering-terrible-men",
+    "books/2025/oct/17/joelle-taylor-i-picked-up-the-weirdstone-of-brisingamen-in-a-swoon-of-nine-year-old-despair",
+    "books/2025/oct/16/hekate-by-nikita-gill-review-the-ancient-greek-goddess-works-magic-in-this-retelling",
+    "books/2025/oct/17/the-best-recent-and-thrillers-review-roundup",
+    "books/2025/oct/21/the-land-of-sweet-forever-by-harper-lee-review-newly-discovered-stories-from-an-american-great",
+    "books/2025/oct/16/the-captive-by-kit-burgoyne-review-a-literary-novelist-tries-his-hand-at-pulp-horror",
+    "environment/2025/oct/21/beasts-of-the-sea-novel-iida-turpeinen-tragic-story-extinct-sea-cow-victim",
+    "books/2025/oct/22/iris-murdoch-poems-penguin-collection"
+  ],
+  "evaluation": "The cluster consists predominantly of individual book reviews, a literary news item, and a personal reflection from an author, along with one TV show review. While many articles are related to literature, they cover distinct, unrelated books or topics. There are no articles that demonstrate continuity or developmental progression regarding a single specific story, event, or subject. Each article is a standalone piece, providing information that does not build upon or expand on any other article within the cluster. As such, no group of 3 or more articles could be formed to qualify as a continuous, developmental story. All articles, therefore, are categorized as noise in the context of forming such stories.",
+  "score": 0
+}

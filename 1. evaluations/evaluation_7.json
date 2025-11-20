@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "football/2025/oct/16/maccabi-tel-aviv-fans-banned-from-game-at-aston-villa-in-europa-league",
+    "politics/live/2025/oct/17/keir-starmer-uk-politics-latest-news-updates-maccabi-tel-aviv-fans-banned",
+    "politics/2025/oct/17/government-officials-seek-lift-ban-maccabi-tel-aviv-fans-aston-villa-game",
+    "uk-news/2025/oct/18/aston-villa-told-stewards-they-could-miss-maccabi-tel-aviv-match",
+    "football/2025/oct/19/aston-villa-jews-ed-miliband-maccabi-tel-aviv",
+    "football/2025/oct/20/maccabi-tel-aviv-to-decline-any-tickets-offered-for-aston-villa-game",
+    "football/2025/oct/20/uk-police-to-investigate-violence-at-maccabi-tel-aviv-derby",
+    "politics/live/2025/oct/20/uk-politics-latest-news-updates-prince-andrew-covid-starmer-labour-reform-education"
+  ],
+  "noise": [
+    "football/2025/oct/20/maccabi-tel-aviv-fans-policing-and-misdirected-anger",
+    "football/2025/oct/17/maccabi-tel-aviv-fans-banned-aston-villa"
+  ],
+  "evaluation": "This cluster details the evolving story of the ban on Maccabi Tel Aviv fans from attending a Europa League match against Aston Villa. The narrative begins with the initial police decision to ban fans due to safety concerns and previous incidents (Oct 16). It then progresses through the immediate political outcry, government intervention to reverse the ban, internal club responses, ongoing political pressure, and critically, Maccabi Tel Aviv's decision to decline any tickets (Oct 20). Further developments include an investigation into violence at an Israeli derby, offering context for the ban's rationale, and the government's defence of its intervention. Articles identified as noise were opinion pieces (Oct 17, Oct 20) that did not contribute to the factual, developmental timeline of the main event. All selected articles are highly relevant, chronologically logical, and together provide comprehensive coverage suitable for synthesis.",
+  "score": 9.5
+}

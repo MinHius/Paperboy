@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "us-news/2025/sep/26/trump-administration-news-today-latest-comey",
+    "us-news/2025/sep/25/james-comey-fbi-director-indictment",
+    "us-news/2025/sep/26/james-comey-indictment-reaction",
+    "us-news/2025/sep/27/trump-administration-news-updates-today",
+    "us-news/live/2025/sep/25/donald-trump-james-comey-fbi-ice-texas-latest-us-politics-news-updates-live",
+    "us-news/2025/sep/26/trump-comey-charges-indictment",
+    "us-news/2025/sep/26/first-thing-james-comey-indicted-as-trump-pushes-to-prosecute-political-enemies",
+    "us-news/2025/oct/08/james-comey-court-indictment"
+  ],
+  "noise": [
+    "us-news/live/2025/sep/26/james-comey-fbi-indictment-donald-trump-executive-orders-tariffs-us-politics-live",
+    "us-news/2025/oct/09/criminal-charges-letitia-james-new-york-attorney-general"
+  ],
+  "evaluation": "This cluster details the continuous story of former FBI director James Comey's indictment, starting with the announcement and his expected surrender on September 25th, followed by reactions from Comey and Donald Trump, and escalating political commentary about a 'retribution campaign.' The narrative progresses through Trump's denial of retribution and his expectation of further prosecutions, culminating in Comey's not guilty plea on October 8th. The articles show a clear chronological development, covering the event, immediate reactions, political context, and initial legal proceedings.\n\nArticle 'us-news/live/2025/sep/26/james-comey-fbi-indictment-donald-trump-executive-orders-tariffs-us-politics-live' was de-noised as its main content (Pam Bondi, Lisa Monaco) deviates from the specific Comey indictment narrative, despite its title.\nArticle 'us-news/2025/oct/09/criminal-charges-letitia-james-new-york-attorney-general' was de-noised as it discusses the indictment of a different individual, Letitia James, and is irrelevant to the Comey story.",
+  "score": 9.5
+}

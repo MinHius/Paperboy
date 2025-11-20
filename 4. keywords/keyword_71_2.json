@@ -1,0 +1,4 @@
+{
+  "error": "Failed to parse JSON",
+  "raw": "```json\n[\n    \"Voting Rights Act\",\n    \"Supreme Court\",\n    \"Civil Rights\",\n    \"Section 2\",\n    \"Redistricting\",\n    \"Racial Discrimination\"\n]\n```"
+}

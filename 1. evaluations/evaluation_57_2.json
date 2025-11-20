@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [
+    "politics/live/2025/sep/30/labour-conference-starmer-speech-streeting-nhs-reform",
+    "politics/live/2025/sep/28/labour-conference-keir-starmer-latest-uk-politics-news-live-updates",
+    "politics/live/2025/sep/27/railway-operators-trains-public-ownership-labour-party-conference-uk-politics-live-latest-news",
+    "politics/2025/sep/30/keir-starmer-conference-speech-sets-up-choice-between-labour-and-reform-uk",
+    "politics/2025/sep/30/britain-fight-for-soul-of-country-keir-starmer-labour-conference-reform-uk-nigel-farage",
+    "politics/2025/oct/01/starmer-bests-his-conference-critics-but-path-ahead-still-looks-perilous",
+    "uk-news/2025/sep/28/keir-starmer-says-farage-plan-racist-deport-people-settled-in-the-uk",
+    "politics/2025/sep/23/keir-starmer-to-launch-progressive-fightback-against-decline-and-division-fuelled-by-far-right",
+    "commentisfree/2025/sep/30/the-guardian-view-on-starmers-conference-speech-national-renewal-needs-more-than-rules-bound-growth",
+    "politics/2025/sep/28/starmer-decries-reforms-racist-plans-as-ministers-escalate-attacks-on-farage"
+  ],
+  "noise": [],
+  "evaluation": "This cluster of articles provides a highly continuous and developmental narrative centered around Keir Starmer's Labour Party conference in late September/early October 2025. The main topic is Starmer's strategic positioning of Labour against Nigel Farage and Reform UK, particularly focusing on immigration policies and the broader 'fight for the soul of the country' narrative. The articles chronologically cover the build-up to the conference (Sep 23), initial attacks on Reform UK's policies (Sep 27-28), Starmer's key conference speech (Sep 30), and post-speech analysis (Oct 01). There were no noise articles identified, as all content directly contributes to this evolving story, making it highly informative and synthesizable.",
+  "score": 9.5
+}

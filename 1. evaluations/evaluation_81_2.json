@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "commentisfree/2025/oct/13/birdwatching-addictive-once-you-start-hard-stop",
+    "environment/2025/oct/06/birds-make-life-worth-living-powerful-significance-meaning-white-plummed-honeyeater",
+    "environment/2025/oct/08/tawny-frogmouths-take-patience-to-appreciate-but-they-will-reward-you-with-insights-into-their-remarkable-lives",
+    "environment/2025/oct/09/my-featherless-cockatoo-doug-looked-like-a-monster-but-his-flaws-only-made-me-love-him-more",
+    "environment/commentisfree/2025/sep/24/ive-always-admired-the-magpie-for-its-beauty-and-spite-so-much-so-i-got-one-tattooed-on-my-arm",
+    "environment/2025/oct/03/pheasant-coucal-cuckoo-bewildered-bravo-feathered-wrecking-ball-bird-of-the-year",
+    "environment/commentisfree/2025/oct/02/budgies-pakistan-created-life-beauty-cramped-homes-in-australia-small-colourful-comets-vast-sky"
+  ],
+  "noise": [
+    "lifeandstyle/2025/oct/16/sausage-dog-adoption-nudged-me-back-to-hope",
+    "tv-and-radio/2025/sep/24/obert-irwin-dancing-with-the-stars-video-dance-partner-joy-we-needed",
+    "commentisfree/2025/oct/20/spirituality-helps-make-sense-of-icomprehensible-world"
+  ],
+  "evaluation": "This cluster explores the overarching theme of the deep and varied personal connections between humans and birds. The qualified articles delve into individual experiences, from birdwatching as therapy and a source of meaning, to encounters with wild birds like tawny frogmouths, magpies, and pheasant coucals, and the emotional bonds formed with pet birds such as cockatoos and budgerigars. These pieces collectively showcase how birds impact human well-being, provide companionship, and inspire wonder.\n\nNoise articles 4 ('sausage-dog-adoption'), 7 ('obert-irwin-dancing-with-the-stars'), and 9 ('spirituality-helps-make-sense') were denoised as they focus on unrelated topics: pet dog adoption, a reality TV show, and personal spirituality/cultural traditions, respectively. These articles lack any direct connection to the central theme of birds or their role in human lives, making them irrelevant for synthesis with the main group.",
+  "score": 9
+}

@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [
+    "sport/2025/oct/19/verstappen-cruises-to-victory-in-f1-us-grand-prix-to-pile-pressure-on-mclarens",
+    "sport/2025/oct/05/george-russell-wins-f1-singapore-gp-lando-norris-oscar-piastri-mclaren",
+    "sport/2025/oct/18/verstappen-takes-f1-us-gp-pole-after-sprint-victory-to-turn-up-heat-on-norris-and-piastri",
+    "sport/2025/oct/17/lando-norris-oscar-piastri-mclaren-united-states-grand-prix-preview",
+    "sport/2025/oct/05/norris-piastri-singapore-grand-prix-complaint-overtaking",
+    "sport/live/2025/oct/04/singapore-grand-prix-qualifying-formula-one-live",
+    "sport/2025/oct/04/impressive-russell-holds-off-verstappen-to-grab-pole-for-singapore-grand-prix",
+    "sport/live/2025/sep/21/azerbaijan-grand-prix-formula-one-live",
+    "sport/live/2025/oct/18/f1-united-states-grand-prix-sprint-race-and-qualifying-live",
+    "sport/2025/sep/21/verstappen-wins-f1-azerbaijan-gp-while-norris-struggles-after-piastri-crash"
+  ],
+  "noise": [],
+  "evaluation": "This cluster of articles provides a highly continuous and developmental narrative tracking the 2025 Formula One World Championship across three key race weekends: Azerbaijan (September), Singapore (early October), and the United States (mid-October). The main topic revolves around the intense internal rivalry between McLaren teammates Lando Norris and Oscar Piastri for the drivers' title, and the resurgence of Max Verstappen as a dominant contender. The articles chronologically detail qualifying, sprint races, race outcomes, and the direct aftermath, including driver clashes and championship implications. All content is informative and relevant, building a cohesive and synthesizable story of the evolving F1 season. No articles were deemed noisy or irrelevant.",
+  "score": 10
+}

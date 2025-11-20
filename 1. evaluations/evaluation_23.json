@@ -1,0 +1,24 @@
+{
+  "centroid": [
+    0.1,
+    0.2,
+    0.3,
+    0.4,
+    0.5
+  ],
+  "articles": [
+    "uk-news/2025/oct/18/why-prince-andrew-is-giving-up-his-titles-now-and-what-it-means-for-the-royal-family",
+    "uk-news/2025/oct/21/mps-move-to-lodge-parliamentary-motion-to-strip-prince-andrew-of-dukedom",
+    "uk-news/2025/oct/19/mps-urged-to-confront-royal-family-over-prince-andrews-epstein-links",
+    "uk-news/2025/oct/17/prince-andrew-duke-of-york-removal-of-titles-king-charles-prince-william-monarchy",
+    "commentisfree/2025/oct/20/what-do-we-learn-epstein-andrew-theres-level-power-at-which-right-wrong-no-longer-exist",
+    "uk-news/2025/oct/17/prince-andrews-fall-from-grace-complete-as-monarchy-cuts-him-loose",
+    "uk-news/2025/oct/19/prince-andrew-allegations-explainer",
+    "uk-news/2025/oct/17/prince-andrew-to-give-up-royal-titles",
+    "world/2025/oct/21/first-edition-prince-andrew",
+    "commentisfree/2025/oct/20/the-guardian-view-on-the-price-of-a-prince-what-virginia-giuffres-story-says-about-palace-accountability"
+  ],
+  "noise": [],
+  "evaluation": "This cluster provides a highly continuous and developmental story concerning Prince Andrew, the relinquishment of his royal titles, ongoing parliamentary pressure to strip him of his Dukedom, and the resurfacing of allegations related to Jeffrey Epstein and Virginia Giuffre, particularly with the release of Giuffre's memoir. The articles chronologically detail developments from King Charles's consideration of title removal (Oct 17), Andrew's agreement to give up titles (Oct 17-18), increasing calls for parliamentary action and police investigation (Oct 19), to commentary on Giuffre's memoir (Oct 20) and MPs moving to formally strip his dukedom (Oct 21). All articles are highly relevant, informative, and contribute to a clear, logical timeline without any noise or irrelevant content. The coverage is significant, encompassing palace decisions, political reactions, and legal contexts.",
+  "score": 10
+}

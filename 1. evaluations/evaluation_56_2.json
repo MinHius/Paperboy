@@ -1,0 +1,18 @@
+{
+  "centroid": "Not provided in input",
+  "articles": [],
+  "noise": [
+    "tv-and-radio/2025/oct/18/tv-tonight-great-plane-crash-thriller-fun-with-nine-bodies-in-a-mexican-morgue",
+    "tv-and-radio/2025/oct/19/tv-tonight-the-upbeat-star-trek-prequel-with-a-fresh-faced-spock",
+    "tv-and-radio/2025/oct/22/tv-tonight-an-explosive-action-thriller-about-serial-killers-on-the-loose",
+    "tv-and-radio/2025/oct/03/tv-tonight-alan-partridge-steve-coogan-mental-health",
+    "tv-and-radio/2025/oct/11/tv-tonight-a-french-psychological-thriller-about-a-perfect-nanny",
+    "tv-and-radio/2025/oct/06/tv-tonight-fitness-guru-joe-wicks-pulls-a-killer-snack-bar-stunt",
+    "tv-and-radio/2025/sep/27/tv-tonight-lost-meets-agatha-christie-in-a-fantastically-fun-survival-thriller",
+    "tv-and-radio/2025/sep/25/tv-tonight-final-brassic-long-lost-family",
+    "tv-and-radio/2025/oct/05/tv-tonight-suranne-jones-and-jodie-whittakers-wild-joyride-heist-drama",
+    "tv-and-radio/2025/oct/16/tv-tonight-niamh-algar-and-tom-hollanders-big-hide-and-seek-thriller"
+  ],
+  "evaluation": "Upon initial inspection, only two articles (dating Sep 27 and Oct 18) were identified as potentially continuous, both discussing the TV series 'Nine Bodies in a Mexican Morgue'. All other articles are standalone TV programme recommendations for various shows and documentaries. As the identified continuous story group consists of only two articles, it does not meet the minimum size requirement of 3 for a continuous story. Therefore, the cluster is deemed to have inadequate size, and no continuous, developmental story can be formed.",
+  "score": 0
+}

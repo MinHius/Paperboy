@@ -1,0 +1,19 @@
+{
+  "centroid": "Not provided in input, will use a placeholder or omit if not strictly required from input data. Assuming it's a value associated with the cluster itself, not individual articles, and will be ignored for this specific output per rule: 'The provided centroid vector of the group'. Since no centroid vector was provided in the prompt, this field will be an empty string.",
+  "articles": [
+    "business/2025/oct/02/tesco-warns-price-battle-christmas-pressure-household-budgets",
+    "business/2025/oct/01/selfridges-blames-slump-in-tourists-shopping-for-luxury-goods-as-sales-fall",
+    "technology/2025/sep/29/difficult-year-for-dyson-sees-profits-down-nearly-50",
+    "business/2025/sep/24/jd-sports-profits-and-sales-fall-amid-strained-consumer-finances"
+  ],
+  "noise": [
+    "business/2025/oct/15/shein-warns-on-trump-tariff-uncertainty-after-profits-slip",
+    "food/2025/oct/03/jamie-oliver-and-his-wife-pay-themselves-25m-as-pre-tax-profits-slump",
+    "business/2025/sep/25/co-op-says-malicious-cyber-attack-has-hit-profits-by-80m",
+    "business/2025/oct/20/pizza-hut-to-close-68-restaurants-after-uk-owner-falls-into-administration",
+    "technology/2025/oct/22/tesla-earnings-report-latest-drop-profits",
+    "business/2025/oct/20/b-and-m-finance-chief-warns-on-profits-accounts-blunder"
+  ],
+  "evaluation": "The core topic of this cluster is the varied financial performance of consumer-facing businesses amidst prevailing economic headwinds and changes in consumer spending. The qualified articles (Tesco, Selfridges, Dyson, JD Sports) collectively form a coherent narrative detailing how factors like 'pressure on household budgets,' 'weaker consumer confidence,' 'sluggish economic growth,' and 'strained consumer wallets' are impacting sales and profits across different retail sectors. Tesco, despite market pressures, showed resilience by upping profit expectations through strategic pricing, while Selfridges, Dyson, and JD Sports reported falls in sales and profits directly attributable to these broader economic conditions. Articles related to specific internal issues (Co-op's cyber-attack, B&M's accounting blunder), company-specific administration (Pizza Hut), or highly specific market/regulatory impacts (Shein's tariffs, Tesla's tax credits) or less explicit economic links (Jamie Oliver's profits) were de-noised as they do not contribute to the developing, continuous story of broad economic impact on consumer retail.",
+  "score": 9
+}

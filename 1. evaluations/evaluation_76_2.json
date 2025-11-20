@@ -1,0 +1,19 @@
+{
+  "centroid": "N/A - centroid not provided in prompt",
+  "articles": [
+    "world/2025/oct/06/france-pm-sebastien-lecornu-resigns",
+    "world/live/2025/oct/06/france-pm-resigns-lecornu-macron-europe-live-news-updates",
+    "world/2025/oct/08/outgoing-french-pm-hopeful-concessions-avoid-snap-elections",
+    "world/live/2025/oct/08/france-emmanuel-macron-lecornu-europe-live-news-updates",
+    "world/2025/oct/09/new-french-pm-to-be-named-by-friday-as-macron-resists-pressure-to-call-snap-elections",
+    "world/2025/oct/10/macron-reappoints-sebastien-lecornu-as-french-prime-minister",
+    "world/2025/oct/13/macron-accuses-rivals-fuelling-france-instability-dismisses-calls-resign",
+    "world/2025/oct/14/french-pm-sebastien-lecornu-suspends-macron-pension-plan-before-no-confidence-vote",
+    "world/2025/oct/16/french-prime-minister-sebastien-lecornu-survives-two-no-confidence-votes"
+  ],
+  "noise": [
+    "business/2025/oct/06/france-is-in-crisis-but-bond-markets-leave-other-governments-at-risk-of-meltdown-too"
+  ],
+  "evaluation": "This cluster details the political crisis in France surrounding Prime Minister Sébastien Lecornu. The story begins with his resignation on October 6, followed by the period of negotiations and uncertainty regarding a new government, including his caretaker efforts to avoid snap elections. A key development is Macron's reappointment of Lecornu as PM on October 10. The narrative then progresses to Lecornu's actions, such as suspending the pension plan, and culminates with his survival of two no-confidence votes. The articles are chronologically ordered and provide a clear, developmental, and informative account of the events.\n\nArticle 'business/2025/oct/06/france-is-in-crisis-but-bond-markets-leave-other-governments-at-risk-of-meltdown-too' was de-noised because its primary focus is on the broader economic and market implications of the French political crisis, rather than the direct political developments and timeline of Lecornu's premiership and government stability, which is the core continuous story here. This article, while related by topic, deviates from the strict narrative of governmental actions and reactions.",
+  "score": 9
+}

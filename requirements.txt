@@ -2,11 +2,12 @@ beautifulsoup4
 lxml
 panda
 feedparser
-elasticsearch
 psycopg2
 numpy
-umap
+umap-learn
 scikit-learn
 google-generativeai
 fastapi
 uvicorn
+jinja2
+redis==5.0.1

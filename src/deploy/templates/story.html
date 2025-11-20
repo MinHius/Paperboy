@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ story.title }} – Paperboy</title>
+
+  <link rel="stylesheet" href="{{ request.url_for('static', path='home.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+
+  <!-- Leaflet CSS + JS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js">
+  </script>
+</head>
+
+<body>
+  <header class="banner">
+    <h1>Paperboy</h1>
+  </header>
+
+  <section class="title-container">
+    <h2>{{ story.title }}</h2>
+  </section>
+
+  <section class="image-container">
+    <div class="image-grid"> 
+      {% if story.thumbnail and story.thumbnail|length > 1 %}
+        {% for img in story.thumbnail %}
+          <img src="{{ img }}" loading="lazy" alt="Story image">
+        {% endfor %}
+      {% endif %}
+    </div>
+  </section>
+
+  <main class = "main-layout">
+    <section class="story-container">
+      <article>
+        <div class="meta">{{ story.created_at }}</div>
+        <h3>{{ story.topic }}</h3>
+        <p style="
+          text-align: justify;
+          color: #000000ff;
+        ">
+        {% for segment in story.story %}
+          {% if segment.type == "header" %}
+            <br>
+            <h3>{{ segment.text }}</h3>
+
+          {% elif segment.type == "paragraph" %}
+            <p style="text-align: justify; color: #000000ff;">
+              {{ segment.text }}
+            </p>
+
+          {% elif segment.type == "quote" %}
+            <blockquote style="font-style: italic; border-left: 4px solid #ccc; padding-left: 10px;">
+              {{ segment.text }}
+            </blockquote>
+
+          {% elif segment.type == "list" %}
+            <ul>
+              {% for item in segment["items"] %}
+                <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+
+          {# optional interwoven images #}
+          {% if story.thumbnail and loop.index0 < story.thumbnail|length and segment.type != "quote"%}
+            <div style="text-align: center; margin: 12px 0;">
+              <img 
+                src="{{ story.thumbnail[loop.index0] }}" 
+                alt="story image {{ loop.index }}" 
+                style="max-width: 50%; border-radius: 8px;"
+                loading="lazy"
+              >
+            </div>
+          {% endif %}
+        {% endfor %}
+
+        </p>
+      </article>
+    </section>
+
+    <div class="right-column">
+      <section class="map-container">
+        <section class="map-section">
+          <h2>Story Locations</h2>
+          <div id="map"></div>
+        </section>
+      </section>
+
+      <section class="figure-container">
+        <h2 style = "text-align: center;">Figures</h2>
+        <div class="figure-list">
+          {% for item in story.figure %}
+            <div class="figure-card">
+              <div class="figure-name">{{ item.name }}</div>
+              <div class="figure-info">{{ item.info }}</div>
+            </div>
+          {% endfor %}
+        </div>
+      </section>
+    </div>
+  </main>
+
+  <section class="image-container">
+    <section>
+      <h2 class="image-title">More images</h2>
+      <div class="image-grid">
+        {% if story.thumbnail|length > parts|length %}
+          {% for img in story.thumbnail[parts|length - 1:] %}
+            <img src="{{ img }}" loading="lazy" alt="Story image">
+          {% endfor %}
+        {% endif %}
+      </div>
+    </section>
+  </section>
+
+  <section class="video-container">
+    <section>
+      <h2 class="video-title">Related broadcasts</h2>
+      <div class="video-grid">
+        {% for item in story.video %}
+          <div class="video-item" style="text-align: center; width: 100%;">
+            <div style="color: #000; font-weight: 600; margin-bottom: 6px;">
+              {{ item.name }}
+            </div>
+            <iframe 
+              src="{{ item.link }}" 
+              frameborder="0" 
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen
+              loading="lazy">
+            </iframe>
+          </div>
+        {% endfor %}
+      </div>
+    </section>
+  </section>
+
+  <section class="chat-container">
+    <section class="chat-card">
+      <h2>💬 Paperboy Chat</h2>
+      <div id="chat-window"></div>
+      <textarea id="chat-input" rows="1" placeholder="Ask Paperboy for details..."></textarea>
+    </section>
+
+    <a href="/" class="back">← Back to main page</a>
+  </section>
+
+  <!-- ✅ MAP SCRIPT GOES HERE -->
+  <script>
+    window.storyLocations = [
+      {% for loc in story.location %}
+      { name: "{{ loc.name }}", lat: {{ loc.lat }}, lon: {{ loc.lon }} },
+      {% endfor %}
+    ];
+  </script>
+  <script>
+    window.storyData = {
+      story: {{ story.story|tojson }},
+      id: {{ story.id|tojson }},
+      chat_id: {{ story.chat_id|tojson }}
+    };
+  </script>
+  <script src="{{ request.url_for('static', path='map.js') }}"></script>
+  <script src="{{ request.url_for('static', path='chat.js') }}"></script>
+</body>
+</html>

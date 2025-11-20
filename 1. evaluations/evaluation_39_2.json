@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "society/2025/oct/22/the-housing-crisis-needs-better-solutions-than-this",
+    "society/2025/oct/20/labour-mps-ministers-affordable-housing-london-sadiq-khan",
+    "society/2025/sep/27/build-prefab-homes-to-address-harm-to-generation-of-homeless-children-says-labour-mp-siobhain-mcdonagh",
+    "society/2025/oct/17/developers-higher-subsidies-fewer-affordable-homes-london",
+    "society/2025/oct/20/sadiq-khan-act-fast-fix-london-housebuilding-emergency",
+    "politics/2025/sep/22/labour-should-have-a-single-minded-focus-on-social-housing",
+    "commentisfree/2025/oct/19/britain-housing-crisis-social-rent-liverpool",
+    "commentisfree/2025/oct/16/homeless-children-government-strategy-child-poverty",
+    "society/2025/oct/11/lambeth-council-legal-loophole-no-fault-evictions"
+  ],
+  "noise": [
+    "commentisfree/2025/sep/27/labour-pride-in-place-revitalise-high-streets-levelling-up"
+  ],
+  "evaluation": "This cluster effectively covers the ongoing UK housing crisis, particularly in London, and the Labour government's various responses and challenges. The main topic revolves around the dire housing situation, including rising homelessness and the collapse of new housebuilding. It details specific policy debates such as controversial plans to reduce affordable housing quotas in London (Articles 4, 2), efforts to address child homelessness through prefabricated homes (Articles 3, 6), and the problematic implementation of the renters' rights bill regarding no-fault evictions (Articles 9, 1). Articles 7, 8, and 5 provide the critical context and human impact of the crisis. Article 10 was de-noised as it primarily focuses on a broader 'Pride in Place' strategy and 'levelling up,' which, while related to community investment, does not directly contribute to the specific, evolving narrative of housing supply, affordability, or renting regulations as deeply as the other articles.",
+  "score": 9
+}

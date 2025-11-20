@@ -1,0 +1,19 @@
+{
+  "centroid": "N/A",
+  "articles": [
+    "music/2025/oct/08/the-life-of-a-showgirl-what-should-taylor-swift-do-next",
+    "music/2025/oct/03/taylor-swift-life-of-a-showgirl-new-album-reactions-fan-critics-lyrics-songs-catchy-goofy-joyful",
+    "music/2025/oct/03/taylor-swift-album-the-life-of-a-showgirl-low-key-launch-uk-radio",
+    "music/2025/oct/10/taylor-swift-scores-second-biggest-uk-charts-opening-week-ever-with-the-life-of-a-showgirl",
+    "music/2025/oct/02/shes-leaning-into-the-idea-that-her-image-is-a-gilded-fantasy-how-taylor-swift-embraced-the-showgirl",
+    "music/2025/oct/03/taylor-swift-release-party-of-a-showgirl-review",
+    "music/2025/oct/08/record-sales-taylor-swift-life-of-a-showgirl-adele",
+    "music/2025/oct/03/taylor-swift-the-life-of-a-showgirl-review",
+    "culture/2025/oct/10/show-stopper-how-much-music-is-too-much-music"
+  ],
+  "noise": [
+    "tv-and-radio/2025/sep/30/taylor-review-its-time-to-bask-in-the-pop-stars-100-watt-joy"
+  ],
+  "evaluation": "This cluster effectively covers the comprehensive story of Taylor Swift's 12th album, \"The Life of a Showgirl.\" The narrative progresses logically from the album's conceptualization and pre-release hype (Article 5), to its official launch and immediate reactions (Articles 2, 3, 6, 9), and finally to its record-breaking sales performance (Articles 1, 4, 8) alongside evolving critical discourse and questions about Swift's prolific release schedule (Articles 1, 10). The articles demonstrate a clear developmental timeline and strong thematic continuity. Article 7 was de-noised as it focuses on a TV documentary about Taylor Swift, which is tangential to the album's direct release and reception story.",
+  "score": 10
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": "Cluster 97 centroid placeholder",
+  "articles": [
+    "commentisfree/2025/oct/03/the-guardian-view-on-conservative-party-conference-kemi-badenochs-last-shot-at-relevance",
+    "politics/2025/oct/05/kemi-badenoch-says-she-is-doing-politics-differently-you-cant-argue-with-that",
+    "world/2025/oct/06/monday-briefing-is-kemi-badenoch-leading-a-tory-party-on-the-brink-of-extinction",
+    "politics/2025/oct/07/has-kemi-badenoch-sounded-the-death-knell-for-one-nation-conservatism",
+    "environment/2025/oct/02/kemi-badenoch-vows-to-repeal-climate-change-act",
+    "commentisfree/2025/oct/06/tories-reform-legacy-kemi-badenoch-conservative-party-conference",
+    "commentisfree/2025/oct/08/the-guardian-view-on-kemi-badenochs-speech-following-the-path-of-denial-delusion-and-defeat",
+    "politics/live/2025/oct/02/reform-uk-zia-yusuf-keir-starmer-nigel-farage-immigration-asylum-labour-climate-change-uk-politics-live",
+    "politics/2025/oct/08/badenoch-sets-out-her-vision-to-redefine-tory-party-but-few-are-listening"
+  ],
+  "noise": [
+    "politics/live/2025/oct/06/conservative-tory-party-conference-spending-welfare-immigration-labour-starmer-reform-uk-politics-live-news-updates"
+  ],
+  "evaluation": "This cluster provides a strong, time-continuous narrative focusing on Kemi Badenoch's leadership and the Conservative Party Conference in October 2025. The articles cover pre-conference policy announcements (e.g., repealing Climate Change Act, ECHR plans), her performance and rhetoric during the conference, and subsequent analysis of her vision and the party's standing. The timeline is logical, and the coverage is consistently informative and developmental. Article 4 was de-noised as its primary content focused on Mel Stride's spending plans and tax cuts, making it largely irrelevant to the core story of Kemi Badenoch's leadership and the central themes of her conference agenda, despite a brief summary mention of her policies.",
+  "score": 9
+}

@@ -1,0 +1,21 @@
+{
+  "centroid": [
+    85.0
+  ],
+  "articles": [
+    "books/2025/sep/28/tony-harrison-obituary",
+    "books/2025/sep/28/classics-with-added-yorkshire-class-tributes-to-tony-harrison",
+    "stage/2025/sep/27/poet-tony-harrison-dies-mark-lawson-tribute",
+    "books/2025/sep/27/tony-harrison-poet-and-dramatist-dies-aged-88",
+    "books/2025/oct/03/how-tony-harrison-gave-this-lass-the-confidence-she-needed",
+    "stage/2025/sep/29/tony-harrison-poem-v-performed-in-leeds-cemetery"
+  ],
+  "noise": [
+    "books/2025/sep/30/brian-patten-obituary",
+    "books/2025/oct/03/memories-of-brian-patten-a-liverpool-poet",
+    "books/2025/sep/30/liverpool-poet-brian-patten-dies-at-79",
+    "books/2025/oct/02/letters-brian-patten-obituary"
+  ],
+  "evaluation": "The cluster initially contained two distinct, continuous stories: one centered around the death and legacy of poet Tony Harrison, and another concerning the death and legacy of poet Brian Patten. Both narratives were well-developed, informative, and presented a logical, time-continuous progression. However, as the prompt requires the returned 'articles' to be a single 'connected and relevant group' for synthesis, and given that Tony Harrison and Brian Patten are distinct individuals, their stories cannot be combined into a single, cohesive narrative. Therefore, to strictly adhere to the criteria, the Tony Harrison story, being the larger of the two well-formed narratives (6 articles vs 4 for Brian Patten), was selected as the primary continuous story. All articles pertaining to Brian Patten have been moved to the noise list, not due to their individual quality, but because they do not connect directly to the chosen primary narrative.",
+  "score": 9.5
+}

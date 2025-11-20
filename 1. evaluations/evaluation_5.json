@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "stage/2025/oct/21/clive-king-obituary",
+    "society/2025/oct/15/andrew-coates-obituary",
+    "society/2025/oct/19/sue-barker-obituary",
+    "media/2025/oct/15/peter-okill-obituary",
+    "education/2025/oct/22/sean-cormac-obituary",
+    "books/2025/oct/16/lesley-cookman-obituary",
+    "environment/2025/oct/22/david-edwards-obituary",
+    "stage/2025/oct/16/frank-lazarus-obituary",
+    "uk-news/2025/oct/15/letters-alan-howarth-obituary",
+    "society/2025/oct/19/dr-jill-tattersall-obituary"
+  ],
+  "evaluation": "Initial inspection revealed that all articles in the cluster are obituaries (or letters referencing an obituary). Obituaries are standalone biographical pieces detailing an individual's life after their passing. They do not represent continuous, developmental, or time-sensitive stories that unfold over time. Each article provides information about a different person and their unique contributions, lacking any narrative progression or shared event that would link them into a cohesive journalistic story. Therefore, no group of continuous or developmental articles could be formed from this cluster, and the size of any such relevant group is below the minimum requirement of three. All articles are considered noise in the context of forming a continuous story.",
+  "score": 0
+}

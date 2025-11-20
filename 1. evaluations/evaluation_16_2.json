@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "education/2025/sep/23/majority-of-girls-and-young-women-in-uk-alter-behaviour-to-feel-safe-study-finds",
+    "education/2025/sep/25/third-of-women-endure-sexual-harassment-university-england-survey-finds",
+    "politics/2025/oct/10/millions-of-older-britons-likely-to-have-undiagnosed-sensory-problems-study-finds",
+    "society/2025/oct/06/one-in-four-uk-people-fear-a-loved-one-drinks-too-much-survey-finds",
+    "society/2025/oct/15/alarming-rise-in-mental-health-stigma-in-england-research-shows",
+    "lifeandstyle/2025/oct/17/pregnant-women-in-england-at-growing-risk-of-serious-injury-in-childbirth",
+    "society/2025/oct/16/brace-for-early-flu-season-in-england-and-get-vaccinated-say-experts",
+    "global-development/2025/oct/15/nursing-unions-call-for-uk-to-back-icc-prosecutions-for-war-crimes-against-health-workers",
+    "global-development/2025/oct/12/global-burden-disease-study-high-youth-death-rates-drugs-alcohol-suicide-emerging-crisis",
+    "society/2025/oct/23/nhs-health-checks-in-england-to-have-questions-on-menopause-for-first-time"
+  ],
+  "evaluation": "Initial inspection revealed no group of articles that are strictly continuous or developmental with a size of 3 or more. Articles 1 and 2 discuss female safety and sexual harassment in the UK, both based on survey findings. While thematically related, they only form a group of two, which is below the minimum required size of 3 for a continuous story. All other articles cover disparate topics such as older Britons' sensory problems, addiction fears, mental health stigma, childbirth risks, flu season, war crimes against health workers, global youth health crises, and NHS menopause checks. Therefore, no adequate continuous story was identified.",
+  "score": 0
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "politics/2025/sep/23/lib-dems-last-block-forces-darkness-farage-says-ed-davey",
+    "politics/live/2025/sep/23/lib-dem-ed-davey-conference-donald-trump-keir-starmer-labour-reform-tory-latest-politics-live-news-updates",
+    "politics/2025/sep/23/lib-dems-aiming-to-go-big-as-they-eye-electoral-opportunity-ed-davey-party-conference",
+    "politics/2025/sep/23/no-more-mr-nice-guy-ed-davey-rebrands-lib-dems-as-the-real-opposition-to-reform",
+    "commentisfree/2025/sep/23/the-guardian-view-on-sir-ed-daveys-speech-a-party-that-promises-contrast-and-protest",
+    "commentisfree/2025/sep/24/resisting-farage-lib-dems-ed-davey",
+    "politics/2025/sep/23/ed-davey-calls-for-uk-to-import-us-cancer-researchers-hit-by-trump-cuts"
+  ],
+  "noise": [
+    "politics/2025/sep/21/lib-dems-should-ditch-ed-daveys-stunts-and-talk-policy-survey-finds",
+    "politics/2025/oct/16/farage-urged-to-explain-anti-abortion-links-to-meeting-with-trump-officials",
+    "society/2025/oct/19/penalties-for-unpaid-carers-in-benefits-scandal-must-be-halted-says-ed-davey"
+  ],
+  "evaluation": "This cluster primarily covers the Liberal Democrat annual conference in late September 2025, focusing on Ed Davey's speeches, the party's strategic positioning against Nigel Farage and Reform UK, and general reports and commentary on the conference's direction. Articles 1, 2, 3, 4, 5, 6, and 7 form a strong, time-continuous narrative about this event, moving from event reporting to immediate analysis. Article 8 is considered noise as it reports on a pre-conference survey advising the party, rather than covering the events or speeches of the conference itself. Articles 9 and 10 are also noise as they cover entirely separate events: Article 9 discusses Nigel Farage's links to anti-abortion groups in October, and Article 10 reports on Ed Davey's statement on carer's allowance in October, neither of which are connected to the September Lib Dem conference or its core themes.",
+  "score": 9
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": [],
+  "articles": [
+    "sport/2025/oct/01/ticket-row-super-league-play-offs-turmoil-leigh-threaten-pull-out-wigan-rugby-league",
+    "sport/2025/oct/02/wigan-v-leigh-super-league-semi-final-set-to-go-ahead-after-ticket-allocation-furore",
+    "sport/2025/oct/03/french-sees-off-leigh-to-put-wigan-in-grand-final-after-week-of-acrimony",
+    "sport/2025/oct/04/hull-kr-st-helens-super-league-playoff-semi-final-match-report",
+    "sport/2025/oct/09/mr-hull-kr-neil-hudgell-interview-rugby-league",
+    "sport/2025/oct/10/wigan-eye-third-consecutive-super-league-title-and-place-among-all-time-greats",
+    "sport/2025/oct/11/hull-kr-wigan-super-league-grand-final-rugby-league-match-report",
+    "sport/live/2025/oct/11/rugby-league-hull-kr-wigan-warriors-super-league-grand-final-live",
+    "sport/2025/oct/12/hull-kr-aim-for-more-while-triumph-brings-hope-for-all-super-league-teams"
+  ],
+  "noise": [
+    "sport/2025/sep/27/leeds-st-helens-super-league-playoff-eliminator-match-report"
+  ],
+  "evaluation": "This cluster of articles provides a highly continuous and developmental narrative centered around the 2025 Super League Grand Final. The main topic tracks the progression of the playoffs, focusing on the semi-final stage, the build-up to the final from both Hull KR's and Wigan's perspectives, the Grand Final match itself where Hull KR achieves a historic treble, and post-match analysis. The story begins with the controversial semi-final involving Wigan and Leigh, followed by Hull KR's qualification for the final. It then delves into the anticipation and emotional context provided by interviews and team ambitions, culminates in Hull KR's victory, and concludes with reflections on their historic achievement. Article 'sport/2025/sep/27/leeds-st-helens-super-league-playoff-eliminator-match-report' was de-noised as it details an earlier playoff game between different teams (Leeds and St Helens) that, while part of the broader playoff series, does not directly contribute to the continuous, developmental narrative of the Grand Final finalists' journey or outcome.",
+  "score": 10
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "environment/2025/oct/15/record-leap-in-co2-fuels-fears-of-accelerating-global-heating",
+    "world/2025/oct/16/extreme-wildfires-increase-carbon-emissions-climate-change",
+    "environment/2025/oct/16/australian-tropical-rainforest-trees-switch-carbon-sink-emissions-source",
+    "environment/2025/oct/17/worlds-oceans-losing-their-greenness-through-global-heating-study-finds"
+  ],
+  "noise": [
+    "environment/2025/oct/16/experts-urge-uk-to-ban-cigarette-filters-to-protect-health-and-environment",
+    "environment/2025/oct/17/wood-burning-and-gas-cooking-hugely-costly-to-healthcare-systems-new-zealand-study-finds",
+    "commentisfree/2025/oct/19/the-guardian-view-on-hybrid-cars-profitable-for-carmakers-but-not-very-green",
+    "environment/2025/oct/23/wood-burners-linked-to-2500-deaths-a-year-in-the-uk-analysis-finds",
+    "environment/2025/oct/16/plug-in-hybrids-pollute-almost-as-much-as-petrol-cars-report-finds",
+    "world/2025/oct/21/delhi-awakes-toxic-haze-diwali-pollution-season-begins"
+  ],
+  "evaluation": "This cluster contains a clear, developmental story centered on the accelerating climate crisis, specifically focusing on rising CO2 levels and the weakening of natural carbon sinks. Article 9 establishes the overarching trend of a record CO2 leap and concern over weakening sinks. Articles 3, 5, and 7 then provide concrete, time-continuous examples of this phenomenon: increased emissions from extreme wildfires, rainforests switching from carbon sink to source, and oceans losing their capacity to absorb carbon due to phytoplankton decline. This narrative is highly informative and synthesizable. Other articles, while related to environmental issues (local air pollution, hybrid car emissions, cigarette filters), were de-noised as they represent distinct, albeit important, topics that do not directly contribute to the central, coherent narrative of global carbon cycle disruption.",
+  "score": 9
+}

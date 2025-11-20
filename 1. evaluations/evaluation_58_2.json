@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "world/2025/oct/05/gisele-pelicot-to-attend-appeals-court-as-man-convicted-of-raping-her-contests-verdict",
+    "world/2025/oct/07/gisele-pelicot-ex-husband-tells-court-man-convicted-rape-knew-sedated",
+    "world/2025/oct/08/gisele-pelicot-appeal-trial-never-gave-consent-husamettin-dogan",
+    "world/2025/oct/09/increase-sentence-for-gisele-pelicot-rapist-prosecutor-tells-appeal-court",
+    "world/2025/oct/09/man-loses-appeal-against-gisele-pelicot-rape-conviction-husamettin-dogan"
+  ],
+  "noise": [
+    "us-news/2025/sep/30/sean-diddy-combs-sentence-recommendation",
+    "music/2025/oct/03/sean-diddy-combs-criminal-sentencing",
+    "us-news/live/2025/oct/03/sean-diddy-combs-sentencing-trial-conviction-latest-updates",
+    "music/2025/oct/03/sean-diddy-combs-trial-sentence",
+    "music/2025/oct/03/sean-diddy-combs-sentencing"
+  ],
+  "evaluation": "This cluster was found to contain two distinct, adequately sized, and chronologically continuous narratives. The first story details the appeal trial of Husamettin Dogan, convicted of raping Gisèle Pelicot, covering her attendance, key testimonies from her ex-husband and Pelicot herself, the prosecutor's arguments for an increased sentence, and the final verdict where Dogan lost his appeal and received a harsher prison term. This narrative is highly informative and developmental. The second story, concerning Sean 'Diddy' Combs' sentencing for prostitution-related charges, while also continuous and significant, was deemed unrelated to the primary Gisèle Pelicot narrative. Therefore, all articles pertaining to Sean 'Diddy' Combs were moved to the noise list to ensure the returned group is strictly focused on a single, coherent story.",
+  "score": 9
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Prince Andrew Relinquishes Royal Titles Amid Renewed Scrutiny and Family Pressure",
+  "topic": "Prince Andrew relinquishes titles, including Duke of York, amid Epstein scandal and family pressure.",
+  "story": "In a significant development for the British Royal Family, Prince Andrew has formally relinquished his royal titles, including the Duke of York, following intense public scrutiny and a series of damaging allegations. This decision, made in consultation with King Charles and the wider family, comes amidst renewed focus on his past connections to convicted sex offender Jeffrey Epstein and the posthumous publication of Virginia Giuffre’s memoir.\n\nAndrew, who had previously stepped down as a working royal in 2019, announced that he would also cease using his honours as a Knight Grand Cross of the Royal Victorian Order and a Royal Knight Companion of the Most Noble Order of the Garter. His only remaining title is 'Prince', which he holds by birthright. In a statement released through Buckingham Palace, Andrew asserted his decision was made to prevent 'continued accusations about me distract[ing] from the work of His Majesty and the royal family,' though he 'vigorously denied' the allegations of sexual impropriety made against him. This denial stands despite his multi-million-pound settlement of a civil sexual assault case brought by Virginia Giuffre in 2022, funds for which reportedly came from his late mother, Queen Elizabeth II.\n\nThe pressure on Prince Andrew intensified with the Guardian’s recent serialization of Giuffre’s memoir, 'Nobody’s Girl,' which recounts her exploitation by Epstein and Ghislaine Maxwell, and alleges Andrew believed having sex with her as a teenager was 'his birthright.' Simultaneously, Parliament faced mounting calls to address the royal family’s knowledge of Andrew’s past and to establish a mechanism for stripping royal titles. Labour MP Rachael Maskell, representing York Central, was prominent among those urging action. Concerns also surfaced regarding Andrew's residence at Royal Lodge in Windsor, with allegations of over two decades of unpaid rent, a situation Chancellor Rachel Reeves commented on, stating people should 'pay their way.'\n\nKing Charles and the Prince of Wales were reportedly keen for Andrew to relinquish his titles, with Buckingham Palace having reached a 'tipping point' over the continuous negative headlines. This latest development marks the completion of a public fall from grace for Andrew, a process that began with his widely scrutinized Newsnight interview six years ago, which led to the suspension of his HRH style and the stripping of his military and charity patronages.",
+  "figure": [
+    "Prince Andrew",
+    "King Charles",
+    "Prince of Wales",
+    "Virginia Giuffre",
+    "Jeffrey Epstein",
+    "Ghislaine Maxwell",
+    "Rachael Maskell",
+    "Rachel Reeves"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/RoyalFamilyStatement",
+    "https://www.youtube.com/embed/ExpertAnalysisOnAndrew"
+  ],
+  "location": [
+    {
+      "name": "Buckingham Palace",
+      "lat": 51.5014,
+      "lon": -0.1419
+    },
+    {
+      "name": "Royal Lodge, Windsor",
+      "lat": 51.4429,
+      "lon": -0.6094
+    },
+    {
+      "name": "York",
+      "lat": 53.9599,
+      "lon": -1.0873
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "sport/2025/oct/18/women-cricket-world-cup-england-eye-place-in-semi-finals-but-results-have-masked-woeful-batting",
+    "sport/live/2025/oct/19/india-v-england-womens-cricket-world-cup-live",
+    "sport/2025/oct/19/england-hold-nerve-to-beat-india-and-seal-womens-cricket-world-cup-semi-final-spot",
+    "sport/2025/oct/21/amy-jones-says-england-excited-for-australia-challenge-at-cricket-world-cup"
+  ],
+  "noise": [
+    "sport/2025/oct/23/england-players-footsteps-of-giants-australia-rugby-league-ashes",
+    "football/live/2025/oct/14/latvia-v-england-world-cup-2026-qualifier-live",
+    "sport/live/2025/oct/23/new-zealand-v-england-third-final-mens-t20-cricket-live",
+    "football/2025/oct/14/socceroos-football-fifa-world-cup-friendlies-draw",
+    "sport/live/2025/oct/20/new-zealand-v-england-second-mens-t20-international-live",
+    "sport/2025/oct/18/sam-curran-and-rain-to-rescue-england-new-zealand-t20-cricket-opener"
+  ],
+  "evaluation": "This cluster was evaluated for continuous stories focusing on England's sports news. A strong, developmental story emerged around the England Women's Cricket World Cup campaign, covering their qualification for the semi-finals and anticipation of the next match. Articles related to England Men's T20 cricket, Rugby League, and Football (Latvia vs England, Socceroos) were de-noised as they represent distinct sports, teams, or separate series, making them irrelevant to the primary Women's World Cup narrative.",
+  "score": 9.5
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "us-news/2025/oct/18/no-kings-protests-events-states",
+    "us-news/2025/oct/17/no-kings-protests-millions-trump",
+    "us-news/2025/oct/19/trump-briefing-news-at-a-glance-latest",
+    "us-news/2025/oct/20/no-kings-protests-trump-democrats",
+    "us-news/live/2025/oct/18/anti-trump-no-kings-protests-updates",
+    "us-news/2025/oct/22/no-kings-protest-trump-what-next",
+    "us-news/2025/oct/17/no-kings-protests-trump-dissent"
+  ],
+  "noise": [
+    "us-news/2025/oct/18/no-kings-protests-labor-unions",
+    "film/2025/oct/20/robert-de-niro-have-to-fight-donald-trump-bully-no-kings",
+    "culture/2025/oct/15/trump-artist-protest-fall-of-freedom"
+  ],
+  "evaluation": "This cluster effectively covers the 'No Kings' protests against the Trump administration in October 2025. The core narrative is highly developmental and time-continuous, starting with pre-event anticipation (Oct 17), moving through detailed coverage of the protests themselves (Oct 18-19, including a specific incident in Portland), and concluding with the immediate aftermath and future strategic planning of the movement (Oct 20-22). The de-noised articles ('us-news/2025/oct/18/no-kings-protests-labor-unions', 'film/2025/oct/20/robert-de-niro-have-to-fight-donald-trump-bully-no-kings', 'culture/2025/oct/15/trump-artist-protest-fall-of-freedom') were removed because they were either human interest sidebars, celebrity commentary, or reports on a distinct, future protest event ('Fall of Freedom') unrelated to the continuous 'No Kings' narrative. The remaining articles are strictly relevant, informative, and provide significant coverage for a coherent synthesis.",
+  "score": 9.5
+}

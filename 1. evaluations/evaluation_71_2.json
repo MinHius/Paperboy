@@ -1,0 +1,19 @@
+{
+  "centroid": "Not provided in input, refers to the collapse of UK's China spy trial",
+  "articles": [
+    "law/2025/oct/08/why-has-the-uk-dropped-its-trial-of-two-alleged-china-spies",
+    "politics/2025/oct/13/muddle-over-semantics-or-pressure-from-china-collapsed-spying-case-remains-baffling",
+    "world/2025/oct/16/china-spy-row-what-do-the-witness-statements-say-and-what-is-their-significance",
+    "politics/2025/oct/10/labour-softening-stance-towards-china-reinforced-by-dropped-spy-case",
+    "politics/2025/oct/06/jonathan-powell-to-face-mps-over-role-in-collapse-of-espionage-trial",
+    "politics/2025/oct/16/no-10-moves-to-end-china-spy-row-but-threat-of-further-fallout-lingers",
+    "world/2025/oct/16/head-of-cps-faces-cross-party-pressure-to-explain-china-spy-trial-collapse",
+    "world/2025/oct/07/china-spies-case-was-dropped-after-government-failed-to-provide-evidence-of-beijing-threat"
+  ],
+  "noise": [
+    "commentisfree/2025/oct/15/the-guardian-view-on-the-china-spy-trial-an-opportunity-for-labour-to-prove-it-understands-the-threat-from-beijing",
+    "politics/2025/oct/20/china-spy-case-gives-mps-the-opportunity-to-discuss-their-favourite-topic-themselves"
+  ],
+  "evaluation": "This cluster effectively covers the unfolding story of the collapse of the UK's China spy trial. The core narrative focuses on the reasons for the trial's abandonment, specifically the government's stance on classifying China as a national security threat, and the subsequent political fallout and scrutiny. Articles detail the DPP's explanations, the role of key government officials like Matthew Collins and Jonathan Powell, parliamentary inquiries, and the broader political implications for parties and individuals. The de-noised articles (1 and 4) were removed as they are opinion pieces offering broader political commentary or satirical observations on MPs' behaviour, rather than contributing to the factual and developmental progression of the spy trial story itself.",
+  "score": 9
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": [],
+  "articles": [
+    "thefilter/2025/sep/27/best-coats-women-men",
+    "fashion/2025/oct/08/jess-cartner-morley-ladylike-fashion-is-back-but-its-been-given-a-modern-twist",
+    "thefilter/2025/oct/01/jess-cartner-morleys-october-style-essentials",
+    "fashion/2025/oct/02/jess-cartner-morley-on-fashion-autumn-white",
+    "thefilter/2025/oct/19/womens-autumn-wardrobe-updates",
+    "fashion/2025/oct/15/jess-cartner-morley-on-fashion-the-number-one-rule-for-coats-this-winter-make-it-long",
+    "thefilter/2025/oct/10/mens-autumn-wardrobe-updates-uk"
+  ],
+  "noise": [
+    "thefilter-us/2025/oct/12/fall-jackets-boots-pants-hiking",
+    "thefilter/2025/oct/16/how-to-master-diane-keatons-style",
+    "fashion/2025/oct/14/how-to-dress-for-the-office-what-to-wear-spring-australia-fashion"
+  ],
+  "evaluation": "This cluster effectively captures a continuous story around 'Autumn/Winter 2025 Fashion Updates and Trends'. The articles are chronologically published from late September to mid-October, logically progressing through the seasonal changes. The main topic covers general wardrobe essentials, specific trends like 'long coats' and 'autumn white,' and gender-specific advice for both men and women. Articles focused on performance outdoor wear, mimicking a celebrity's specific style, or discussing 'spring' fashion in a different geographical context (Australia) were de-noised for lacking direct relevance to the overarching theme of general Northern Hemisphere autumn/winter fashion trends and updates.",
+  "score": 9
+}

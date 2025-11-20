@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "food/2025/sep/29/herb-spiked-chickpeas-tomatoes-pine-nuts-recipe-rukmini-iyer",
+    "food/2025/sep/22/carbonara-green-beans-and-tiramisu-recipes-tommaso-melilli-italian-meal",
+    "food/2025/sep/25/store-cupboard-spaghetti-recipes-rachel-roddy-tomato-garlic-chilli-fish-capers-lemon",
+    "food/2025/oct/14/mushroom-linguine-poached-pears-recipes-hazelnut-crumble-thomasina-miers",
+    "food/2025/oct/20/quick-easy-parmesan-sage-jacket-potato-gnocchi-recipe-georgina-hayden",
+    "food/2025/oct/17/peanut-butter-banana-french-toast-recipe-benjamina-ebuehi",
+    "food/2025/oct/23/leftover-polenta-biscuits-recipe-rachel-roddy",
+    "food/2025/oct/22/comfort-food-recipes-max-la-manna",
+    "food/2025/sep/22/quick-and-easy-ricotta-fritters-recipe-sage-butter-rukmini-iyer",
+    "food/2025/oct/09/red-peppers-stuffed-with-orzo-tuna-capers-and-herbs-recipe-rachel-roddy"
+  ],
+  "evaluation": "The cluster consists entirely of individual food recipes and related cooking articles from various authors published between September and October 2025. While all articles are informative and related to food, none exhibit characteristics of a continuous or developmental story. Each article presents a standalone recipe or a distinct cooking philosophy without building upon or following up on previous content within the cluster. Therefore, no group of articles could be identified as a synthesizable, time-continuous narrative. All articles are categorized as noise in the context of forming a continuous story.",
+  "score": 0
+}

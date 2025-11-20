@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "world/2025/oct/02/israels-gaza-flotilla-interception-triggers-protests-diplomatic-expulsions-and-calls-for-strikes",
+    "world/2025/oct/02/israel-intercepts-aid-flotilla-but-one-ship-reported-to-have-got-through-blockade",
+    "world/2025/oct/06/gaza-flotilla-passengers-allege-poor-conditions-in-detention-as-israel-prepares-to-deport-dozens-of-activists",
+    "australia-news/2025/oct/03/australians-gaza-flotilla-detained-government-pushing-israel-for-information",
+    "world/2025/oct/01/pro-palestine-flotilla-heading-towards-gaza-harassed-by-israeli-naval-boats",
+    "world/2025/oct/01/israeli-military-vessels-pro-palestinian-flotilla-gaza",
+    "world/2025/oct/06/gaza-flotilla-members-allege-beatings-and-insults-in-israeli-detention",
+    "world/2025/oct/06/australian-gaza-flotilla-activists-detained-by-israel-complain-of-degrading-and-humiliating-treatment",
+    "world/2025/oct/09/the-enemy-of-israel-australian-gaza-flotilla-activist-vows-to-return-despite-terrifying-detention"
+  ],
+  "noise": [
+    "world/2025/oct/08/israel-intercepts-another-gaza-aid-flotilla-amid-criticism-over-treatment-of-activists"
+  ],
+  "evaluation": "The core story revolves around the Global Sumud Flotilla's attempt to breach the Gaza blockade, its interception by Israeli forces, the subsequent detention of activists, international reactions, and detailed allegations of mistreatment during detention. The articles provide a clear, chronological, and developmental narrative of this single incident. Article 'world/2025/oct/08/israel-intercepts-another-gaza-aid-flotilla-amid-criticism-over-treatment-of-activists' was de-noised because it describes a separate and distinct incident involving a different flotilla (Freedom Flotilla Coalition), even though it occurred within a similar timeframe and context. It does not directly contribute to the continuous story of the Global Sumud Flotilla incident.",
+  "score": 9
+}

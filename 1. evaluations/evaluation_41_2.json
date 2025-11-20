@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "world/2025/sep/22/wave-of-recognitions-of-palestinian-state-criticised-by-israeli-politicians",
+    "commentisfree/2025/sep/21/the-guardian-view-on-uk-recognition-of-a-palestinian-state-this-must-be-a-call-to-action-not-conscience-salving",
+    "world/2025/sep/21/uk-canada-and-australia-announce-formal-recognition-of-palestine-with-wave-of-israel-allies-to-follow",
+    "commentisfree/2025/sep/22/starmer-finally-said-recognise-palestine-gaza-desperately-needs-action-where-that",
+    "world/2025/sep/22/monday-briefing-what-the-uks-recognition-of-palestine-means-for-the-war-its-future-and-its-people",
+    "world/2025/sep/26/benjamin-netanyahu-un-speech-gaza",
+    "world/2025/sep/21/west-bank-ramallah-palestine-recognition-state-uk-france-portugal-canada",
+    "uk-news/2025/sep/21/uk-recognises-palestine-as-an-independent-state",
+    "world/2025/sep/21/latest-recognitions-of-palestinian-state-will-deepen-global-diplomatic-rifts"
+  ],
+  "noise": [
+    "film/2025/oct/05/no-ones-been-willing-to-take-a-risk-are-palestinian-films"
+  ],
+  "evaluation": "This cluster effectively tracks the continuous story of the international wave of recognition of a Palestinian state. The main topic revolves around the formal recognition of Palestine by several Western nations (UK, Canada, Australia, Portugal, France) starting on September 21, 2025, and the subsequent diplomatic reactions. Articles cover the initial announcements, immediate analysis of their implications, public and political reactions (including from Palestinians and Israeli leaders), and the significant diplomatic fallout, notably Benjamin Netanyahu's strong condemnation at the UN on September 26. Article 9, concerning Palestinian films and documentaries, was de-noised as its primary focus is on the film industry's challenges rather than the diplomatic event of state recognition, making it irrelevant to the core narrative of this specific cluster.",
+  "score": 10
+}

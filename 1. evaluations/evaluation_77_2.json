@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "politics/live/2025/sep/26/keir-starmer-digital-id-cards-immigration-borders-reform-uk-politics-live",
+    "politics/2025/sep/26/keir-starmer-digital-id-cards-enormous-opportunity-uk",
+    "politics/2025/sep/27/britons-on-keir-starmer-plan-digital-id-cards",
+    "politics/2025/sep/27/petition-opposing-starmer-plan-digital-id-cards",
+    "politics/2025/sep/25/keir-starmer-expected-to-announce-plans-for-digital-id-cards",
+    "politics/2025/sep/26/why-does-the-uk-need-digital-ids-and-what-data-will-they-include",
+    "politics/2025/sep/29/mixed-feelings-on-labours-plan-for-mandatory-digital-id",
+    "technology/2025/oct/17/launch-of-veteran-card-will-be-used-to-test-uk-governments-digital-id-scheme",
+    "politics/2025/sep/26/share-your-thoughts-on-plans-for-a-uk-digital-id-scheme"
+  ],
+  "noise": [
+    "world/2025/oct/14/india-id-system-divide-opinion"
+  ],
+  "evaluation": "This cluster effectively tracks the unfolding story of Keir Starmer's proposed mandatory digital ID system for the UK. The articles provide a clear, chronological development from the initial anticipation of the announcement, through the official announcement and its justifications, to the immediate public and political backlash, including petitions and civil liberties concerns. The narrative concludes with the first practical step towards implementation, using veteran cards as a testing ground. Article 9, discussing India's Aadhaar system, was de-noised as it focuses on a different country's established system and does not directly contribute to the developmental story of the UK's nascent digital ID proposal.",
+  "score": 9.5
+}

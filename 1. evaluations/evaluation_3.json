@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "world/live/2025/oct/14/gaza-ceasefire-israel-hamas-palestine-hostages-detainees-truce-live-news-updates",
+    "us-news/2025/oct/20/first-thing-scramble-to-shore-up-ceasefire-as-israel-hits-gaza-with-deadly-strikes",
+    "world/live/2025/oct/15/gaza-ceasefire-israel-hamas-palestine-aid-hostages-detainees-prisoners-live-news-updates",
+    "us-news/2025/oct/15/first-thing-israel-humanitarian-aid-gaza-summit-hot-mic",
+    "world/2025/oct/14/israel-limits-aid-keeps-rafah-crossing-closed-dispute-hostage-remains",
+    "us-news/2025/oct/22/first-thing-jd-vance-great-optimism-gaza-truce-israel-visit",
+    "news/2025/oct/21/after-the-ceasefire-inside-the-17-october-guardian-weekly",
+    "world/2025/oct/20/israel-will-disarm-hamas-and-demilitarise-gaza-says-netanyahu",
+    "world/2025/oct/16/hamas-hostage-bodies-recovered-amid-israel-gaza-fighting-ceasefire-deal"
+  ],
+  "noise": [
+    "world/2025/oct/14/released-israeli-hostages-speak-of-torture-torment-and-co-existence"
+  ],
+  "evaluation": "This cluster provides a strong, time-continuous narrative detailing the evolving situation of the Gaza ceasefire. Articles track initial challenges surrounding hostage returns and humanitarian aid access (Oct 14-16), subsequent escalations with retaliatory strikes and accusations of violations (Oct 20-22), political statements from key figures like Donald Trump and Benjamin Netanyahu regarding the ceasefire's conditions and Hamas's disarmament (Oct 15, 20), and ongoing diplomatic efforts (Oct 22). The timeline is logical, starting with the early fragility of the truce and progressing through various tests and diplomatic responses. Article 'world/2025/oct/14/released-israeli-hostages-speak-of-torture-torment-and-co-existence' was identified as noise because its primary focus is on the personal experiences and stories of returned hostages from captivity, rather than the operational, political, or diplomatic developments of the ceasefire agreement itself, which is the core continuous story of the cluster.",
+  "score": 9
+}

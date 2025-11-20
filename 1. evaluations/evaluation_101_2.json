@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "business/2025/sep/23/optus-outage-triple-zero-calls-met-with-silence-chris-now-out-hospital-says-lives-at-stake",
+    "business/2025/sep/29/optus-triple-zero-outage-experiences-second-anika-wells-to-meet-singtel-boss",
+    "business/2025/sep/30/optus-triple-zero-outages-anika-wells-meeting-singtel-lot-of-work-to-do",
+    "business/2025/sep/24/optus-outage-triple-zero-failure-claimed-giving-live-updates-on-outages-would-impose-huge-burden-months-before",
+    "business/2025/sep/21/abhorrent-behaviour-call-for-optus-to-face-stiff-penalties-after-triple-zero-outage-deaths",
+    "australia-news/2025/sep/29/optus-suffers-fresh-triple-zero-outage-in-nsw-as-police-check-welfare-of-callers",
+    "australia-news/2025/oct/01/optuss-triple-zero-outage-could-boost-telstras-customers-and-allow-it-to-charge-even-more",
+    "australia-news/2025/oct/03/afternoon-update-friday-ntwnfb",
+    "australia-news/2025/sep/29/afternoon-update-monday-ntwnfb"
+  ],
+  "noise": [
+    "commentisfree/2025/oct/09/rural-bushfire-season-nsw-optus-triple-zero-vital"
+  ],
+  "evaluation": "The core topic revolves around a series of Optus triple-zero outages, their severe consequences including failed emergency calls and linked deaths, and the subsequent governmental and corporate responses. The articles provide a clear, developmental timeline covering the initial major outage, a subsequent outage, individual experiences, corporate negligence, political pressure, and ongoing accountability measures. Article 4 was de-noised as it is an opinion piece commenting on the implications of the outages rather than providing direct, factual news updates on the events or their immediate aftermath, thus not contributing to the continuous story development.",
+  "score": 9
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": [],
+  "articles": [
+    "business/2025/sep/24/government-looks-at-buying-up-jaguar-land-rover-parts-to-protect-jobs-suppliers-cyber-attack",
+    "business/live/2025/sep/23/gold-price-on-track-best-year-since-1979-record-high-global-economy-uk-growth-business-live-news",
+    "business/2025/sep/29/jaguar-land-rover-cyber-attack-whats-the-latest-news",
+    "business/2025/sep/23/peter-kyle-jaguar-land-rover-shutdown-car-production-jlr-cyber-attack",
+    "business/2025/oct/07/jaguar-land-rover-restart-production-suppliers-cyber-attack",
+    "business/2025/oct/06/jaguar-land-rover-restart-production-cyberattack",
+    "business/2025/sep/27/jaguar-land-rover-plans-to-restart-engine-manufacturing-in-early-october-report-says",
+    "business/2025/sep/29/jaguar-land-rover-to-restart-some-manufacturing-after-cyber-attack",
+    "business/2025/sep/25/jaguar-land-rover-restarts-computer-systems-cyber-attack"
+  ],
+  "noise": [
+    "business/2025/oct/06/aston-martin-profit-trump-tariffs-us-jaguar-land-rover-cyber-attack"
+  ],
+  "evaluation": "This cluster effectively tracks the continuous story of the Jaguar Land Rover (JLR) cyber-attack, its impact on the company and UK manufacturing, government intervention, and the subsequent phased recovery. The narrative begins with the initial shutdown and economic fallout, progresses through government discussions of support and loan guarantees, JLR's efforts to restore IT systems and prepare for restart, and culminates with the launch of phased manufacturing operations. The articles provide a logical, time-continuous development of a significant business event. Article 'business/2025/oct/06/aston-martin-profit-trump-tariffs-us-jaguar-land-rover-cyber-attack' was de-noised as it primarily focuses on Aston Martin's profit warning and Trump tariffs, with JLR's cyber-attack only mentioned in passing, making it irrelevant to the core JLR recovery story.",
+  "score": 10
+}

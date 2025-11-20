@@ -1,0 +1,19 @@
+{
+  "centroid": "Cluster_23_ICE_Detention_Conditions",
+  "articles": [
+    "us-news/2025/sep/27/immigrants-california-detention-facility",
+    "us-news/2025/oct/20/ice-facilities-lighting-overnight",
+    "us-news/2025/sep/26/ice-detention-death-toll-trump",
+    "us-news/2025/sep/28/ice-detention-texas-children",
+    "us-news/2025/sep/30/immigration-detainees-ice-texas-jail",
+    "us-news/2025/oct/16/ice-immigration-queer-trans-louisiana"
+  ],
+  "noise": [
+    "us-news/2025/oct/17/ice-chicago-protesters-arrests-broadview-facility",
+    "us-news/2025/oct/20/military-veterans-arrested-injured-lawmakers-ice",
+    "us-news/2025/oct/13/us-veterans-protest-ice-raids",
+    "us-news/2025/oct/10/ice-immigration-agents-military-tactics"
+  ],
+  "evaluation": "This cluster effectively forms a continuous and developmental story centered on the deteriorating and inhumane conditions within U.S. Immigration and Customs Enforcement (ICE) detention facilities. The narrative begins with a report on the rising death toll in ICE custody, setting a grim context. Subsequent articles detail specific abuses and deprivations across various facilities: from a new California center described as a 'torture chamber,' to severe neglect of children in a Texas facility (with a direct follow-up providing further details), and targeted harassment and coerced labor of queer/trans immigrants in Louisiana, and even the psychological torment of perpetual lighting in a Washington facility. These articles provide specific examples and build a comprehensive picture of systemic issues. Articles focusing on protests outside facilities, military tactics in raids, and arrests of veterans, while related to ICE, were de-noised as they represent a distinct storyline about ICE enforcement actions and public resistance, rather than the internal conditions of detention centers.",
+  "score": 9
+}

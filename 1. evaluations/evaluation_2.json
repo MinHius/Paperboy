@@ -1,0 +1,19 @@
+{
+  "centroid": "N/A",
+  "articles": [
+    "politics/2025/oct/14/national-grooming-gangs-inquiry-stalls-over-remit-wrangles-and-lack-of-chair",
+    "society/2025/oct/20/starmer-grooming-gang-inquiry-left-in-turmoil-after-two-survivors-quit-panel",
+    "society/2025/oct/20/grooming-gang-victim-quits-inquiry-panel-fiona-goddard",
+    "society/2025/oct/21/uk-grooming-gang-inquiry-faces-further-disruption-as-candidate-for-leader-withdraws",
+    "politics/2025/oct/21/why-is-there-a-national-inquiry-into-grooming-gangs",
+    "society/2025/oct/22/grooming-gang-survivors-ministers-inquiry-shabana-mahmood",
+    "uk-news/2025/oct/22/chair-uk-grooming-gangs-inquiry-lack-of-trust-panel-resign-adviser-louise-casey",
+    "politics/live/2025/oct/23/jess-phillips-grooming-gangs-inquiry-keir-starmer-labour-uk-politics-latest-news",
+    "politics/2025/oct/23/jess-phillips-has-full-backing-of-pm-over-grooming-gangs-inquiry-says-minister"
+  ],
+  "noise": [
+    "politics/2025/oct/21/will-no-one-think-about-poor-boris-former-pm-smirks-and-sighs-through-covid-inquiry"
+  ],
+  "evaluation": "This cluster effectively tracks the continuous and developmental story of the national grooming gangs inquiry in the UK. The articles provide a clear chronological narrative, starting from the inquiry's stalled status (Oct 14), through a series of resignations of survivors (Oct 20) and withdrawals of potential chairs (Oct 21-22), to the deepening crisis and political ramifications (Oct 23). Key developments include the reasons for the resignations (political interference, condescending language), the appointment of Louise Casey as an adviser, and the call for Jess Phillips' resignation. All included articles are highly relevant, informative, and logically sequenced, offering significant coverage of the unfolding events. Article 10, detailing Boris Johnson's appearance at the Covid inquiry, was de-noised due to complete irrelevance to the grooming gangs inquiry.",
+  "score": 9.5
+}

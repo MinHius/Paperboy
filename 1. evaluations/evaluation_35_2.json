@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "stage/2025/sep/25/broken-britain-with-a-brechtian-twist",
+    "uk-news/2025/sep/23/the-tragedy-of-a-second-runway-at-gatwick",
+    "sport/2025/oct/19/expanding-variety-at-the-royal-albert-hall",
+    "sport/2025/sep/30/orwell-was-right-to-take-a-swing-at-sport",
+    "books/2025/oct/03/emma-chisit-check-your-karen-vallance",
+    "technology/2025/oct/16/heed-warnings-from-wolmar-on-robotaxis",
+    "lifeandstyle/2025/oct/08/typewriter-reveals-unexpected-genius",
+    "fashion/2025/sep/28/male-shoppers-are-left-out-in-the-cold",
+    "money/2025/oct/01/no-star-review-for-a-request-for-feedback",
+    "travel/2025/oct/12/a-country-retreat-thats-off-grid-but-online"
+  ],
+  "evaluation": "The cluster predominantly comprises 'Letters to the Editor,' a format known for containing numerous distinct and often unrelated short topics. Several potential micro-series were identified based on direct references or thematic links (e.g., 'Mondegreens,' 'Living with Rejection,' 'Railways as Inspiration'). However, upon strict application of the validation criteria, none of these potential continuous stories met the minimum required size of three articles. Consequently, no adequately sized, continuous, or developmental stories could be extracted for synthesis, rendering all articles as noise.",
+  "score": 0
+}

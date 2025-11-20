@@ -1,0 +1,19 @@
+{
+  "centroid": [],
+  "articles": [
+    "restyle-recapped/2025/oct/13/vinted-fashion-show-episode-1-meet-the-eight-designers",
+    "restyle-recapped/2025/oct/13/vinted-fashion-show-episode-2-nostalgia-week-highlights",
+    "restyle-recapped/2025/oct/13/vinted-fashion-show-episode-3-denim-week-style-moments",
+    "restyle-recapped/2025/oct/13/vinted-fashion-show-episode-4-adventure-week-looks-and-challenges",
+    "restyle-recapped/2025/oct/13/vinted-fashion-show-episode-5-vip-week-and-penultimate-recap",
+    "restyle-recapped/2025/oct/13/vinted-fashion-show-episode-6-grand-finale-recap"
+  ],
+  "noise": [
+    "fashion/2025/sep/28/versace-dario-vitale-evokes-spirit-of-gianni-with-suggestive-debut",
+    "fashion/2025/sep/21/from-prue-leith-to-romeo-beckham-and-lucy-bronze-london-fashion-week-is-hard-to-beat",
+    "fashion/2025/sep/23/can-guccis-new-designer-bring-the-hot-sauce-and-rescue-fashion-house-from-flatlining-sales",
+    "fashion/2025/oct/01/dior-jonathan-anderson-paris-fashion-week"
+  ],
+  "evaluation": "The core of this cluster is a highly continuous and developmental story about the 'RE/style' fashion competition series on Prime Video. Articles detail each episode from the introduction of designers (Episode 1) through various themed challenges (Episodes 2-5) up to the grand finale (Episode 6). This forms a clear, chronological narrative of the competition. The remaining articles were de-noised as they cover unrelated topics such as specific designer collections (Versace, Gucci, Dior) and general highlights from various fashion weeks (London, Milan, Paris), which do not contribute to the continuous story of the 'RE/style' series.",
+  "score": 9.5
+}

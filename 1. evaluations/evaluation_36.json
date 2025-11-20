@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "environment/2025/oct/14/protecting-home-flood-defence-doors-drains-paving",
+    "environment/2025/oct/14/millions-more-homes-in-great-britain-at-risk-of-flooding-investigation-finds",
+    "world/2025/oct/15/first-edition-flood-risk-britain",
+    "commentisfree/2025/oct/14/the-guardian-view-on-the-rising-risk-from-flooding-uninsurable-buildings-should-focus-minds-on-climate-adaptation",
+    "environment/2025/oct/21/nearly-half-of-uk-garden-space-is-paved-over-rhs-study-finds",
+    "environment/2025/oct/16/sponge-baby-sponge-to-deal-with-flooding-risks",
+    "environment/2025/oct/15/uk-prepare-buildings-2c-rise-temperature"
+  ],
+  "noise": [
+    "australia-news/2025/oct/22/floods-have-devalued-australian-homes-by-42bn-experts-say-thats-the-cost-of-a-changing-climate",
+    "environment/2025/oct/14/external-insulation-previous-government-scheme-repair-replacing-report-finds",
+    "culture/2025/oct/21/repair-bills-could-force-hundreds-of-uk-churches-to-close-within-five-years-survey"
+  ],
+  "evaluation": "This cluster effectively captures a continuous story about the escalating flood risk in Great Britain. The core narrative is established by the Guardian investigation revealing millions of homes at risk and the resulting issues like uninsurable properties. This is supported by specific examples (Tenbury Wells), broader climate change context for the UK (rising temperatures and increased flood frequency), practical advice for homeowners, and discussions around government response and innovative solutions (like 'sponge' concepts and addressing paved garden spaces). \n\nDe-noising was necessary for articles that were geographically irrelevant (Australian floods), or topically distinct (poor insulation schemes, church repair bills). The remaining articles form a coherent and informative developmental story.",
+  "score": 9
+}

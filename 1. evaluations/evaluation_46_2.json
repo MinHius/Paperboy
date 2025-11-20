@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "business/2025/oct/22/peak-inflation-signs-bank-of-england-interest-rate-cuts-analysis",
+    "business/2025/oct/01/uk-business-confidence-falls-record-low-employment-costs",
+    "business/live/2025/oct/22/uk-inflation-stays-at-38-as-food-price-rises-slow-for-first-time-since-march-business-live",
+    "business/2025/oct/22/uk-inflation-unchanged-rachel-reeves-budget",
+    "business/2025/oct/14/uk-retail-sales-growth-budget-tax-rises-barclays",
+    "business/2025/oct/14/uk-faces-highest-inflation-in-g7-this-year-and-next-imf-warns",
+    "business/2025/oct/16/uk-economy-expands-as-gdp-rises-by-01-in-august-ahead-of-crucial-budget",
+    "business/live/2025/oct/03/oil-price-weekly-fall-opec-fuel-services-sector-no-non-farm-business-live-news"
+  ],
+  "noise": [
+    "business/live/2025/sep/25/co-op-cyber-attack-cost-it-80m-profits-loss-government-support-jlr-suppliers-business-live-news",
+    "business/live/2025/sep/29/moral-hazard-fears-jlr-jaguar-land-rover-government-loan-gsk-ceo-astrazeneca-listing-dollar-shutdown-business-live-news"
+  ],
+  "evaluation": "The core of this cluster forms a strong, continuous story about the UK's economic performance and outlook in the lead-up to Rachel Reeves's crucial autumn budget. The main topic covers key economic indicators, including inflation figures (3.8% in September, defying expectations), business confidence hitting a record low, slowing retail sales, and sluggish GDP and service sector growth. These articles highlight the pervasive concerns over inflation and anticipated tax increases, alongside the IMF's warning about the UK's inflation ranking within the G7, all influencing the Bank of England's interest rate considerations and the government's fiscal planning. Articles 'business/live/2025/sep/25/co-op-cyber-attack-cost-it-80m-profits-loss-government-support-jlr-suppliers-business-live-news' and 'business/live/2025/sep/29/moral-hazard-fears-jlr-jaguar-land-rover-government-loan-gsk-ceo-astrazeneca-listing-dollar-shutdown-business-live-news' were de-noised as they are 'closing post' summaries from live blogs. While they touch upon some economic themes, they contain numerous disparate and unrelated news items (e.g., cyber-attacks, company CEO departures, gold prices, oil prices), making them fragmented and unsuitable for a focused, continuous, and synthesizable narrative.",
+  "score": 9
+}

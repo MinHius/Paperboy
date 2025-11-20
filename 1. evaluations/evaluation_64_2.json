@@ -1,0 +1,19 @@
+{
+  "centroid": [],
+  "articles": [
+    "politics/2025/oct/06/robert-jenrick-complained-of-not-seeing-another-white-face-in-handsworth-birmingham",
+    "politics/2025/oct/07/robert-jenrick-accused-of-fuelling-toxic-nationalism-with-birmingham-claims",
+    "politics/live/2025/oct/07/conservative-tory-conference-kemi-badenoch-jenrick-starmer-labour-protests-reform-uk-politics-live-news-updates",
+    "politics/2025/oct/07/incendiary-inaccurate-careless-handsworth-locals-reject-jenricks-race-claims",
+    "politics/2025/oct/07/badenoch-defends-jenrick-no-white-faces-in-birmingham-comments",
+    "politics/2025/oct/08/starmer-says-jenrick-is-hard-to-take-seriously-after-birmingham-comments",
+    "politics/2025/oct/08/the-irony-of-robert-jenrick-white-face-remarks-about-handsworth"
+  ],
+  "noise": [
+    "politics/live/2025/oct/21/rachel-reeves-economy-starmer-labour-streeting-sentencing-bill-uk-politics-live-news-updates",
+    "politics/2025/oct/07/labour-accuses-robert-jenrick-of-personal-attack-on-attorney-general",
+    "politics/2025/sep/25/tory-candidates-must-pledge-support-for-leaving-echr-or-stand-down-says-jenrick"
+  ],
+  "evaluation": "This cluster effectively captures the continuous story surrounding Robert Jenrick's controversial comments about 'not seeing another white face' in Handsworth, Birmingham. The narrative begins with the initial report of his remarks, followed by a series of articles detailing the widespread criticism he faced, his doubling down on the claims, the reactions from local residents and politicians, and a defense from Kemi Badenoch. The timeline is logical and shows a clear development of the controversy. Articles addressing Jenrick's other, unrelated political statements (such as his views on the ECHR, burqas, or his attack on the Attorney General) have been de-noised as they cover distinct topics and do not contribute to the progression of the Handsworth comments story. The remaining articles are highly relevant, informative, and ready for synthesis.",
+  "score": 9.5
+}

@@ -1,0 +1,59 @@
+{
+  "title": "UK Confronts Escalating Flood Crisis: Millions at Risk, Insurance Woes Deepen Amid Inadequate Defences",
+  "topic": "UK faces critical flood crisis, millions of homes at risk, insurance woes, and inadequate government response.",
+  "story": "The United Kingdom is facing a rapidly escalating flood crisis, with government climate advisers warning that current protections against extreme weather, including increased floods, are woefully inadequate. Experts from the Climate Change Committee project a significant rise in flood frequency by 2050, with some peak river flows increasing by 40%. Campaigners caution that the UK will 'look very different, very quickly' within the next 25 years.\n\nA Guardian investigation, supported by new analysis from the insurance industry, reveals that millions more homes across England, Scotland, and Wales are at devastating risk. In England alone, the number of properties exposed to flooding is expected to surge by over a quarter, from 6.3 million to 8 million. High-risk areas for flash flooding could see frequency increase by up to 66% by 2050. The insurance sector expresses deep concern, warning that large swathes of housing and commercial property in densely populated areas, including London and Manchester, may become uninsurable, potentially leading to the abandonment of entire towns.\n\nThis bleak future is already a stark reality for communities like the market town of Tenbury Wells in Worcestershire, which has endured seven floods in four years. After plans for new flood defences were abandoned due to soaring costs reaching £30 million, the town council announced that three of its owned buildings, including a theatre and historic pump rooms, no longer have insurance. Independent retailers in Tenbury Wells, situated low-lying between the River Teme and Kyre Brook, face similar struggles, with some forced to close and a growing number of empty properties.\n\nDespite a government announcement of a 'record' £10.5 billion investment in flood defences over the next decade, critics argue this sum falls significantly short of the Environment Agency's updated national flood risk assessments. The investment is also overshadowed by the more than £100 billion being spent by water companies.\n\nAdding to the challenge, a recent study by the Royal Horticultural Society and AI mapping company Gentian found that nearly half (42%) of the UK's domestic garden space is paved over. This widespread paving, particularly in front gardens (55%), reduces natural drainage and exacerbates flood risk. While individual actions like fitting Kitemarked flood barriers can offer some protection, Mary Long-Dhonau, who runs the Flood Mary campaign, emphasizes that robust government investment in flood defence infrastructure is paramount to safeguarding homes and communities against the relentless tide of climate breakdown.",
+  "figure": [
+    "Mary Long-Dhonau"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/UkFloodCrisisReport_2024",
+    "https://www.youtube.com/embed/TenburyWellsFloodImpact"
+  ],
+  "location": [
+    {
+      "name": "England",
+      "lat": 52.3555,
+      "lon": -1.1743
+    },
+    {
+      "name": "Scotland",
+      "lat": 56.4907,
+      "lon": -4.2026
+    },
+    {
+      "name": "Wales",
+      "lat": 52.1307,
+      "lon": -3.7837
+    },
+    {
+      "name": "London",
+      "lat": 51.5074,
+      "lon": -0.1278
+    },
+    {
+      "name": "Manchester",
+      "lat": 53.4808,
+      "lon": -2.2426
+    },
+    {
+      "name": "Tenbury Wells",
+      "lat": 52.308,
+      "lon": -2.602
+    },
+    {
+      "name": "Worcestershire",
+      "lat": 52.2,
+      "lon": -2.2
+    },
+    {
+      "name": "River Teme",
+      "lat": 52.308,
+      "lon": -2.602
+    },
+    {
+      "name": "Kyre Brook",
+      "lat": 52.308,
+      "lon": -2.602
+    }
+  ]
+}

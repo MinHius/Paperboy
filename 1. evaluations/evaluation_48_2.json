@@ -1,0 +1,10 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "music/2025/oct/09/katy-perry-greatest-songs-ranked",
+    "music/2025/oct/19/ruel-pop-star-interview-fan-teeth-necklace"
+  ],
+  "evaluation": "The cluster predominantly contains individual interviews and biographical profiles of various musicians and performers. During initial inspection, two articles were immediately identified as noise: 'Katy Perry Greatest Songs Ranked' (Article 6) is a listicle and not a continuous or developmental story, and 'Ruel pop star interview' (Article 9) is formatted as a Q&A/mini-game, which is explicitly excluded as per data quality criteria. The remaining eight articles are standalone interviews/features about different artists (Lionel Richie, Cameron Crowe, Cap Carter, KeiyaA, Huey Morgan, Tim Curry, Evan Dando, Ian Shelton). While these articles share a broad thematic relevance to music and entertainment, they do not form a continuous, developmental narrative about a single subject or event that progresses across multiple articles. Each interview provides a self-contained story about a distinct individual's career, life, or specific project. No group of three or more articles could be extracted that shows a logical, time-continuous, and synthesizable developmental story. Therefore, the cluster is deemed to be of inadequate size for forming qualified continuous stories.",
+  "score": 0
+}

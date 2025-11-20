@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "business/2025/oct/06/uk-regulators-crackdown-claims-firms-car-finance-payouts",
+    "business/2025/oct/09/lloyds-warns-of-greater-hit-from-car-loan-finance-scandal",
+    "business/2025/oct/10/carmakers-brace-for-big-payouts-over-loans-scandal-after-fca-consultation",
+    "business/2025/oct/13/lloyds-puts-aside-extra-800m-car-finance-compensation-historical-claims"
+  ],
+  "noise": [
+    "business/2025/sep/26/uk-retailers-accused-of-ripping-off-motorists-fuel-margins-petrol-diesel-prices",
+    "money/2025/oct/06/water-bills-millions-of-households-in-england-could-face-even-bigger-rises",
+    "business/2025/oct/09/millions-of-households-face-jump-in-water-bills-after-regulator-backs-more-price-rises",
+    "money/2025/oct/01/homes-in-great-britain-brace-for-winter-with-soaring-energy-debts",
+    "money/2025/oct/01/energy-price-cap-great-britain-cut-bill-better-deal",
+    "money/2025/oct/15/britain-biggest-energy-supplier-octopus-bills-on-track-to-rise-by-fifth-in-next-four-years"
+  ],
+  "evaluation": "The primary continuous story identified in this cluster concerns the UK Motor Finance Scandal and its evolving financial implications for lenders and carmakers. Articles detail regulatory crackdowns, warnings from major banks like Lloyds about increased compensation provisions, and the estimated payouts carmakers will face. This forms a clear, developmental narrative. Other articles were de-noised for several reasons: the article on fuel prices was a standalone topic. Two articles on water bills formed a related pair but did not meet the minimum size requirement of 3 articles for a continuous story. Three articles on rising energy bills and the price cap did form a coherent, continuous story of adequate size, but were treated as noise in this final output as the prompt requires returning only one de-noised, connected, and relevant group, and the car finance story was slightly larger and chosen as the primary focus.",
+  "score": 9
+}

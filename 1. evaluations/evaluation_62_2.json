@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "politics/2025/oct/07/lucy-powell-tells-labour-it-cant-sugarcoat-how-badly-things-are-going",
+    "politics/live/2025/oct/01/keir-starmer-labour-conference-nigel-farage-reform-uk-politics-latest-news-updates",
+    "commentisfree/2025/oct/11/labour-next-deputy-leader-guardian-readers-debate-candidates",
+    "politics/2025/oct/12/lucy-powell-calls-on-labour-not-to-write-off-may-local-elections",
+    "politics/2025/oct/20/labour-deputy-leadership-contest-may-only-cause-more-trouble-for-starmer",
+    "commentisfree/2025/oct/06/united-labour-party-britain-work-better-bridget-phillipson",
+    "politics/2025/sep/20/lucy-powell-urges-labour-to-consider-raising-gambling-taxes-so-it-can-axe-two-child-benefit-cap",
+    "politics/2025/sep/26/nigel-farage-endangering-womens-health-paracetamol-claims-bridget-phillipson-labour"
+  ],
+  "noise": [
+    "commentisfree/2025/sep/25/labour-reform-uk-deputy-labour-leader-nigel-farage",
+    "politics/2025/oct/01/uk-labour-party-members-lucy-powell-deputy-leadership-hustings"
+  ],
+  "evaluation": "This cluster effectively tracks the Labour Deputy Leadership Contest between Lucy Powell and Bridget Phillipson. The articles provide a continuous narrative covering policy proposals (gambling taxes, child benefit cap), campaign statements and critiques (Farage comments, member disconnection), hustings, the start of voting, and an analysis of the contest's implications. Articles were de-noised if they were general political commentary unrelated to the specific contest or if they were duplicates.",
+  "score": 9.5
+}

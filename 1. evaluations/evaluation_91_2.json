@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "sport/2025/sep/21/ryder-cup-usa-europe-bethpage-black-golf",
+    "sport/2025/sep/28/europe-seize-initiative-to-take-1112-412-lead-over-us-into-ryder-cup-singles",
+    "sport/2025/oct/15/ryder-cup-golf-europe-triumph-unruly-fans-rory-mcilroy",
+    "sport/2025/sep/24/golf-ryder-cup-luke-donald-opening-ceremony-kathy-hochul",
+    "sport/live/2025/sep/28/ryder-cup-2025-usa-europe-golf-singles-matches-live",
+    "sport/2025/sep/26/tommy-fleetwood-jon-rahm-rory-mcilroy-ryder-cup-europe-usa",
+    "sport/2025/sep/28/lowry-sinks-putt-that-retains-ryder-cup-for-europe-as-they-hold-off-us-comeback",
+    "sport/2025/sep/23/usa-will-have-to-win-ryder-cup-to-escape-pay-free-europes-money-talk",
+    "sport/2025/sep/28/usa-fans-ryder-cup-rory-mcilroy"
+  ],
+  "noise": [
+    "sport/2025/sep/26/with-the-donalds-golfing-tips-surely-the-usa-cant-fail-to-win-this-ryder-cup-bigly"
+  ],
+  "evaluation": "This cluster successfully forms a continuous and developmental story centered around the Ryder Cup 2025. It logically progresses from the pre-event controversies surrounding US player payments and high ticket prices (Articles 'sport/2025/sep/21/ryder-cup-usa-europe-bethpage-black-golf', 'sport/2025/sep/23/usa-will-to-win-ryder-cup-to-escape-pay-free-europes-money-talk'), through the opening ceremony (Article 'sport/2025/sep/24/golf-ryder-cup-luke-donald-opening-ceremony-kathy-hochul'), the initial stages of the tournament where Europe takes an early lead (Article 'sport/2025/sep/26/tommy-fleetwood-jon-rahm-rory-mcilroy-ryder-cup-europe-usa'), to the dramatic final day events including Europe's commanding lead (Article 'sport/2025/sep/28/europe-seize-initiative-to-take-1112-412-lead-over-us-into-ryder-cup-singles'), the US comeback attempt and Europe's ultimate retention of the cup (Articles 'sport/2025/sep/28/lowry-sinks-putt-that-retains-ryder-cup-for-europe-as-they-hold-off-us-comeback', 'sport/live/2025/sep/28/ryder-cup-2025-usa-europe-golf-singles-matches-live'), and the persistent issue of unruly fan behavior towards players like Rory McIlroy (Article 'sport/2025/sep/28/usa-fans-ryder-cup-rory-mcilroy'). The story concludes with post-event reflections (Article 'sport/2025/oct/15/ryder-cup-golf-europe-triumph-unruly-fans-rory-mcilroy'). Article 'sport/2025/sep/26/with-the-donalds-golfing-tips-surely-the-usa-cant-fail-to-win-this-ryder-cup-bigly' was de-noised as it is a satirical piece, not providing actual informative content relevant to news reporting.",
+  "score": 10
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": [],
+  "articles": [
+    "football/2025/oct/19/liverpool-manchester-united-premier-league-match-report",
+    "football/live/2025/oct/19/liverpool-v-manchester-united-premier-league-live",
+    "football/live/2025/oct/22/eintracht-frankfurt-v-liverpool-champions-league-live"
+  ],
+  "noise": [
+    "football/live/2025/oct/21/newcastle-v-benfica-villarreal-v-manchester-city-and-more-champions-league-live",
+    "football/live/2025/oct/18/fulham-v-arsenal-premier-league-live",
+    "football/live/2025/oct/19/tottenham-hotspur-v-aston-villa-premier-league-live",
+    "football/2025/oct/16/benfica-arsenal-womens-champions-league-match-report",
+    "football/live/2025/oct/21/arsenal-v-atletico-madrid-champions-league-live",
+    "football/2025/oct/18/fulham-arsenal-premier-league-match-report",
+    "football/live/2025/oct/16/benfica-v-arsenal-womens-champions-league-live"
+  ],
+  "evaluation": "This cluster primarily contains football match reports and live updates from October 2025. A continuous story was identified focusing on Liverpool FC's men's team, tracking their Premier League match against Manchester United on October 19th and their subsequent Champions League fixture against Eintracht Frankfurt on October 22nd. The two articles from the same Premier League match provide comprehensive coverage (report and live reaction), followed by a Champions League report, demonstrating a clear chronological and developmental narrative for the team. Articles detailing Arsenal's men's and women's teams, other Premier League matches (Tottenham, Fulham), and general Champions League clockwatches were de-noised as they did not contribute to the specific Liverpool-centric narrative and would constitute separate story lines.",
+  "score": 9
+}

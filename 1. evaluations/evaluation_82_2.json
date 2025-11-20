@@ -1,0 +1,19 @@
+{
+  "centroid": "placeholder_centroid_vector",
+  "articles": [
+    "us-news/2025/oct/10/trump-china-tariffs",
+    "us-news/2025/oct/10/trump-china-trade-war-soybeans",
+    "us-news/2025/oct/12/china-warns-us-of-retaliation-over-trump-100-tariffs-threat",
+    "world/2025/oct/13/why-us-china-trade-war-restarted-tariffs",
+    "business/2025/oct/13/markets-rebound-us-china-tariff-taco-trade",
+    "us-news/2025/oct/14/china-us-world-economy-trump-tariffs"
+  ],
+  "noise": [
+    "us-news/2025/oct/19/trump-tariffs-us-consumers",
+    "us-news/2025/oct/09/a-fatal-blow-italian-producers-fear-effects-of-trumps-war-against-pasta",
+    "us-news/2025/oct/10/trump-tariff-impact-retail",
+    "business/2025/sep/26/trump-latest-tariff-threat-raises-fresh-concerns-for-uk-pharma"
+  ],
+  "evaluation": "This cluster effectively captures the re-escalation of the US-China trade war in October 2025. The core narrative follows Donald Trump's threat of 100% tariffs on China due to rare earth export restrictions, China's subsequent warnings of retaliation, the market's reaction, and the underlying reasons for the renewed tensions. The timeline is logical and developmental, starting from the initial threat (Oct 10), covering immediate impacts (soybeans), Chinese response (Oct 12), contextual explanations and market shifts (Oct 13), and continued rhetoric (Oct 14). \n\nArticles focusing on broader, general impacts of tariffs on US consumers (Oct 19), US retail (Oct 10), Italian pasta producers (Oct 09), and the UK pharmaceutical industry (Sep 26) were de-noised. While related to 'tariffs,' these articles do not directly contribute to the specific, time-continuous, and developmental story of the US-China trade war re-escalation, covering different geographical areas, industries, or general economic impacts rather than the unfolding bilateral conflict.",
+  "score": 9
+}

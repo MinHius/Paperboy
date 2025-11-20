@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [
+    "us-news/2025/sep/21/trump-officials-tylenol-autism",
+    "science/2025/sep/22/can-you-use-tylenol-acetaminophen-paracetamol-during-pregnancy-is-it-safe-explainer",
+    "us-news/2025/sep/22/trump-tylenol-experts-autism",
+    "us-news/2025/sep/22/trump-administration-autism-causes",
+    "society/2025/sep/23/is-paracetamol-safe-during-pregnancy-and-does-it-have-links-to-autism",
+    "commentisfree/2025/sep/23/trump-rfk-jr-tylenol-pregnant-women",
+    "us-news/2025/sep/23/trump-administration-news-tylenol-paracetamol-updates-today",
+    "australia-news/2025/sep/23/australian-health-experts-warns-trumps-unfounded-claims-about-paracetamol-may-harm-pregnant-women",
+    "us-news/2025/sep/23/first-thing-trump-officials-highly-contentious-conclusions-autism",
+    "us-news/2025/sep/24/obama-says-trump-linking-paracetamol-to-autism-is-violence-against-the-truth"
+  ],
+  "noise": [],
+  "evaluation": "This cluster details the unfolding story of Donald Trump's administration linking acetaminophen (Tylenol/paracetamol) use during pregnancy to autism. The articles are highly continuous and developmental, covering the initial reports and anticipation (Sep 21, 2025), the official announcement and immediate expert backlash (Sep 22, 2025), the widespread condemnation from national and international medical bodies and scientific explanations (Sep 23, 2025), and a high-profile political response from Barack Obama (Sep 24, 2025). All articles are strictly relevant, informative, and contribute to a clear, logical timeline of this significant public health controversy. No articles were deemed noise as they all contribute to the narrative's progression and context.",
+  "score": 10
+}

@@ -1,0 +1,48 @@
+{
+  "title": "National Grooming Gangs Inquiry Plunges into Turmoil Amid Resignations and Political Accusations",
+  "topic": "National inquiry faces collapse after survivor resignations, candidate withdrawals, and political interference claims.",
+  "story": "A national inquiry into grooming gangs, initiated by Keir Starmer in June, has been thrown into disarray following a series of resignations and withdrawals that have stalled its progress and drawn accusations of political interference.\n\nInitially announced as a statutory investigation, the inquiry struggled early on with discussions over its remit and difficulties in securing a senior legal figure to chair it. Four months after its inception, the Home Office confirmed the ongoing search for a suitable chair.\n\nThe crisis escalated dramatically on Monday with the resignations of two key abuse survivors, Ellie-Ann Reynolds from Barrow and Fiona Goddard, who was abused in Bradford, from the inquiry's oversight panel. They cited 'condescending and controlling language used towards survivors' and 'political interference.'\n\nThe panel was scheduled to meet with two prospective candidates for the chair role on Tuesday: former deputy chief constable Jim Gamble and Annie Hudson, chair of the child safeguarding practice review panel. However, on Tuesday, Annie Hudson withdrew her candidacy, citing 'intense media coverage.' This was followed by the resignation of a third survivor, 'Elizabeth,' joining Goddard and Reynolds.\n\nBy Wednesday, the situation worsened as Jim Gamble, considered a frontrunner, also withdrew. He publicly condemned the appointment process as 'toxic,' driven by 'vested interests,' and marred by 'political opportunism' and 'a lack of trust,' leaving the inquiry without any shortlisted candidates. Gamble's withdrawal came as four survivors collectively accused the UK government of attempting to manipulate them into broadening the inquiry's scope beyond grooming gangs to include other forms of sexual abuse.\n\nIn an effort to salvage the failing inquiry, Keir Starmer announced on Wednesday that civil service troubleshooter Louise Casey would be brought in as an adviser. However, simultaneously, the four resigning survivors demanded the resignation of Safeguarding Minister Jess Phillips, accusing her of 'betrayal' and deeming her 'unfit to oversee a process that requires survivors to trust the government.'\n\nOn Thursday, a government minister affirmed 'full confidence' in Jess Phillips, stating she would remain in her post, with Children’s Minister Josh MacAlister reiterating the Prime Minister's full backing. Kemi Badenoch has been credited with influencing Starmer's decision to launch the inquiry, which is now experiencing 'day four' of its deepening crisis.\n\nThis ongoing turmoil highlights significant challenges in establishing a credible and trusted national investigation into the widespread historical issue of grooming gangs across UK towns and cities.",
+  "figure": [
+    "Keir Starmer",
+    "Ellie-Ann Reynolds",
+    "Fiona Goddard",
+    "Elizabeth",
+    "Jim Gamble",
+    "Annie Hudson",
+    "Jess Phillips",
+    "Josh MacAlister",
+    "Louise Casey",
+    "Kemi Badenoch"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/jNQXAC9IVRw",
+    "https://www.youtube.com/embed/jNQXAC9IVRw"
+  ],
+  "location": [
+    {
+      "name": "United Kingdom",
+      "lat": 55.3781,
+      "lon": -3.436
+    },
+    {
+      "name": "Bradford",
+      "lat": 53.7959,
+      "lon": -1.7519
+    },
+    {
+      "name": "Barrow-in-Furness",
+      "lat": 54.1154,
+      "lon": -3.2281
+    },
+    {
+      "name": "Belfast",
+      "lat": 54.5973,
+      "lon": -5.9301
+    },
+    {
+      "name": "London Borough of Lambeth",
+      "lat": 51.4627,
+      "lon": -0.1166
+    }
+  ]
+}

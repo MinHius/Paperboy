@@ -1,0 +1,37 @@
+{
+  "title": "Global Financial Watchdogs Sound Alarm on Private Credit After US Failures",
+  "topic": "US private credit failures trigger global warnings on unregulated shadow banking, raising 2008 crisis parallels.",
+  "story": "The recent collapses of US-based sub-prime auto lender Tricolor and auto parts supplier First Brands have sent ripples of concern through global financial markets, with leading figures drawing unsettling parallels to the 2008 sub-prime mortgage crisis.\n\nJPMorgan Chase CEO Jamie Dimon ominously cautioned analysts, stating, \"When you see one cockroach, there are probably more,\" after the bank disclosed a $170 million hit tied to Tricolor's bankruptcy. Barclays also reported a £110 million loss from its lending to Tricolor, though its chief executive, CS Venkatakrishnan, noted the bank avoided exposure to First Brands.\n\nThese failures have put a spotlight on the opaque, largely unregulated private credit sector, also known as \"shadow banking.\" Unlike traditional banks, private credit firms' loans are backed by investors rather than customer deposits, and they are not subject to the same stringent disclosure requirements, leading to concerns about hidden risks.\n\nWarnings are now escalating from international financial authorities. Andrew Bailey, Governor of the Bank of England, told a House of Lords committee that events in the US private credit markets have \"worrying echoes\" of the 2008 crisis, questioning if these were isolated incidents or \"the canary in the coalmine.\"\n\nSimilarly, Kristalina Georgieva, head of the International Monetary Fund (IMF), admitted that the risks building up in non-bank lending markets \"keeps her awake at night.\" Speaking at the IMF’s annual meeting in Washington DC, she urged countries to pay more attention to the sector, highlighting a \"very significant shift of financing\" from regulated banking to less-regulated non-bank financial institutions (NBFIs).\n\nThe IMF's latest Global Financial Stability Report further underscored these anxieties, warning that US stock markets, despite the AI boom, are at risk of a \"sudden, sharp correction\" and government bond markets are under mounting pressure. The report emphasized \"increasing vulnerabilities\" within the financial system, particularly among NBFIs, which are now \"closely bound to the banking sector.\" The overarching message from Wall Street to Washington D.C. is one of heightened vigilance against potential contagion from this rapidly growing, yet less visible, segment of the financial world.",
+  "figure": [
+    "Jamie Dimon",
+    "CS Venkatakrishnan",
+    "Andrew Bailey",
+    "Kristalina Georgieva"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/ABCDEFG1",
+    "https://www.youtube.com/embed/HIJKLMN2"
+  ],
+  "location": [
+    {
+      "name": "United States",
+      "lat": 39.8283,
+      "lon": -98.5795
+    },
+    {
+      "name": "Wall Street, New York City",
+      "lat": 40.7061,
+      "lon": -74.0094
+    },
+    {
+      "name": "Washington D.C.",
+      "lat": 38.9072,
+      "lon": -77.0369
+    },
+    {
+      "name": "House of Lords, London",
+      "lat": 51.4994,
+      "lon": -0.1248
+    }
+  ]
+}

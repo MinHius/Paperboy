@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "society/2025/oct/19/woman-investigated-husband-use-assisted-dying-clinic-wanted-to-argue-case-in-court",
+    "society/2025/oct/19/campaigners-urge-cps-to-reconsider-charges-against-partner-of-woman-who-died-by-suicide",
+    "uk-news/2025/oct/21/grandchildren-of-ruth-ellis-last-woman-to-be-hanged-in-uk-ask-for-pardon",
+    "uk-news/2025/oct/22/sheku-bayoh-family-accuses-police-sabotage-inquiry-chair-resigns",
+    "uk-news/2025/oct/22/man-murdered-stranger-in-devon-park-after-losing-mental-health-support-inquest-hears",
+    "society/2025/oct/16/woman-who-travelled-with-husband-to-assisted-dying-clinic-will-not-face-charges",
+    "commentisfree/2025/oct/22/family-courts-children-parents-public-inquiry",
+    "sport/2025/oct/16/ricky-hatton-is-thought-to-have-killed-himself-inquest-told",
+    "society/2025/oct/16/on-a-sunny-day-my-ex-came-to-the-hair-salon-where-i-worked-and-shot-me-at-close-range",
+    "world/2025/oct/16/woman-alleged-to-have-tortured-and-killed-12-year-old-to-stand-trial-in-france"
+  ],
+  "evaluation": "Upon initial inspection, a thorough review of all articles was conducted to identify continuous and developmental stories. Articles 'society/2025/oct/16/woman-who-travelled-with-husband-to-assisted-dying-clinic-will-not-face-charges' and 'society/2025/oct/19/woman-investigated-husband-use-assisted-dying-clinic-wanted-to-argue-case-in-court' were identified as relating to the same assisted dying case involving Louise Shackleton, showing a clear chronological development over three days (Oct 16 to Oct 19). However, this continuous story group consists of only two articles, which is below the minimum required size of three for validation. All other articles ('society/2025/oct/19/campaigners-urge-cps-to-reconsider-charges-against-partner-of-woman-who-died-by-suicide', 'uk-news/2025/oct/21/grandchildren-of-ruth-ellis-last-woman-to-be-hanged-in-uk-ask-for-pardon', 'uk-news/2025/oct/22/sheku-bayoh-family-accuses-police-sabotage-inquiry-chair-resigns', 'uk-news/2025/oct/22/man-murdered-stranger-in-devon-park-after-losing-mental-health-support-inquest-hears', 'commentisfree/2025/oct/22/family-courts-children-parents-public-inquiry', 'sport/2025/oct/16/ricky-hatton-is-thought-to-have-killed-himself-inquest-told', 'society/2025/oct/16/on-a-sunny-day-my-ex-came-to-the-hair-salon-where-i-worked-and-shot-me-at-close-range', 'world/2025/oct/16/woman-alleged-to-have-tortured-and-killed-12-year-old-to-stand-trial-in-france') cover distinct and separate incidents or broader commentary, lacking direct continuity with each other or the aforementioned assisted dying case. Therefore, as no single continuous story group met the minimum size requirement of three articles, the cluster is deemed to have an inadequate size for a continuous story.",
+  "score": 0
+}

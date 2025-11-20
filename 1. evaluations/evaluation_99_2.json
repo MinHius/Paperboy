@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "us-news/2025/sep/23/trump-un-general-assembly-speech",
+    "us-news/2025/sep/23/trump-un-speech-fact-check-claims",
+    "us-news/2025/sep/23/trump-un-speech-maga-base",
+    "us-news/2025/sep/24/first-thing-trump-uses-un-speech-to-attack-global-body-as-feckless-and-pernicious",
+    "world/2025/sep/24/trump-un-general-assembly-speech-analysis",
+    "us-news/live/2025/sep/24/donald-trump-jimmy-kimmel-freedom-of-speech-immigration-government-shutdown-us-politics-live-news-updates",
+    "us-news/2025/sep/24/trumps-un-speech-what-he-said-about-london-oil-and-the-uks-green-policies",
+    "australia-news/2025/sep/24/morning-mail-trump-lashes-out-in-address-to-un-labor-lawfare-in-ndis-appeals-turmoil-at-men-only-savage-club",
+    "us-news/2025/sep/25/trumps-european-hell-is-made-in-america"
+  ],
+  "noise": [
+    "world/live/2025/sep/23/copenhagen-oslo-airport-drones-denmark-norway-russia-nato-estonia-europe-live-latest-news-updates"
+  ],
+  "evaluation": "This cluster effectively tracks the continuous story of Donald Trump's address at the United Nations General Assembly in September 2025. The articles cover the initial speech, fact-checking, detailed content and specific claims, political analysis of its target audience, immediate reactions (including Trump's own claims of sabotage), and a subsequent analytical op-ed placing the speech's themes in a broader context. The timeline is logical, progressing from the day of the speech (Sep 23) through immediate reactions and analysis (Sep 24) to a broader commentary (Sep 25). The articles are informative, providing significant coverage of the event and its implications. Article 4 was de-noised as it discusses unrelated drone incidents over Copenhagen airport. Article 10, while containing some unrelated Australian domestic news, starts with and provides a relevant summary of the Trump UN address, making it suitable for inclusion.",
+  "score": 9
+}

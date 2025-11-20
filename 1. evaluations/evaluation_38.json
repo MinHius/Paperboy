@@ -1,0 +1,19 @@
+{
+  "centroid": "provided_centroid_vector",
+  "articles": [
+    "sport/2025/oct/17/lando-norris-oscar-piastri-mclaren-united-states-grand-prix-preview",
+    "sport/2025/oct/18/verstappen-takes-f1-us-gp-pole-after-sprint-victory-to-turn-up-heat-on-norris-and-piastri",
+    "sport/live/2025/oct/18/f1-united-states-grand-prix-sprint-race-and-qualifying-live",
+    "sport/2025/oct/19/verstappen-cruises-to-victory-in-f1-us-grand-prix-to-pile-pressure-on-mclarens",
+    "sport/live/2025/oct/19/formula-one-united-states-grand-prix-live-updates",
+    "sport/2025/oct/19/for-sure-the-chance-is-there-max-verstappen-hopeful-he-can-retain-title",
+    "sport/2025/oct/20/max-verstappen-pressure-mclaren-kimi-raikkonen-2007-f1-title-race",
+    "sport/2025/oct/20/red-bull-fined-43000-after-team-member-tries-to-tamper-with-lando-norris-grid-tape"
+  ],
+  "noise": [
+    "sport/2025/oct/18/australian-motogp-spring-marco-bezzecchi-",
+    "sport/2025/oct/15/f1-george-russell-stays-at-mercedes-next-season-max-verstappen"
+  ],
+  "evaluation": "This cluster successfully forms a continuous and developmental story centered around the Formula One United States Grand Prix weekend. The narrative progresses logically from a pre-race preview (Oct 17), through qualifying and sprint race events (Oct 18), the main race victory and immediate reactions (Oct 19), to post-race analysis and championship implications (Oct 20). Key themes include Max Verstappen's resurgence, the intense championship battle involving McLaren drivers Lando Norris and Oscar Piastri, and specific incidents like Red Bull's fine for grid tampering. Articles are highly informative, provide significant coverage, and build a cohesive timeline. Two articles were de-noised: one covering Australian MotoGP (irrelevant sport) and another discussing George Russell's contract, which, while F1-related, is not directly continuous or developmental to the US Grand Prix event itself.",
+  "score": 10
+}

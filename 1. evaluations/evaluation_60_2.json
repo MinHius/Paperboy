@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "world/2025/sep/24/super-typhoon-ragasa-update-path-hong-kong-taiwan-china",
+    "environment/2025/oct/20/weather-tracker-dead-as-tropical-storm-fengshen-hits-philippines",
+    "world/live/2025/sep/24/typhoon-ragasa-live-china-hong-kong-taiwan-philippines-latest-storm-news-updates",
+    "us-news/2025/oct/15/alaska-typhoon-halong-aftermath",
+    "world/2025/sep/25/weakened-super-typhoon-ragasa-heads-towards-vietnam-after-battering-china-and-hong-kong",
+    "environment/2025/oct/06/weather-tracker-typhoon-matmo-batters-southern-china",
+    "environment/2025/sep/26/super-typhoon-ragasa-rampages-through-taiwan-hong-kong-and-southern-china",
+    "us-news/2025/oct/21/typhoon-halong-alaska-damage-kipnuk-village",
+    "world/2025/sep/30/typhoon-bualoi-death-toll-rises-across-vietnam-thailand-and-philippines",
+    "uk-news/live/2025/oct/04/storm-amy-live-updates-latest-news-uk-ireland-weather-warnings-met-office"
+  ],
+  "evaluation": "Initial inspection failed. While a potential continuous story about Super Typhoon Ragasa (articles 1, 3, 5, 7) was identified with 4 articles, another distinct potential story regarding Typhoon Halong (articles 4, 8) contained only 2 articles. According to the strict criteria, if any relevant extracted group has a size below 3, the entire cluster must be deemed 'Inadequate size' and cannot proceed to further validation steps. Therefore, no qualified developmental articles are returned.",
+  "score": 0
+}

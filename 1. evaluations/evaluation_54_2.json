@@ -1,0 +1,18 @@
+{
+  "centroid": "UNKNOWN",
+  "articles": [],
+  "noise": [
+    "environment/2025/oct/11/orange-bellied-parrots-have-swelled-back-from-imminent-extinction-but-now-they-face-a-new-threat",
+    "environment/2025/oct/11/number-of-wild-bee-species-at-risk-of-extinction-in-europe-doubles-in-10-years",
+    "environment/2025/oct/10/biodiversity-conservation-world-bird-species-declining-arctic-seals-green-turtles-iucn-uae-aoe",
+    "environment/2025/oct/02/endangered-orcas-southern-resident-killer-whales-sniffer-dogs-drones-scientists-washington",
+    "environment/2025/oct/06/going-extinct-right-under-our-noses-the-quiet-plight-of-australias-rarest-bird-of-prey",
+    "environment/2025/oct/06/butterflies-losing-colour-cutting-down-tropical-forests-aoe",
+    "environment/2025/sep/29/fairy-terns-returning-to-port-phillip-bay-floating-nests-decoys",
+    "environment/ng-interactive/2025/oct/16/bird-migration-is-changing-what-does-this-reveal-about-our-planet-visualised-aoe",
+    "environment/2025/oct/22/africa-wildlife-conservation-ancient-elephant-migration-routes-blocked-off-human-animal-conflict-aoe",
+    "environment/2025/oct/01/common-toad-is-becoming-uncommon-in-uk-study-shows"
+  ],
+  "evaluation": "The cluster contains articles broadly related to wildlife conservation and species decline. However, upon strict initial inspection for 'continuous' and 'developmental' stories, no group of three or more articles was identified that focuses on the same specific species, event, or evolving narrative. Each article reports on a distinct conservation challenge or success concerning different species (e.g., parrots, bees, orcas, elephants, toads) across varied geographical locations (Australia, Europe, Africa, UK). While thematically related, they do not form a progression of a single story. Therefore, the criteria for forming a continuous, developmental story of adequate size (minimum 3 articles) is not met, rendering all articles as noise in the context of story continuity.",
+  "score": 0
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": "Not provided",
+  "articles": [
+    "football/2025/oct/18/nottingham-forest-approach-dyche-and-mancini-after-postecoglou-sacked",
+    "football/2025/oct/18/ange-postecoglou-sacked-by-nottingham-forest-after-40-days-as-head-coach",
+    "football/2025/oct/20/nottingham-forest-sean-dyche-close-appointing-head-coach",
+    "football/2025/oct/22/badge-of-honour-sean-dyche-forest-history-focuses-on-urgent-task-at-hand",
+    "football/2025/oct/20/ange-postecoglou-nottingham-forest-premier-league",
+    "football/2025/oct/18/ange-postecoglou-rapid-nottingham-forest-exit-leaves-marinakis-rebuild-in-peril",
+    "football/2025/oct/17/let-the-story-play-out-postecoglou-defends-record-as-nottingham-forest-pressure-grows",
+    "football/2025/oct/18/nottingham-forest-chelsea-premier-league-match-report"
+  ],
+  "noise": [
+    "football/live/2025/oct/18/nottingham-forest-v-chelsea-premier-league-live",
+    "football/live/2025/oct/18/premier-league-returns-postecoglou-arsenal-matchday-live"
+  ],
+  "evaluation": "This cluster details the continuous story of Ange Postecoglou's dismissal as Nottingham Forest head coach and the subsequent appointment of Sean Dyche. The articles logically progress from mounting pressure on Postecoglou (Oct 17), his sacking after a match (Oct 18), immediate aftermath and the start of the successor search (Oct 18), reflective analysis of his tenure (Oct 20), the near-appointment of Dyche (Oct 20), and finally Dyche's official unveiling (Oct 22). The articles are strictly relevant, informative, and provide significant coverage for a synthesizable narrative. Articles identified as noise were primarily live blog updates (pre-match and post-match), which offer transient, real-time commentary rather than developing the core managerial change narrative.",
+  "score": 9.5
+}

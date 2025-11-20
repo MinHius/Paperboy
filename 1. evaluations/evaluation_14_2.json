@@ -1,0 +1,19 @@
+{
+  "centroid": [],
+  "articles": [
+    "world/2025/sep/29/trumps-gaza-peace-plan-is-a-back-of-an-envelope-sketch-but-could-work",
+    "world/2025/oct/03/hamas-agrees-to-release-all-israeli-hostages",
+    "world/2025/oct/04/i-feel-like-we-are-in-a-trap-gaza-residents-hopeful-but-wary-of-trumps-peace-plan",
+    "world/2025/oct/05/israel-continues-gaza-bombardment-trump-plan-negotiators-arrive-in-cairo",
+    "us-news/2025/oct/09/first-thing-israel-and-hamas-agree-to-first-phase-of-gaza-ceasefire-plan",
+    "world/2025/oct/09/gaza-ceasefire-deal-first-phase-trump-peace-plan",
+    "world/live/2025/oct/11/israel-gaza-ceasefire-hamas-hostages-netanyahu-trump-middle-east-latest-news-updates",
+    "world/live/2025/oct/14/gaza-ceasefire-israel-hamas-palestine-hostages-detainees-truce-live-news-updates"
+  ],
+  "noise": [
+    "world/live/2025/oct/01/israel-gaza-offensive-benjamin-netanyahu-hamas-donald-trump-middle-east-crisis-live-news",
+    "us-news/live/2025/oct/03/shutdown-congress-trump-senate-latest-updates"
+  ],
+  "evaluation": "This cluster effectively traces the unfolding story of President Donald Trump's Gaza peace plan. The narrative progresses logically from the plan's initial outline and analysis (Sep 29), through Hamas's qualified acceptance and Trump's call for a halt to bombing (Oct 3), the on-the-ground realities and start of negotiations (Oct 4-5), the eventual agreement on the first phase of the ceasefire (Oct 9), and finally to the initial implementation steps involving prisoner and hostage exchanges (Oct 11-14). The articles are strictly relevant, informative, and provide significant coverage of this continuous diplomatic effort.\n\nTwo articles were de-noised: \n- 'world/live/2025/oct/01/israel-gaza-offensive-benjamin-netanyahu-hamas-donald-trump-middle-east-crisis-live-news' was deemed noise because its focus on Israel's military encirclement on October 1st, while related to the broader conflict, did not directly contribute to the developmental narrative of the *peace plan's negotiation and implementation*. It was a distinct aspect of the ongoing conflict rather than the peace process itself.\n- 'us-news/live/2025/oct/03/shutdown-congress-trump-senate-latest-updates' was removed due to its mixed content, including an irrelevant report on the US Supreme Court ruling regarding Venezuelan legal protections. Although it briefly mentioned Trump's reaction to Hamas (which was covered more thoroughly in a dedicated article), its multi-topic nature made it unsuitable for a focused continuous story.",
+  "score": 9
+}

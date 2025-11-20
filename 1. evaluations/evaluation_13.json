@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "lifeandstyle/2025/oct/17/pregnant-women-in-england-at-growing-risk-of-serious-injury-in-childbirth",
+    "society/2025/oct/17/nhs-medical-negligence-liabilities-hit-60bn-amid-surge-in-maternity-payouts",
+    "commentisfree/2025/oct/19/the-guardian-view-on-childbirth-and-medical-negligence-rising-payouts-highlight-the-urgency-of-maternity-improvements"
+  ],
+  "noise": [
+    "society/2025/oct/15/alarming-rise-in-mental-health-stigma-in-england-research-shows",
+    "society/2025/oct/20/suicide-rate-among-children-and-young-people-rose-50-in-10-years-figures-show",
+    "society/2025/oct/20/low-participation-medical-trials-millions-young-people-risk",
+    "global-development/2025/oct/15/nursing-unions-call-for-uk-to-back-icc-prosecutions-for-war-crimes-against-health-workers",
+    "global-development/2025/oct/21/global-health-infectious-disease-aid-cuts-malaria-funding-cost-deaths-gdp-africa",
+    "education/2025/oct/23/one-in-12-secondary-pupils-put-in-isolation-rooms-at-least-once-a-week-study-finds",
+    "politics/2025/oct/16/proposed-uk-cuts-global-aid-fund-preventable-deaths-charities"
+  ],
+  "evaluation": "This cluster was validated for continuous stories focusing on health and social issues. A core continuous story emerged regarding the crisis in NHS maternity services in England. Article 'lifeandstyle/2025/oct/17/pregnant-women-in-england-at-growing-risk-of-serious-injury-in-childbirth' reports a rising risk of birth injuries, which is directly complemented by 'society/2025/oct/17/nhs-medical-negligence-liabilities-hit-60bn-amid-surge-in-maternity-payouts' detailing the financial and systemic impact of such negligence. 'commentisfree/2025/oct/19/the-guardian-view-on-childbirth-and-medical-negligence-rising-payouts-highlight-the-urgency-of-maternity-improvements' then provides an editorial perspective, reinforcing the urgency based on these findings. This forms a clear, developmental narrative from problem identification to systemic impact and call for action. Other articles were de-noised due to irrelevance: articles concerning mental health stigma, youth suicide rates, medical trial participation, and war crimes against health workers were distinct topics. A potential sub-group on global aid cuts ('global-development/2025/oct/21/global-health-infectious-disease-aid-cuts-malaria-funding-cost-deaths-gdp-africa' and 'politics/2025/oct/16/proposed-uk-cuts-global-aid-fund-preventable-deaths-charities') was identified but did not meet the minimum size requirement of three articles for a continuous story and was thus moved to the noise list.",
+  "score": 10
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "society/2025/oct/17/developers-higher-subsidies-fewer-affordable-homes-london",
+    "society/2025/oct/20/labour-mps-ministers-affordable-housing-london-sadiq-khan",
+    "society/2025/oct/20/sadiq-khan-act-fast-fix-london-housebuilding-emergency"
+  ],
+  "noise": [
+    "australia-news/2025/oct/15/victoria-rent-reforms-portable-bond-fees-parliament",
+    "commentisfree/2025/oct/16/homeless-children-government-strategy-child-poverty",
+    "world/2025/oct/15/eu-executive-short-term-rental-rules-affordable-housing-plan",
+    "society/2025/oct/18/labours-housing-hypocrisy-councils-serve-almost-200-families-with-no-fault-eviction-notices",
+    "politics/2025/oct/14/rachel-reeves-planning-system-changes",
+    "commentisfree/2025/oct/16/labour-england-nature-housing-planning-bill",
+    "politics/2025/oct/19/environment-groups-are-anything-but-mute-on-the-planning-bill"
+  ],
+  "evaluation": "The core continuous story identified focuses on London's deepening housebuilding crisis and the controversial policy proposals to address it. Article 'society/2025/oct/20/sadiq-khan-act-fast-fix-london-housebuilding-emergency' sets the stage by highlighting the severe decline in new constructions in the capital, portraying it as an emergency. Following this, 'society/2025/oct/17/developers-higher-subsidies-fewer-affordable-homes-london' details the government's and London mayor's plans to allow developers higher subsidies and reduce affordable housing quotas, a proposed solution to the crisis. The immediate political reaction and opposition to these plans are captured in 'society/2025/oct/20/labour-mps-ministers-affordable-housing-london-sadiq-khan', where Labour MPs urge the reversal of these controversial measures. These articles are strictly relevant, time-continuous, and synthesizable into a coherent narrative about the London housing policy debate. Other articles were de-noised due to varying geographic scopes (Australia, EU), being general commentary/personal stories (homelessness), or focusing on different, albeit related, UK national planning policies (planning bill and environmental impact) that form a separate, distinct narrative not combinable under the 'one JSON object per cluster evaluation' rule.",
+  "score": 9.0
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "world/2025/oct/22/paris-louvre-jewellery-heist-museum-reopens",
+    "world/2025/oct/21/louvre-heist-losses-put-at-almost-90m-as-museums-head-prepares-to-face-mps",
+    "world/2025/oct/19/louvre-closed-after-robbery-french-culture-minister-says",
+    "world/2025/oct/20/louvre-heist-pressure-french-government-museum-security-paris",
+    "world/2025/oct/20/louvre-heist-puts-spotlight-on-museum-security",
+    "world/2025/oct/20/louvre-museum-robbery-thieves-stolen-jewellery",
+    "world/2025/oct/22/louvre-director-acknowledges-terrible-failure-after-88m-jewel-heist"
+  ],
+  "noise": [
+    "world/2025/oct/22/louvre-jewel-heist-daring-art-thefts-from-the-musuem",
+    "world/commentisfree/2025/oct/21/france-louvre-raid-political-heist-president-emmanuel-macron-sebastien-lecornu",
+    "artanddesign/2025/oct/20/louvre-art-thieves-royal-chardins-leonardos-dreadful-taste"
+  ],
+  "evaluation": "This cluster effectively tracks the continuous story of the Louvre jewellery heist in October 2025. It begins with the initial report of the robbery and museum closure (Oct 19), progresses through the immediate aftermath including government pressure, security concerns, detailed accounts of the heist, and financial loss estimations (Oct 20-21), and concludes with the museum's reopening and the director's admission of security failures (Oct 22). The de-noised articles ('world/2025/oct/22/louvre-jewel-heist-daring-art-thefts-from-the-musuem', 'world/commentisfree/2025/oct/21/france-louvre-raid-political-heist-president-emmanuel-macron-sebastien-lecornu', 'artanddesign/2025/oct/20/louvre-art-thieves-royal-chardins-leonardos-dreadful-taste') were removed as they were either historical context of past events, an opinion/commentary piece, or satirical content, thus not directly contributing to the factual, developmental narrative of the specific ongoing heist.",
+  "score": 9
+}

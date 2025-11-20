@@ -1,0 +1,62 @@
+{
+  "title": "US-Ukraine Summit: Tomahawk Hopes and Peace Proposals Amidst Shifting Alliances",
+  "topic": "Trump, Zelenskyy discuss Tomahawks, peace; Ukraine secures Patriot air defense, Gripen jets from Sweden.",
+  "story": "Ukrainian President Volodymyr Zelenskyy embarked on a visit to the White House on Friday for a crucial meeting with US President Donald Trump. This high-stakes summit followed a \"very productive\" call between President Trump and Russian President Vladimir Putin, during which Trump indicated plans for another meeting with Putin in Budapest, Hungary. The potential supply of US Tomahawk cruise missiles, a long-range weapon capable of striking Moscow, was anticipated to be a central topic, with Zelenskyy having repeatedly sought these powerful munitions for Ukraine's offensive operations.\n\nDuring their extensive discussions, which marked their fourth face-to-face encounter, President Trump expressed reservations about immediately providing Tomahawks. He suggested the US might need these weapons for future conflicts and highlighted the challenges of supplying \"massive numbers of very powerful weapons\" while hoping for a swift end to the war without their deployment. Trump's primary focus appeared to be on brokering an immediate peace agreement, urging both Ukraine and Russia to \"stop the war immediately\" at their current battle lines, even if it necessitated Ukraine conceding territory.\n\nFollowing the talks, President Zelenskyy noted that while Trump did not explicitly say \"yes\" to the Tomahawks, he also \"didn't say 'no',\" leaving the door open for future possibilities. Zelenskyy reiterated Ukraine's critical need for these missiles, emphasizing the limitations of relying solely on Ukrainian drones. Retrospectively, Zelenskyy described the meeting as a success, despite the absence of a Tomahawk commitment. He reported significant progress on air defense systems, with Ukraine now preparing a contract to acquire 25 Patriot air defense systems, a major enhancement to its defensive capabilities.\n\nAmid these diplomatic exchanges, Zelenskyy also observed that discussions around Tomahawks had prompted a response from Moscow, with Putin reportedly \"rushing to resume dialogue\" with Trump – a move interpreted by some as an attempt to \"derail the momentum toward greater pressure on Russia.\"\n\nIn subsequent developments during a tour of Scandinavia, including a visit to Oslo, President Zelenskyy publicly supported Trump's proposal to freeze the war at the current frontlines, acknowledging it as \"a good compromise,\" though he expressed skepticism regarding Putin's willingness to accept such an arrangement. During this tour, Ukraine also made substantial progress in bolstering its air force. On a Wednesday, Ukraine reached a deal that could see it purchase up to 150 Gripen fighter jets from Sweden. Swedish Prime Minister Ulf Kristersson confirmed that these jets, recognized for their adaptability to Ukrainian battlefield conditions due to their capability to operate from civilian roads, could be financed using frozen Russian assets and contributions from allied nations. Zelenskyy declared Gripens a \"priority\" for Ukraine's military, aiming for their deployment by next year.",
+  "figure": [
+    "Volodymyr Zelenskyy",
+    "Donald Trump",
+    "Vladimir Putin",
+    "Ulf Kristersson"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/EXAMPLE_US_UKRAINE_SUMMIT_NEWS_REPORT_1",
+    "https://www.youtube.com/embed/EXAMPLE_UKRAINE_GRIPEN_JETS_DEAL_REPORT_2"
+  ],
+  "location": [
+    {
+      "name": "White House",
+      "lat": 38.8977,
+      "lon": -77.0365
+    },
+    {
+      "name": "Washington D.C.",
+      "lat": 38.9072,
+      "lon": -77.0369
+    },
+    {
+      "name": "Budapest",
+      "lat": 47.4979,
+      "lon": 19.0402
+    },
+    {
+      "name": "Hungary",
+      "lat": 47.1625,
+      "lon": 19.5033
+    },
+    {
+      "name": "Moscow",
+      "lat": 55.7558,
+      "lon": 37.6173
+    },
+    {
+      "name": "Kyiv",
+      "lat": 50.4501,
+      "lon": 30.5234
+    },
+    {
+      "name": "Oslo",
+      "lat": 59.9139,
+      "lon": 10.7522
+    },
+    {
+      "name": "Norway",
+      "lat": 60.472,
+      "lon": 8.4689
+    },
+    {
+      "name": "Sweden",
+      "lat": 60.1282,
+      "lon": 18.6435
+    }
+  ]
+}

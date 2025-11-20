@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "thefilter/2024/dec/27/best-electric-blankets-heated-throws",
+    "fashion/2025/oct/17/top-stylists-products-they-use-and-ones-best-avoided",
+    "thefilter/2025/oct/22/best-thing-filter-writers-bought-2025",
+    "thefilter/2025/oct/21/best-dehumidifiers-tested-uk",
+    "thefilter-us/2025/oct/19/how-to-sleep-better-expert-tips",
+    "lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep",
+    "global/2025/oct/10/instant-coffee-just-beat-drip-we-were-stunned-too",
+    "lifeandstyle/2025/oct/15/intentional-living-productivity-routine",
+    "thefilter/2025/oct/17/best-leaf-blowers-garden-vacuums-uk",
+    "thefilter/2025/oct/14/how-to-make-bike-last-longer"
+  ],
+  "evaluation": "Initial inspection revealed that the articles primarily consist of disparate product reviews, buying guides, and lifestyle advice across various unrelated topics (e.g., electric blankets, hair products, dehumidifiers, coffee, leaf blowers, bike maintenance, intentional living). While a connection could be drawn between articles about 'how to sleep better' (thefilter-us/2025/oct/19/how-to-sleep-better-expert-tips) and 'sleep trackers' (lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep), this potential group only contained two articles. According to the strict criteria, a continuous and developmental story requires a minimum size of 3 articles. As no group met this size requirement, the entire cluster is deemed to be of inadequate size for continuous story validation. All articles are therefore classified as noise.",
+  "score": 0
+}

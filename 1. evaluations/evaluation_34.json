@@ -1,0 +1,19 @@
+{
+  "centroid": "placeholder_centroid_vector_for_cluster_34",
+  "articles": [
+    "world/commentisfree/2025/oct/20/labour-immigrants-a-level-english-work-citizenship",
+    "politics/2025/oct/20/tory-mp-criticised-after-demanding-legally-settled-families-be-deported",
+    "politics/live/2025/oct/22/grooming-gangs-inquiry-mahmood-starmer-caerphilly-pmqs-latest-news-updates"
+  ],
+  "noise": [
+    "politics/2025/oct/20/labour-should-return-to-its-social-democrat-principles",
+    "politics/2025/oct/14/vote-for-a-partys-policies-and-actions-not-its-name-or-history",
+    "commentisfree/2025/oct/22/zack-polanski-green-party-britain",
+    "politics/2025/oct/14/farage-not-marxism-risks-poisoning-our-kids",
+    "politics/2025/oct/17/your-party-constitution-leadership-contest-jeremy-corbyn-zarah-sultana",
+    "politics/2025/oct/21/lucy-powell-urged-ministers-to-rethink-legal-action-against-labour-donors-firm",
+    "commentisfree/2025/oct/23/budget-labour-rachel-reeves-bank-of-england-uk-economic-policy"
+  ],
+  "evaluation": "This cluster was evaluated for continuous stories related to UK immigration policy. The core narrative focuses on the increasing stringency of immigration demands and a Conservative MP's controversial call for deporting legally settled families. Article 'world/commentisfree/2025/oct/20/labour-immigrants-a-level-english-work-citizenship' provides the general context of escalating immigration requirements. Article 'politics/2025/oct/20/tory-mp-criticised-after-demanding-legally-settled-families-be-deported' introduces the specific controversy involving MP Katie Lam. Article 'politics/live/2025/oct/22/grooming-gangs-inquiry-mahmood-starmer-caerphilly-pmqs-latest-news-updates' provides a direct follow-up on Lam's statements, confirming they are 'broadly in line' with party policy, thus developing the story. These three articles form a clear, time-continuous, and synthesizable narrative. Other articles were de-noised as they covered disparate topics such as Labour party internal politics, general voting philosophy, the Green Party's rise, criticism of Nigel Farage, the formation of 'Your Party', and Labour's budget plans, none of which directly contribute to the developing story of immigration policy and the associated political controversy.",
+  "score": 9.5
+}

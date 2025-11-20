@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans",
+    "us-news/2025/sep/29/weekend-mass-shootings-this-year",
+    "us-news/2025/sep/29/first-thing-at-least-four-dead-and-eight-injured-after-shooting-at-mormon-church-in-michigan",
+    "us-news/2025/sep/30/mormon-church-shooting-hate-religion"
+  ],
+  "noise": [
+    "us-news/2025/oct/11/leland-mississippi-mass-shooting",
+    "us-news/2025/oct/20/mississippi-leland-mass-shooting",
+    "us-news/2025/oct/19/maryland-car-ramming-children-party",
+    "world/2025/oct/08/jamaican-authorities-curfews-shootings",
+    "us-news/2025/oct/10/tennessee-military-explosives-plant-explosion",
+    "us-news/2025/oct/11/no-survivors-tennessee-explosives-factory"
+  ],
+  "evaluation": "The primary continuous story identified centers around the mass shooting at a Mormon church in Grand Blanc Township, Michigan. Article 'us-news/2025/sep/28/mass-shootings-north-carolina-texas-new-orleans' provides the initial report of the incident, detailing the fatalities and injuries. This is reinforced by 'us-news/2025/sep/29/first-thing-at-least-four-dead-and-eight-injured-after-shooting-at-mormon-church-in-michigan', which reiterates the event's immediate aftermath. 'us-news/2025/sep/29/weekend-mass-shootings-this-year' expands on the event, contextualizing it within a broader weekend of mass shootings across the US. Finally, 'us-news/2025/sep/30/mormon-church-shooting-hate-religion' develops the narrative by exploring the suspected shooter's motive, linking his actions to a virulent hatred of the Mormon religion. This group forms a clear, time-continuous, and developmental story. \n\nSeveral articles were de-noised because they did not form a continuous story of adequate size (minimum 3 articles) or were entirely unrelated:\n- Articles 'us-news/2025/oct/11/leland-mississippi-mass-shooting' and 'us-news/2025/oct/20/mississippi-leland-mass-shooting' cover mass shootings in Leland, Mississippi, but only consist of two articles, failing the size requirement.\n- Articles 'us-news/2025/oct/10/tennessee-military-explosives-plant-explosion' and 'us-news/2025/oct/11/no-survivors-tennessee-explosives-factory' detail an explosion at a Tennessee plant, also falling short of the minimum size for a separate continuous story.\n- 'us-news/2025/oct/19/maryland-car-ramming-children-party' describes a car-ramming incident in Maryland, which is a singular event without further development in the cluster.\n- 'world/2025/oct/08/jamaican-authorities-curfews-shootings' covers shootings in Jamaica, making it irrelevant to the US-focused cluster and lacking development.",
+  "score": 9
+}

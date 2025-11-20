@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "world/2025/oct/03/madagascar-president-accuses-protesters-coup",
+    "world/2025/oct/14/elite-military-unit-says-it-has-seized-power-in-madagascar",
+    "world/2025/sep/29/madagascars-president-dissolves-government-amid-youth-led-protests",
+    "world/2025/oct/12/madagascar-president-says-power-grab-military-under-way",
+    "world/2025/oct/02/gen-z-madagascar-vows-protest-until-president-resigns",
+    "world/2025/oct/17/gen-z-victory-young-protesters-toppled-madagascar-leader",
+    "world/2025/oct/11/soldiers-from-elite-capsat-unit-join-protests-against-madagascars-president",
+    "world/2025/oct/15/madagascar-to-swear-in-military-leader-as-president-on-friday",
+    "world/2025/oct/13/madagascar-president-andry-rajoelina-flees-country-capsat"
+  ],
+  "noise": [
+    "news/2025/oct/22/a-victory-for-gen-z-inside-the-24-october-guardian-weekly"
+  ],
+  "evaluation": "This cluster details the progressive political crisis in Madagascar, starting with youth-led protests against water and power cuts (Sep 25), escalating to demands for President Rajoelina's resignation, his dissolution of the government (Sep 29), and subsequent accusations of a coup attempt. The narrative continues with the critical intervention of the elite Capsat military unit joining the protesters (Oct 11), Rajoelina's eventual flight (Oct 13), the military's seizure of power and impeachment of the president (Oct 14), and the subsequent announcement of a new military leader (Oct 15). The articles form a clear, time-continuous, and developmental story about a coup d'état. Article 'news/2025/oct/22/a-victory-for-gen-z-inside-the-24-october-guardian-weekly' was de-noised as it is a retrospective analytical piece from a weekly publication, summarizing events that have already transpired rather than reporting on ongoing developments. All remaining articles are highly relevant, informative, and logically sequenced, making them excellent candidates for synthesis.",
+  "score": 9.8
+}

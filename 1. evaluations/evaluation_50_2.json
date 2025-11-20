@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "us-news/2025/oct/03/california-governor-gavin-newsom-pfas-cookware-bill",
+    "us-news/2025/oct/14/california-pfas-ban-gavin-newsom",
+    "environment/2025/oct/17/gavin-newsoms-veto-on-bill-to-ban-pfas-hands-industry-a-win-advocates-fear"
+  ],
+  "noise": [
+    "us-news/2025/oct/02/california-university-funding-trump-compact",
+    "us-news/2025/oct/22/gavin-newsom-trump-food-benefits",
+    "us-news/2025/oct/16/california-prop-50-voting-maps",
+    "us-news/2025/oct/15/newsom-california-ab7-bill",
+    "us-news/2025/oct/09/california-ultra-processed-foods-gavien-newsom",
+    "us-news/2025/oct/18/california-highway-closure-military-celebration",
+    "us-news/2025/oct/20/university-of-arizona-rejects-trump-compact"
+  ],
+  "evaluation": "This cluster was evaluated for continuous and developmental stories primarily focusing on California Governor Gavin Newsom's activities. A clear, time-continuous, and developmental story emerged concerning the proposed ban of PFAS 'forever chemicals' in cookware. This narrative progresses logically from Newsom's deliberation under pressure (Oct 3), to his eventual veto of the bill (Oct 14), and the subsequent analysis of its potential national impact (Oct 17). This group meets the minimum size requirement of three articles and exhibits high relevance and chronological progression.\n\nAll other articles were de-noised as they either represent distinct, unrelated policy actions or political clashes involving Governor Newsom, or did not form a continuous story with at least three articles. For example, articles regarding Newsom's stance on Trump's university compact (Oct 2), his response to Trump's government shutdown (Oct 22), California's voting maps (Oct 16), his veto of a reparations bill (Oct 15), the ban of ultra-processed foods in schools (Oct 9), his criticism of a military showcase (Oct 18), and the University of Arizona's rejection of the Trump compact (Oct 20) are all singular events or part of smaller, non-developmental groups that did not meet the size criteria for continuous stories. They are informative but do not connect to form a larger, developing narrative within this cluster.",
+  "score": 10
+}

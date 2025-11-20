@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "artanddesign/2025/oct/18/renoir-drawings-exhibition-new-york",
+    "artanddesign/2025/oct/17/a-fashion-and-art-moment-how-mediums-mix-at-frieze-art-fair",
+    "artanddesign/2025/oct/23/marina-warner-exhibition-shelter-of-stories-ways-telling-ways-dwelling-compton-verney",
+    "artanddesign/2025/oct/15/claire-fontaine-show-less-mimosa-house-london-courbet-origine-du-monde",
+    "artanddesign/2025/oct/16/millionaires-frieze-art-fair-review-regents-park-london",
+    "artanddesign/2025/oct/23/turner-seascapes-and-damien-hurst-sharks-liverpool-anniversary-exhibition-hopes-to-surprise",
+    "artanddesign/2025/oct/15/dana-schutz-one-big-animal-review-thomas-dane-london",
+    "music/2025/oct/15/stephen-prina-musuem-of-modern-art-retrospective",
+    "artanddesign/2025/oct/17/a-city-boy-reading-of-the-sami-artist-maret-anne-saras-work",
+    "artanddesign/2025/oct/14/sagarika-sundaram-solo-show-london"
+  ],
+  "evaluation": "Initial inspection revealed that no group of articles within this cluster met the minimum size requirement of 3 for a continuous or developmental story. While articles 'artanddesign/2025/oct/17/a-fashion-and-art-moment-how-mediums-mix-at-frieze-art-fair' and 'artanddesign/2025/oct/16/millionaires-frieze-art-fair-review-regents-park-london' both discuss the Frieze Art Fair, their count is only 2, falling below the required threshold. All other articles ('renoir-drawings-exhibition-new-york', 'marina-warner-exhibition-shelter-of-stories-ways-telling-ways-dwelling-compton-verney', 'claire-fontaine-show-less-mimosa-house-london-courbet-origine-du-monde', 'turner-seascapes-and-damien-hurst-sharks-liverpool-anniversary-exhibition-hopes-to-surprise', 'dana-schutz-one-big-animal-review-thomas-dane-london', 'stephen-prina-musuem-of-modern-art-retrospective', 'a-city-boy-reading-of-the-sami-artist-maret-anne-saras-work', 'sagarika-sundaram-solo-show-london') describe distinct, unrelated art exhibitions, a music performance, or a letter to the editor, lacking any clear temporal or thematic progression with others in the cluster to form a continuous narrative of adequate size.",
+  "score": 0
+}

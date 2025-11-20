@@ -1,0 +1,40 @@
+{
+  "title": "Federal Raids in NYC's Chinatown Spark Protests, Official Outcry, and Citizen Detentions",
+  "topic": "Federal ICE raids in NYC's Chinatown ignite protests, official condemnation, and reveal US citizen detentions.",
+  "story": "Federal immigration raids conducted by U.S. Immigration and Customs Enforcement (ICE) in Manhattan's Chinatown this week have ignited widespread protests, drawn strong condemnation from local officials, and led to the detention of at least four U.S. citizens.\n\nOn Tuesday afternoon, dozens of masked and armed federal agents carried out what the Department of Homeland Security described as a 'targeted, intelligence-driven enforcement operation' near Canal Street in Lower Manhattan. Eyewitness accounts and video footage captured chaotic scenes, showing agents detaining individuals and military-style vehicles present in the area. The operation was reportedly related to 'selling counterfeit goods.'\n\nHours later, on Tuesday evening, hundreds of demonstrators assembled near the 26 Federal Plaza Immigration Building, where they believed detainees were taken. Protesters chanted slogans such as 'ICE out of New York' and 'No ICE, no KKK, no fascist USA.' Videos from the raid circulated, depicting agents zip-tying and detaining a man, and shoving away onlookers.\n\nOutrage from local and state officials followed, and protests continued through Wednesday evening. A day after the raids, New York Attorney General Letitia James launched a 'Federal Action Reporting Portal,' urging New York residents to share photos and videos of federal immigration enforcement actions across the state. James stated, 'Every New Yorker has the right to live without fear or intimidation.' Furthermore, a U.S. congressman revealed in a Wednesday press conference that at least four U.S. citizens were among those arrested during Tuesday's raid and were held for 'nearly 24 hours.'",
+  "figure": [
+    "Letitia James",
+    "US congressman"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/examplevideoid1",
+    "https://www.youtube.com/embed/examplevideoid2"
+  ],
+  "location": [
+    {
+      "name": "New York City",
+      "lat": 40.7128,
+      "lon": -74.006
+    },
+    {
+      "name": "Chinatown, Manhattan",
+      "lat": 40.7157,
+      "lon": -73.9984
+    },
+    {
+      "name": "26 Federal Plaza Immigration Building",
+      "lat": 40.7148,
+      "lon": -74.0039
+    },
+    {
+      "name": "Canal Street",
+      "lat": 40.7196,
+      "lon": -74.0038
+    },
+    {
+      "name": "Lower Manhattan",
+      "lat": 40.71,
+      "lon": -74.015
+    }
+  ]
+}

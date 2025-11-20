@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "world/2025/oct/18/ukraine-war-briefing-zelenskyy-realistic-about-chances-of-tomahawk-missile-deal",
+    "world/2025/oct/17/ukraine-war-briefing-putin-back-in-trumps-ear-as-soon-as-tomahawks-came-up-says-zelenskyy",
+    "world/2025/oct/17/trump-putin-phone-call-sinks-kyiv-ukraine-hopes-for-us-tomahawk-missiles",
+    "world/2025/oct/16/zelenskyy-tomahawk-missiles-trump-putin-budapest",
+    "world/live/2025/oct/22/russia-ukraine-war-kyiv-attack-latest-news-updates-europe",
+    "world/live/2025/oct/17/viktor-orban-vladimir-putin-volodymyr-zelenskyy-donald-trump-europe-latest-news-updates-russia-ukraine-war",
+    "world/2025/oct/23/ukraine-war-briefing-ukrainians-may-get-gripen-fighter-jets-bought-with-russian-money",
+    "world/2025/oct/21/ukraine-war-briefing-zelenskyy-paints-trump-meeting-as-positive-with-patriot-missile-deal-in-works",
+    "world/2025/oct/17/what-are-tomahawk-missiles-and-why-does-ukraine-want-them"
+  ],
+  "noise": [
+    "us-news/live/2025/oct/22/donald-trump-ice-immigration-shutdown-courts-nato-us-politics-live-news-updates"
+  ],
+  "evaluation": "This cluster provides a continuous and developmental story centered on Ukraine's quest for military aid and the complex diplomatic landscape involving Donald Trump, Volodymyr Zelenskyy, and Vladimir Putin in late October 2025. The narrative begins with the anticipation of the Trump-Zelenskyy meeting, focusing on the potential supply of Tomahawk missiles, Trump's simultaneous discussions with Putin, and his broader peace proposals. It progresses through the meeting's outcomes, the failure to secure Tomahawks, the subsequent agreement for Patriot air defense systems, and then shifts to the emerging prospect of acquiring Swedish Gripen fighter jets. The articles sequentially cover negotiations, key statements, and the evolving strategies for Ukraine's defense.\n\nArticle 'us-news/live/2025/oct/22/donald-trump-ice-immigration-shutdown-courts-nato-us-politics-live-news-updates' was de-noised. While it mentions US sanctions on Russia, its primary content functions as a general US political live summary, significantly diverting into unrelated domestic US issues such as White House funding and immigration. This generalist approach and inclusion of irrelevant topics dilute its direct relevance to the specific, continuous narrative of military aid negotiations and high-level diplomatic meetings that the other articles coherently establish.",
+  "score": 9.5
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": "Centroid vector not provided in the prompt.",
+  "articles": [
+    "global/2025/oct/08/people-in-the-uk-tell-us-how-much-money-you-have-managed-to-save",
+    "money/2025/sep/27/seven-ways-to-start-or-build-up-your-savings",
+    "money/2025/sep/27/how-switching-your-current-account-can-help-to-boost-your-savings",
+    "inequality/2025/oct/08/lifetime-of-earnings-not-enough-for-uk-workers-to-join-wealthiest-10-report-says",
+    "money/2025/oct/21/millions-people-households-england-wales-stuck-in-red-citizens-advice"
+  ],
+  "noise": [
+    "money/2025/oct/03/tell-us-how-have-price-rises-affected-your-spending-habits",
+    "money/2025/oct/08/junior-isas-rules-compare-accounts-save",
+    "business/2025/oct/01/buy-now-pay-later-uk-finance",
+    "money/2025/oct/14/people-in-the-uk-have-you-been-shocked-at-food-prices-in-the-supermarket",
+    "music/2025/oct/14/tell-us-have-ticket-prices-affected-your-love-of-live-music"
+  ],
+  "evaluation": "This cluster effectively forms a continuous story around the challenges and realities of personal savings and financial health in the UK amidst the cost of living crisis. It starts with the overall struggle of UK households to save (Article 1), emphasizes the importance and methods of saving (Articles 4 & 5), broadens to systemic issues of wealth inequality (Article 9), and concludes with the severe consequences of negative budgets for millions (Article 10). The de-noised articles (2, 7, 8) were removed as they are 'callout' pieces soliciting reader input, lacking core informative content for a news story. Article 3 (Junior ISAs) was removed as it focuses on a specific savings product rather than the general struggle or solutions for the wider population. Article 6 (Buy Now, Pay Later/digital payments) was removed as it discusses payment trends rather than directly addressing personal savings capacity or the cost of living's impact on household budgets.",
+  "score": 9
+}

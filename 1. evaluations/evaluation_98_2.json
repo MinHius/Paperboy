@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "priceless-experiences-with-mastercard/2025/oct/15/a-week-in-gastronomic-heaven-from-mussels-to-cult-dining-spot",
+    "food/2025/sep/27/britain-butter-food-cooking-retail-social-media",
+    "culture/2025/oct/04/time-travelling-east-storehouse-joy-unexpected-readers",
+    "lifeandstyle/2025/sep/27/halloween-advent-calendars-hit-shelves-retail",
+    "food/2025/oct/05/kudu-london-w1-grace-dent-restaurant-review",
+    "lifeandstyle/2025/oct/10/ty-bouncers-and-food-toys-tipped-to-be-must-have-christmas-presents-hamleys",
+    "food/2025/oct/11/restaurants-adapt-to-customers-drinking-alcohol-less-good-for-staff",
+    "food/2025/oct/12/punk-royale-london-w1-grace-dent-restaurant-review",
+    "food/2025/sep/23/feast-everyday-hero-weekly-recipes-rachel-roddy",
+    "food/2025/oct/07/enjoying-international-cuisines-makes-people-more-tolerant-uk-study-finds"
+  ],
+  "evaluation": "The cluster contains a diverse range of articles, none of which form a continuous or developmental story. Topics include specific restaurant reviews (Kudu, Punk Royale), general food trends (flavoured butters, reduced alcohol consumption in dining, international cuisine's link to tolerance, a personal recipe piece), retail/holiday trends (Halloween Advent calendars, Christmas toys), a cultural exhibition opening (V&A East Storehouse), and a unique dining experience. While some articles share broad categories like 'food' or 'retail', they discuss distinct subjects without any progression, updates, or direct interrelation that would constitute a continuous narrative. For example, the two restaurant reviews are for different establishments and do not develop a single story. Consequently, no group of articles meets the minimum size requirement of three for a 'continuous, developmental' story, rendering all articles as noise for this purpose.",
+  "score": 0
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "commentisfree/2025/sep/26/tiktok-deal-china-us-super-rich",
+    "technology/2025/sep/24/tiktok-ownership-chinese-american-australia-may-choose-between-china-usa-trump-billionaire-backers",
+    "us-news/2025/sep/21/trump-rupert-lachlan-murdoch-tiktok",
+    "us-news/2025/sep/24/tiktok-trump-murdoch-ellison",
+    "technology/2025/sep/22/us-tiktok-deal-explained",
+    "technology/2025/sep/26/iktok-abu-dhabi-royal-family-stake-trump-deal-mgx",
+    "technology/2025/sep/25/trump-china-tiktok-deal"
+  ],
+  "noise": [
+    "technology/2025/sep/22/trump-visa-fees-techscape-newsletter",
+    "us-news/2025/oct/15/eric-trump-crypto-china-bitmain",
+    "us-news/2025/oct/16/trump-ivf-announcement"
+  ],
+  "evaluation": "This cluster effectively captures the continuous and developmental story of the proposed TikTok sale/deal in the US. The main topic revolves around the Trump administration's efforts to divest TikTok's US operations from Chinese ownership to American and international investors. The articles provide a clear chronological progression, starting with initial reports of potential US buyers (Murdochs, Ellison), followed by the confirmation of a deal and the signing of an Executive Order, detailing the involvement of Oracle, the licensing of algorithms, and conversations with Chinese President Xi Jinping. The narrative further develops with details on board seat distribution, the overall US control percentage, and the inclusion of an Abu Dhabi royal family fund (MGX) as a key investor. The articles are highly informative, provide significant coverage from various angles (political, financial, technological), and present a logical timeline for synthesis. Noisy articles were removed for being entirely unrelated to the TikTok deal; one focused on tech visa fees, another on Eric Trump's crypto dealings, and a third on IVF policy.",
+  "score": 9
+}

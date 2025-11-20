@@ -1,0 +1,18 @@
+{
+  "centroid": [],
+  "articles": [],
+  "noise": [
+    "news/2025/oct/07/corrections-and-clarifications",
+    "news/2025/oct/08/corrections-and-clarifications",
+    "news/2025/oct/03/corrections-and-clarifications",
+    "news/2025/oct/21/corrections-and-clarifications",
+    "news/2025/oct/02/corrections-and-clarifications",
+    "news/2025/sep/30/corrections-and-clarifications",
+    "news/2025/oct/09/corrections-and-clarifications",
+    "news/2025/oct/20/corrections-and-clarifications",
+    "news/2025/oct/01/corrections-and-clarifications",
+    "news/2025/oct/14/corrections-and-clarifications"
+  ],
+  "evaluation": "The main topic of these articles is 'Corrections and Clarifications'. While all articles belong to this category and are factual, they do not form a continuous, developmental story. Each article contains a collection of disparate corrections for various past articles on unrelated topics (e.g., obituaries, exhibitions, university rankings). There is no single narrative or event that progresses or develops across these articles. As such, they lack the essential qualities of a synthesizable, informative, and time-continuous news story with significant coverage, making them noise for the purpose of identifying developmental story clusters.",
+  "score": 0
+}

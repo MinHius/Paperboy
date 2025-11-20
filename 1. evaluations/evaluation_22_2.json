@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [
+    "us-news/2025/oct/02/trump-administration-caribbean-drug-cartels",
+    "us-news/2025/oct/15/trump-venezuela-cia-maduro",
+    "commentisfree/2025/oct/16/the-guardian-view-on-the-us-and-venezuela-trumps-war-on-drugs-ramps-up-military-threats-to-maduro",
+    "us-news/2025/oct/14/trump-six-killed-us-strike-boat-venezuela",
+    "us-news/2025/oct/19/trump-colombia-gustavo-petro",
+    "us-news/2025/oct/05/trump-drug-boat-strike-venezuela",
+    "us-news/2025/oct/20/trump-briefing-news-at-a-glance-latest",
+    "us-news/2025/oct/03/hegseth-venezuela-deadly-boat-strike",
+    "world/2025/oct/09/gustavo-petro-colombia-boats-us-military",
+    "us-news/2025/oct/22/us-night-stalkers-caribbean-fears-regime-change-venezuela-nicolas-maduro"
+  ],
+  "noise": [],
+  "evaluation": "This cluster presents a strong, continuous, and developmental narrative focused on the Trump administration's escalating 'war on drugs' in the Caribbean throughout October 2025. The story begins with initial US military strikes on alleged Venezuelan drug boats and the administration's novel legal justification of a 'non-international armed conflict.' It progresses to include the authorization of CIA covert operations, direct threats of strikes on Venezuelan territory, and the increasing involvement of Colombia, with accusations against its president and threats of economic sanctions. The timeline is logical, showing a clear escalation of military and political pressure. All articles are highly informative, provide significant coverage of the events, and contribute directly to the central theme, including an opinion piece that confirms facts and an article detailing a secretive military unit that adds crucial context to the nature of the operations. No articles were de-noised as all were found to be strictly relevant and synthesizable.",
+  "score": 9
+}

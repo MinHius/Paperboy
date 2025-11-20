@@ -1,0 +1,67 @@
+{
+  "title": "Nottingham Forest's Swift Leadership Change: Postecoglou Out, Dyche In",
+  "topic": "Nottingham Forest sacks Ange Postecoglou after 40 days, appoints Sean Dyche as new head coach.",
+  "story": "Nottingham Forest has experienced a rapid managerial overhaul, with Ange Postecoglou sacked after just 40 days and eight games in charge. His tenure was immediately followed by the appointment of former Everton boss Sean Dyche as the club's new head coach.\n\nPostecoglou, who began his role around September 9, was under intense pressure after a seven-game winless streak leading up to a crucial Saturday fixture against Chelsea. Owner Evangelos Marinakis, who flew in from Greece with hopes of witnessing progress, attended the match at the City Ground. However, his expectations were unmet as Forest suffered a 3-0 home defeat to Chelsea, with goals from Pedro Neto, Josh Acheampong, and Reece James. Marinakis reportedly departed his seat in the directors' box early in the second half, with Forest already trailing 2-0.\n\nThe final whistle, met with a resounding chorus of boos from fans, signaled Postecoglou's immediate dismissal. He was relieved of his duties by a senior club official, with the news confirmed via social media just 18 minutes after the defeat. The decision came after Forest had already been discreetly assessing potential successors, a process initiated following a humiliating Europa League defeat at home to Midtjylland prior to the international break.\n\nIn the search for a new leader, Marinakis initially explored a reunion with Marco Silva, with whom he had worked at Olympiakos, but Silva's reluctance to leave Fulham mid-season and a substantial £13 million release clause made the move impractical. Former Manchester City head coach Roberto Mancini was also considered. Ultimately, Nottingham Forest centered its attention on Sean Dyche, who had been available since his sacking by Everton in January after a two-year spell. Dyche, now unveiled as the club's third head coach of the season, shared nostalgic anecdotes of his time as a trainee at the City Ground, referencing legendary manager Brian Clough and even his labrador, Del Boy.",
+  "figure": [
+    "Ange Postecoglou",
+    "Evangelos Marinakis",
+    "Sean Dyche",
+    "Roberto Mancini",
+    "Marco Silva",
+    "Pedro Neto",
+    "Josh Acheampong",
+    "Reece James",
+    "Brian Clough"
+  ],
+  "video": [
+    "",
+    ""
+  ],
+  "location": [
+    {
+      "name": "Nottingham",
+      "lat": 52.9548,
+      "lon": -1.1581
+    },
+    {
+      "name": "City Ground",
+      "lat": 52.9468,
+      "lon": -1.1326
+    },
+    {
+      "name": "Herning, Denmark (Midtjylland's location)",
+      "lat": 56.130366,
+      "lon": 8.984444
+    },
+    {
+      "name": "London",
+      "lat": 51.5074,
+      "lon": 0.1278
+    },
+    {
+      "name": "Greece",
+      "lat": 39.0742,
+      "lon": 21.8279
+    },
+    {
+      "name": "Piraeus, Greece (Olympiakos's location)",
+      "lat": 37.9427,
+      "lon": 23.6496
+    },
+    {
+      "name": "Liverpool",
+      "lat": 53.4084,
+      "lon": -2.9916
+    },
+    {
+      "name": "Quarndon",
+      "lat": 52.9691,
+      "lon": -1.5029
+    },
+    {
+      "name": "River Trent",
+      "lat": 52.9468,
+      "lon": -1.1326
+    }
+  ]
+}

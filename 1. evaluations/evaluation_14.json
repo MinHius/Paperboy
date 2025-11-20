@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "technology/2025/oct/18/ai-chatbots-are-hurting-children-australian-education-minister-warns-as-anti-bullying-plan-announced",
+    "technology/2025/oct/18/parents-will-be-able-to-block-meta-bots-from-talking-to-their-children-under-new-safeguards",
+    "technology/2025/oct/15/pupils-fear-ai-eroding-study-ability-research",
+    "technology/2025/oct/20/author-michael-connelly-lincoln-lawyer-ai",
+    "commentisfree/2025/oct/21/kids-wrote-song-using-ai-artificial-intelligence-missed-fun-part-opinion",
+    "technology/2025/oct/18/san-francisco-ai-alpha-school-tech"
+  ],
+  "noise": [
+    "technology/2025/oct/18/are-we-living-in-a-golden-age-of-stupidity-technology",
+    "technology/2025/oct/22/im-suddenly-so-angry-my-strange-unnerving-week-with-an-ai-friend",
+    "technology/2025/oct/14/instagram-parental-guidance-pg-13-age-rating-system-meta",
+    "society/2025/oct/16/gruesome-videos-social-media-distressing-news-children-survey"
+  ],
+  "evaluation": "The core topic of this cluster is the multifaceted impact of Artificial Intelligence on children and teenagers, spanning concerns about safety, educational implications, and developmental effects. The qualified articles demonstrate a clear narrative about AI chatbots causing harm (bullying, encouraging self-harm), tech companies like Meta responding with safeguards, pupils' fears about AI eroding study skills and creativity, and the integration of AI into educational models through 'AI-powered' schools. The noise articles were de-noised for several reasons: 'are-we-living-in-a-golden-age-of-stupidity-technology' is too general, discussing broader technological advancements rather than AI's specific impact on youth. 'im-suddenly-so-angry-my-strange-unnerving-week-with-an-ai-friend' focuses on an adult's personal interaction with an AI companion, which is outside the scope of AI's impact on children. 'instagram-parental-guidance-pg-13-age-rating-system-meta' discusses general content filtering on Instagram for teens, not specifically related to AI chatbots or AI's direct influence. Finally, 'gruesome-videos-social-media-distressing-news-children-survey' addresses the issue of distressing content on social media in general, without a specific focus on AI's role.",
+  "score": 9
+}

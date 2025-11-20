@@ -1,0 +1,26 @@
+{
+  "title": "Millions Rally Nationwide in 'No Kings' Protests Against Trump Administration",
+  "topic": "Millions nationwide protest Trump administration's perceived authoritarianism, planning continued resistance.",
+  "story": "Millions of Americans across all 50 states participated in widespread 'No Kings' protests on Saturday, the second major demonstration organized by the coalition after a similar mass event in June. The rallies, held in over 2,700 locations, from small towns to large cities, aimed to send a clear message: 'Donald Trump is not a king,' pushing back against what organizers view as increasing authoritarianism and challenging legal and constitutional norms.\n\nDemonstrators, many anticipating a larger turnout than the June event, voiced concerns that the country is sliding into authoritarianism. The protests unfolded amidst the Trump administration's promise to crack down on dissent, with troops sent into US cities and allies claiming the decentralized antifa movement was behind the plans. Despite this, people gathered nationwide with signs, marching bands, a huge banner of the US Constitution's preamble, and inflatable costumes, notably frogs, which have become a symbol of resistance originating from Portland, Oregon.\n\nWhile the main protest march in downtown Portland remained peaceful, a smaller gathering outside an Immigration and Customs Enforcement (ICE) facility in the city's south waterfront neighborhood was met with force by federal officers, who reportedly used gas canisters against protesters. Suzette Smith of the Portland Mercury reported on this incident, while Malcom Gregory Scott was noted as a local organizer.\n\nFollowing the estimated 7 million people who took to the streets across the recent protest days, organizers are already strategizing next steps. The 'No Kings' alliance is building a nationwide rapid response network to coordinate weekly actions. Leaders have expressed energy for 'some type of disruption,' with future plans potentially including targeted boycotts, campaigns at universities, further street protests, and electoral organizing in local communities. Protesters are discussing continued civil resistance, economic boycotts, and strikes.",
+  "figure": [
+    "Donald Trump",
+    "Malcom Gregory Scott",
+    "Suzette Smith"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/VIDEO_ID_EXAMPLE_1",
+    "https://www.youtube.com/embed/VIDEO_ID_EXAMPLE_2"
+  ],
+  "location": [
+    {
+      "name": "United States",
+      "lat": 37.0902,
+      "lon": -95.7129
+    },
+    {
+      "name": "Portland, Oregon",
+      "lat": 45.5051,
+      "lon": -122.675
+    }
+  ]
+}

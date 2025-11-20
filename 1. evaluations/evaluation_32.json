@@ -1,0 +1,18 @@
+{
+  "centroid": [],
+  "articles": [
+    "lifeandstyle/2025/oct/17/sister-in-law-wont-let-anyone-hold-her-baby",
+    "commentisfree/2025/oct/17/millennial-dads-mums-children-parents-family-work",
+    "commentisfree/2025/oct/17/when-my-daughter-eats-it-is-with-joyful-abandon-her-behaviour-is-helping-me-unlearn-toxic-standards-for-women",
+    "commentisfree/2025/oct/22/its-great-to-see-pregnant-women-in-the-public-eye-but-must-they-all-be-so-gorgeous"
+  ],
+  "noise": [
+    "commentisfree/2025/oct/20/menopause-market-change-culture-women-bodies",
+    "media/2025/oct/17/digested-week-conker-unboxing-craze-leaves-me-baffled",
+    "commentisfree/2025/oct/18/tv-shows-yellowjackets-stranger-things-series",
+    "wellness/2025/oct/16/how-elder-care-can-rupture-sibling-relationships-i-didnt-have-much-choice",
+    "commentisfree/2025/oct/16/mum-died-this-year-apples-from-tree-new-kind-of-grief"
+  ],
+  "evaluation": "This cluster was evaluated for continuous stories focusing on 'Modern Parenthood and Family Dynamics'. Articles on parental anxiety ('sister-in-law won't let anyone hold her baby'), evolving gender roles in parenting ('millennial dads want to share the parenting load'), and the pressures of body image on mothers ('daughter helping unlearn toxic standards', 'pregnant women in public eye') were identified as relevant and synthesizable. These pieces collectively explore various facets of contemporary family life and the challenges faced by parents today, offering distinct but interconnected perspectives. Articles on menopause, TikTok trends, TV show analysis, elder care, and personal grief were de-noised due to irrelevance to this central theme, as they do not contribute to a continuous or developmental narrative on modern parenthood.",
+  "score": 7.5
+}

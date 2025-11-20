@@ -1,0 +1,19 @@
+{
+  "centroid": "",
+  "articles": [
+    "world/2025/oct/16/china-spy-row-what-do-the-witness-statements-say-and-what-is-their-significance",
+    "politics/2025/oct/16/no-10-moves-to-end-china-spy-row-but-threat-of-further-fallout-lingers",
+    "world/2025/oct/16/head-of-cps-faces-cross-party-pressure-to-explain-china-spy-trial-collapse",
+    "politics/live/2025/oct/16/china-spy-case-cps-keir-starmer-uk-politics-latest-news-updates",
+    "politics/2025/oct/16/china-spying-case-dream-job-turns-into-nightmare-for-dpp-stephen-parkinson",
+    "politics/live/2025/oct/15/keir-starmer-kemi-badenoch-pmqs-china-epping-rachel-reeves-imf-uk-politics-live-news-updates",
+    "law/2025/oct/16/prosecutions-director-must-explain-why-china-spy-case-was-dropped-says-minister"
+  ],
+  "noise": [
+    "commentisfree/2025/oct/15/the-guardian-view-on-the-china-spy-trial-an-opportunity-for-labour-to-prove-it-understands-the-threat-from-beijing",
+    "politics/2025/oct/20/china-spy-case-gives-mps-the-opportunity-to-discuss-their-favourite-topic-themselves",
+    "commentisfree/2025/oct/16/the-guardian-view-on-uk-national-security-a-case-of-state-failure"
+  ],
+  "evaluation": "This cluster details the continuous story of the collapse of the China spy trial in the UK. The core narrative revolves around the government's refusal to designate China as a 'threat to national security,' which prosecutors cited as the reason for dropping charges against two British men. The qualified articles chronologically cover the anticipation of witness statement publication (Oct 15), the subsequent release of these statements, the political fallout, cross-party pressure on the Director of Public Prosecutions (DPP) Stephen Parkinson, MI5's frustration, and the launch of parliamentary inquiries (all predominantly on Oct 16). Articles were de-noised if they were opinion pieces or analytical commentaries focusing on broader political theatrics or general foreign policy, rather than reporting on the direct, factual, and developmental events of the trial's collapse and its immediate consequences.",
+  "score": 9
+}

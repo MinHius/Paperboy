@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "tv-and-radio/2025/oct/18/nobody-wants-this-kristen-bell-adam-brody-netflix",
+    "tv-and-radio/2025/oct/23/nobody-wants-this-review-kristen-bell-adam-brody-netflix",
+    "tv-and-radio/2025/oct/17/nobody-wants-this-to-harlan-cobens-lazarus-the-seven-best-shows-to-stream-this-week"
+  ],
+  "noise": [
+    "tv-and-radio/2025/oct/17/a-house-of-dynamite-to-the-twits-the-seven-best-films-to-watch-on-tv-this-week",
+    "tv-and-radio/2025/oct/16/the-iris-affair-review-sky-atlantic-now",
+    "stage/2025/oct/21/the-unbelievers-review-nicola-walker-family-tragedy-nick-payne",
+    "stage/2025/oct/15/ragdoll-review-patty-hearst-inspires-an-audacious-account-of-power-and-privilege",
+    "tv-and-radio/2025/oct/17/leonard-and-hungry-paul-review-this-julia-roberts-narrated-comedy-is-the-perfect-antidote-to-modern-life",
+    "film/2025/oct/20/100-nights-of-hero-review-emma-corrin-london-film-festival-julia-jackman-maika-monroe-charli-xcx",
+    "tv-and-radio/2025/oct/15/murdaugh-death-in-the-family-review-disney-patricia-arquette-true-crime-drama"
+  ],
+  "evaluation": "The core cluster focuses on the second season of the Netflix series 'Nobody Wants This'. Articles dated October 17th and 18th act as 'pick of the week' or preview pieces, anticipating the show's release on October 23rd. The article from October 23rd then provides a comprehensive review of the series upon its launch. This forms a clear, time-continuous, and developmental story arc around the release and critical reception of a specific TV show season. All other articles discuss unrelated films, TV shows, or stage plays, making them irrelevant noise to this specific narrative thread.",
+  "score": 9
+}

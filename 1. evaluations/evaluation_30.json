@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "us-news/2025/oct/17/no-kings-protests-millions-trump",
+    "us-news/2025/oct/17/no-kings-protests-trump-dissent",
+    "us-news/2025/oct/18/no-kings-protests-events-states",
+    "us-news/live/2025/oct/18/anti-trump-no-kings-protests-updates",
+    "us-news/2025/oct/19/trump-briefing-news-at-a-glance-latest",
+    "us-news/2025/oct/20/no-kings-protests-trump-democrats",
+    "us-news/2025/oct/22/no-kings-protest-trump-what-next"
+  ],
+  "noise": [
+    "film/2025/oct/20/robert-de-niro-have-to-fight-donald-trump-bully-no-kings",
+    "us-news/2025/oct/18/no-kings-protests-labor-unions",
+    "culture/2025/oct/15/trump-artist-protest-fall-of-freedom"
+  ],
+  "evaluation": "This cluster effectively tracks the 'No Kings' protests against the Trump administration in October 2025. The core articles create a strong, continuous narrative, beginning with the anticipation and lead-up to the protests (Oct 17), followed by comprehensive reporting on the event itself across multiple states and a specific incident in Portland (Oct 18-19), and concluding with the immediate aftermath, strategizing, and future plans of the protest organizers (Oct 20-22). The articles about Robert De Niro's support and a specific protester's historical background, while thematically related, were deemed noise as they do not directly contribute to the developmental storyline of the protest events or the movement's actions. The article concerning the 'Fall of Freedom' protests was removed as it details a separate, distinct series of events scheduled for a later date.",
+  "score": 9
+}

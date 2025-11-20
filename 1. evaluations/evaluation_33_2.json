@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "football/2025/oct/06/uefa-approval-domestic-games-to-be-played-abroad",
+    "football/2025/oct/07/ueaf-domestic-games-abroad-decision-la-liga-barcelona-villarreal",
+    "commentisfree/2025/oct/10/the-guardian-view-on-ac-milan-playing-a-home-game-in-perth-the-clue-should-be-in-the-name",
+    "football/2025/oct/11/fifa-seeks-advice-over-banning-league-games-staged-overseas-amid-regulations-redraft"
+  ],
+  "noise": [
+    "football/2025/sep/24/fifa-is-a-not-for-profit-organisation-the-money-it-makes-is-reinvested-in-football",
+    "sport/2025/oct/14/rfl-close-to-selling-stake-super-league-private-equity-rugby-league",
+    "football/2025/oct/09/gianni-infantino-moving-world-cup-club-world-cup",
+    "football/2025/oct/12/uefa-plans-to-relex-multi-club-ownership-declaration-rules-crystal-palace-lyon-europa-conference-league",
+    "football/2025/oct/14/breathtaking-san-siro-faces-end-as-inter-and-milan-try-to-keep-up-with-modern-game",
+    "football/2025/oct/08/clubs-target-groundbreaking-tv-rights-deal-for-european-football-competitions"
+  ],
+  "evaluation": "This cluster effectively captures a continuous and developmental story concerning the controversial decision to stage domestic European football league games abroad. It begins with Uefa's initial approval for La Liga and Serie A matches in Miami and Perth (Oct 6), followed by Uefa's subsequent statement of opposition while making 'exceptional' allowances (Oct 7), critical commentary from the media (Oct 10), and culminates with Fifa's move to redraft regulations and potentially ban such practices entirely (Oct 11). The articles present a clear, logical, and chronological progression of events and reactions. Noise articles, such as those about Fifa's non-profit status, rugby league investment, multi-club ownership rules, stadium development, TV rights deals, or general World Cup scheduling, were deemed irrelevant as they did not directly contribute to the narrative of domestic league games played overseas.",
+  "score": 10
+}

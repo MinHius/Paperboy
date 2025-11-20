@@ -1,0 +1,19 @@
+{
+  "centroid": "Cluster 44",
+  "articles": [
+    "culture/2025/sep/23/stephen-colbert-jimmy-kimmel-return-trump",
+    "tv-and-radio/2025/sep/23/jimmy-kimmel-return-reaction",
+    "culture/2025/sep/25/jimmy-kimmel-trump-abc-un",
+    "culture/2025/sep/24/jimmy-kimmell-return-late-night-reaction",
+    "tv-and-radio/2025/sep/24/jimmy-kimmel-says-trump-tried-his-best-to-cancel-him-as-his-show-returns-to-air-after-suspension",
+    "tv-and-radio/2025/sep/22/john-oliver-jimmy-kimmel-charlie-kirk-trump",
+    "tv-and-radio/2025/sep/22/jimmy-kimmel-show-return-charlie-kirk-suspension-disney"
+  ],
+  "noise": [
+    "culture/2025/oct/08/jimmy-kimmel-trump-government-shutdown-ghislaine-maxwell",
+    "culture/2025/oct/15/jimmy-kimmel-trump-time-magazine-cover",
+    "culture/2025/oct/09/jimmy-kimmel-trump-national-guard-deployment"
+  ],
+  "evaluation": "This cluster effectively tracks the continuous story of Jimmy Kimmel's suspension and subsequent return to late-night television. The core narrative spans from the initial outcry and support from fellow hosts like John Oliver (Sept 22) and Stephen Colbert (Sept 23), through Disney's announcement of his return (Sept 22), Kimmel's own emotional return monologue (Sept 24), and the public's reaction to his record-breaking viewership (Sept 25). The articles highlight the political pressure from the Trump administration following comments on Charlie Kirk's death, and the ensuing free speech debate. Articles discussing unrelated topics from October (government shutdown, Trump's Time cover, National Guard deployment) were de-noised as they represent later, distinct broadcasts from Kimmel's show and do not contribute to the developmental story of his suspension and return.",
+  "score": 9
+}

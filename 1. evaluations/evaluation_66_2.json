@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "technology/2025/sep/25/cybercriminals-steal-pictures-and-details-of-8000-children-from-nursery-chain",
+    "technology/2025/sep/26/kido-nursery-hackers-radiant-threaten-publish-children-profiles",
+    "technology/2025/oct/02/kido-nursery-hackers-say-they-have-deleted-stolen-data",
+    "uk-news/2025/oct/07/man-teenage-boy-arrested-kido-nurseries-cyber-attack-london"
+  ],
+  "noise": [
+    "business/2025/oct/08/qantas-among-nearly-40-companies-facing-ransom-demand-from-hacker-group",
+    "business/2025/oct/11/hackers-leak-qantas-data-containing-5-million-customer-records-after-ransom-deadline-passes",
+    "technology/2025/oct/14/cyber-attacks-rise-in-past-year-uk-security-agency-says",
+    "technology/2025/oct/05/uk-secondary-schools-suffered-cyber-attack-or-breach-in-past-year",
+    "business/2025/oct/15/capita-fined-for-data-protection-failings-in-2023-cyber-attack",
+    "technology/2025/oct/21/significant-exposure-amazon-web-services-outage-exposed-uk-states-17bn-reliance-on-tech-giant"
+  ],
+  "evaluation": "The primary continuous story identified centers around the Kido nursery cyber-attack. This narrative begins with the initial data theft and ransom demand, progresses to the hackers' threat of further publication, their subsequent decision to delete the data after backlash, and concludes with the arrests made in connection with the attack. This sequence demonstrates clear time-continuity, development, and strict relevance. \n\nSeveral articles were de-noised for various reasons: \n1. Articles concerning Qantas (Oct 8, Oct 11) form a distinct, but short, continuous story (size 2), which does not meet the minimum size requirement of 3 for a qualified group. \n2. Articles about general cyber-attack trends in the UK (Oct 14, Oct 5) are too broad and lack specific connection to a single unfolding event. \n3. The article on Capita being fined (Oct 15) relates to a specific 2023 cyber-attack and subsequent legal action, making it a separate, non-continuous incident within the given timeline. \n4. The article regarding the Amazon Web Services outage (Oct 21) describes a service disruption rather than a malicious cyber-attack/data theft, distinguishing it from the core theme of the other articles.",
+  "score": 9
+}

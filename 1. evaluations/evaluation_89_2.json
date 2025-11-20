@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "commentisfree/2025/sep/22/jeremy-corbyn-zarah-sultana-your-party-left",
+    "commentisfree/2025/sep/21/historic-opportunity-british-left-thrown-away-your-party-row",
+    "commentisfree/2025/sep/22/your-party-is-a-mess-heres-what-they-could-learn-from-farage-and-polanski",
+    "politics/2025/sep/23/your-party-is-offering-a-gift-to-the-hard-right",
+    "commentisfree/2025/sep/25/jeremy-corbyn-zarah-sultana-britain-your-party"
+  ],
+  "noise": [
+    "commentisfree/2025/oct/03/the-guardian-view-on-conservative-party-conference-kemi-badenochs-last-shot-at-relevance",
+    "commentisfree/2025/oct/06/the-guardian-view-on-the-tory-conference-historys-revenge-on-conservatism",
+    "commentisfree/2025/oct/06/enjoying-implosion-tories-understandable-but-completely-wrong",
+    "commentisfree/2025/oct/07/tory-party-britain-kemi-badenoch-one-nation",
+    "commentisfree/2025/sep/29/labour-starmer-reeves-conference-farage-reform"
+  ],
+  "evaluation": "This cluster contained two distinct, coherent, and developmental narratives within British politics. To adhere to the requirement of returning a single, synthesizable group, the primary story chosen focuses on the emergence and early struggles of the new leftwing party, 'Your Party,' founded by Jeremy Corbyn and Zarah Sultana. This narrative covers its announcement, the immediate public interest, and subsequent criticisms regarding internal disorganization and missed opportunities, forming a clear time-continuous story from September 21-25, 2025. Articles pertaining to the Conservative Party's decline and conference (October 2025) and the Labour Party conference (September 2025) were de-noised as they form separate, albeit internally consistent, political stories that do not directly develop the chosen narrative.",
+  "score": 9
+}

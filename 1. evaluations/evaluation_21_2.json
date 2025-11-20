@@ -1,0 +1,30 @@
+{
+  "centroid": [
+    0.1,
+    0.2,
+    -0.3,
+    0.4,
+    -0.1,
+    0.5,
+    0.2,
+    -0.2,
+    0.3,
+    -0.4
+  ],
+  "articles": [
+    "environment/2025/sep/22/fossil-fuels-coal-gas-oil-extraction-climate-goals-beyond-reach",
+    "environment/2025/sep/24/worlds-oceans-fail-key-health-check-as-acidity-crosses-critical-threshold-for-marine-life",
+    "commentisfree/2025/sep/24/the-guardian-view-on-the-climate-crisis-green-energy-is-booming-but-fossil-fuels-need-to-shrink-too",
+    "environment/2025/oct/06/carbon-offsets-fail-cut-global-heating-intractable-systemic-problems-study",
+    "environment/2025/oct/13/coral-reefs-ice-sheets-amazon-rainforest-tipping-point-global-heating-scientists-report",
+    "environment/2025/oct/15/record-leap-in-co2-fuels-fears-of-accelerating-global-heating"
+  ],
+  "noise": [
+    "world/2025/oct/08/new-zealand-oceans-warming-34-per-cent-faster-than-global-average",
+    "australia-news/2025/sep/26/china-first-emissions-reduction-target-announced-global-impact",
+    "world/2025/oct/16/extreme-wildfires-increase-carbon-emissions-climate-change",
+    "environment/2025/oct/16/australian-tropical-rainforest-trees-switch-carbon-sink-emissions-source"
+  ],
+  "evaluation": "This cluster effectively captures a developing story about the escalating global climate crisis, highlighting both the continued increase in fossil fuel extraction by governments (Article 1) and the dire scientific assessments of the planet's health. The Potsdam Institute's report on oceans failing a health check and breaching planetary boundaries (Article 7, reinforced by opinion piece Article 2) sets a critical tone. This is further developed by the systemic failure of carbon offsets (Article 9), the Earth reaching catastrophic tipping points (Article 3), and a record leap in atmospheric CO2 levels (Article 5). These articles collectively illustrate a continuous narrative of environmental deterioration and the ineffectiveness of current climate strategies.\n\nArticles identified as noise (4, 6, 8, 10) were de-noised because, while related to climate change, they represent specific regional impacts or isolated policy announcements rather than contributing to the core, unfolding narrative of the global climate crisis's worsening state and policy failures. Article 4 details New Zealand's ocean warming, Article 8 discusses extreme wildfires, and Article 10 reports on Australian rainforests becoming carbon sources; these are distinct impact examples. Article 6, detailing China's emissions target, is a specific policy action that doesn't directly feed into the narrative of the crisis's overall deterioration or the general failure of existing mechanisms.",
+  "score": 9
+}

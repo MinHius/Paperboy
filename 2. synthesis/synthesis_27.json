@@ -1,0 +1,35 @@
+{
+  "title": "UK Spy Trial Collapse: China Threat Designation at Heart of Political Storm",
+  "topic": "Political fallout over failed China spy trial, government's stance on China, and subsequent inquiry.",
+  "story": "A major political storm has engulfed the UK following the collapse of a high-profile spy trial involving two British men accused of espionage for China. The core of the controversy revolves around the government's alleged reluctance to formally designate China as a national security threat, which prosecutors cited as a critical factor in the case's downfall.\n\nThe chain of events began on a Wednesday evening when, after an announcement by Keir Starmer, Downing Street released three witness statements from Matthew Collins, the UK’s deputy national security adviser. These statements, which spanned 18 months and two different governments, were identified as central to the decision to withdraw charges against Christopher Cash, a former parliamentary researcher, and Christopher Berry, a teacher. Both Cash and Berry have consistently denied any wrongdoing.\n\nFor two weeks prior to the statement's release, the government had faced intense criticism from the Conservative opposition, who accused it of \"secretly sabotaging\" the trial and \"hiding behind process\" to avoid publicly labeling China as an adversary. Following the publication, Keir Starmer expressed that his frustration regarding the case began to dissipate.\n\nIn the wake of these revelations, the Director of Public Prosecutions (DPP), Stephen Parkinson, faced mounting cross-party pressure to provide a comprehensive explanation for the trial's collapse. MI5's Director General, Ken McCallum, also expressed his frustration at the failure to bring the Britons to trial, an apparent rebuke to the prosecution's decision. Parkinson clarified that charges were dropped because prosecutors had been unable to secure a government statement affirming China posed a current \"threat to the national security of the UK.\" However, this explanation has been met with skepticism from senior lawyers and politicians alike.\n\nTo address the deepening row, Members of Parliament have initiated a formal inquiry into the circumstances surrounding the trial's collapse. Labour MP Matt Western, who chairs the joint committee on the national security strategy, officially announced the inquiry in the House of Commons, emphasizing that \"a lot of questions yet to be asked\" remain. While No 10's publication of key evidence aimed to settle the dispute, it has instead amplified calls for greater transparency and accountability.",
+  "figure": [
+    "Matthew Collins",
+    "Christopher Cash",
+    "Christopher Berry",
+    "Keir Starmer",
+    "Stephen Parkinson",
+    "Ken McCallum",
+    "Matt Western"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/uk_spy_trial_update_1",
+    "https://www.youtube.com/embed/parliament_inquiry_china_spy_case"
+  ],
+  "location": [
+    {
+      "name": "UK",
+      "lat": 55.3781,
+      "lon": -3.436
+    },
+    {
+      "name": "Downing Street",
+      "lat": 51.5035,
+      "lon": -0.1277
+    },
+    {
+      "name": "House of Commons",
+      "lat": 51.4999,
+      "lon": -0.1246
+    }
+  ]
+}

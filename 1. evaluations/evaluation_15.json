@@ -1,0 +1,19 @@
+{
+  "centroid": [],
+  "articles": [
+    "world/2025/oct/14/french-pm-sebastien-lecornu-suspends-macron-pension-plan-before-no-confidence-vote",
+    "world/live/2025/oct/14/france-lecornu-macron-ukraine-russia-zelenskyy-europe-latest-news-updates",
+    "commentisfree/2025/oct/14/france-consitutional-crisis-prime-minister-president",
+    "world/2025/oct/15/frances-parliamentary-quagmire-is-the-dawning-of-a-new-political-reality",
+    "world/2025/oct/16/french-socialist-party-to-fight-for-wealth-tax-as-it-seeks-to-capitalise-on-crisis",
+    "world/2025/oct/16/french-prime-minister-sebastien-lecornu-survives-two-no-confidence-votes",
+    "world/live/2025/oct/16/france-no-confidence-debate-lecornu-macron-europe-live-news-updates",
+    "world/2025/oct/17/broken-promises-and-political-crises-how-emmanuel-macron-fell-from-french-favour"
+  ],
+  "noise": [
+    "world/2025/oct/19/france-former-president-nicolas-sarkozy-prison",
+    "world/2025/oct/21/nicolas-sarkozy-enters-prison-paris-france"
+  ],
+  "evaluation": "This cluster documents the French political crisis in October 2025, specifically focusing on Prime Minister Sébastien Lecornu's efforts to stabilize his government. The narrative begins with Lecornu's decision to suspend the unpopular pension reform to gain Socialist support, followed by analyses of the parliamentary situation, the actual no-confidence votes where the government narrowly survived, and subsequent broader evaluations of President Macron's political standing. The timeline is logical and shows clear developmental progression. Articles regarding former President Nicolas Sarkozy's imprisonment were de-noised as they cover a separate legal event unrelated to the ongoing governmental crisis.",
+  "score": 9
+}

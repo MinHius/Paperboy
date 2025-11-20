@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "uk-news/2025/oct/21/mps-move-to-lodge-parliamentary-motion-to-strip-prince-andrew-of-dukedom",
+    "uk-news/2025/oct/19/mps-urged-to-confront-royal-family-over-prince-andrews-epstein-links",
+    "uk-news/2025/oct/18/why-prince-andrew-is-giving-up-his-titles-now-and-what-it-means-for-the-royal-family",
+    "uk-news/2025/oct/17/prince-andrew-duke-of-york-removal-of-titles-king-charles-prince-william-monarchy",
+    "commentisfree/2025/oct/20/what-do-we-learn-epstein-andrew-theres-level-power-at-which-right-wrong-no-longer-exist",
+    "uk-news/2025/oct/19/met-prince-andrew-police-bodyguard-information-virginia-giuffre",
+    "commentisfree/2025/oct/20/the-guardian-view-on-the-price-of-a-prince-what-virginia-giuffres-story-says-about-palace-accountability",
+    "uk-news/2025/oct/12/prince-andrew-told-jeffrey-epstein-were-in-this-together-in-2011-email",
+    "uk-news/2025/oct/17/prince-andrews-fall-from-grace-complete-as-monarchy-cuts-him-loose"
+  ],
+  "noise": [
+    "uk-news/2022/jan/13/prince-andrew-a-timeline"
+  ],
+  "evaluation": "This cluster effectively captures a continuous and developmental story concerning Prince Andrew and the ongoing controversy surrounding his royal titles and past associations with Jeffrey Epstein and Virginia Giuffre. The narrative unfolds chronologically within October 2025, starting with the revelation of a critical 2011 email (Oct 12), leading to the King's consideration and subsequent action on titles (Oct 17-18), followed by parliamentary and police actions (Oct 19-21), and relevant opinion pieces (Oct 20). Article 'uk-news/2022/jan/13/prince-andrew-a-timeline' was de-noised as it provides a historical overview from January 2022, serving as background but not contributing to the immediate, unfolding developmental story of October 2025.",
+  "score": 9.5
+}

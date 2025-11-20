@@ -1,0 +1,19 @@
+{
+  "centroid": "Cluster 72",
+  "articles": [
+    "uk-news/2025/sep/25/fate-of-hundreds-arrested-for-alleged-palestine-action-support-in-limbo-if-challenge-to-ban-is-blocked-court-told",
+    "uk-news/2025/oct/01/palestine-action-protest-london-could-set-record-number-arrests-say-organisers",
+    "uk-news/2025/oct/02/police-ask-for-palestine-action-protest-to-be-postponed-to-free-up-officers-in-wake-of-terror-attack",
+    "uk-news/2025/oct/03/cancelling-palestine-action-protest-would-let-terror-win-say-activists",
+    "world/2025/oct/04/palestine-action-protest-police-arrests-london-demo",
+    "uk-news/2025/oct/05/police-to-get-new-powers-to-crack-down-on-repeated-protests-says-home-office",
+    "world/2025/oct/09/anti-protest-proposals-put-free-speech-at-risk"
+  ],
+  "noise": [
+    "australia-news/2025/oct/09/pro-palestine-march-sydney-opera-house-blocked-court-what-protesters-will-do-instead",
+    "world/2025/oct/07/pro-palestine-activists-planned-sydney-opera-house-protest-ask-court-genocide-ruling-ntwnfb",
+    "uk-news/2025/sep/21/palestine-action-ban-is-a-gift-for-nigel-farage"
+  ],
+  "evaluation": "This cluster presents a strong, time-continuous story focused on Palestine Action protests in the UK, the government's response, and subsequent legislative changes. The narrative begins with the legal implications of the group's ban and the anticipation of protests (Articles 8, 10), moves through the build-up, political pressure, and the actual execution of a major protest leading to arrests (Articles 3, 7, 5). It culminates with the government's announcement of new powers to restrict protests, directly influenced by these events, and the public/civil liberties critique of these powers (Articles 2, 1). This forms a clear, developmental, and informative sequence. \n\nDe-noising was applied to:\n- 'australia-news/2025/oct/09/pro-palestine-march-sydney-opera-house-blocked-court-what-protesters-will-do-instead' and 'world/2025/oct/07/pro-palestine-activists-planned-sydney-opera-house-protest-ask-court-genocide-ruling-ntwnfb': These articles discuss pro-Palestine protests and court challenges, but are geographically distinct, focusing on Sydney, Australia, making them irrelevant to the UK-centric story.\n- 'uk-news/2025/sep/21/palestine-action-ban-is-a-gift-for-nigel-farage': This article is primarily an opinion piece/letter to the editor, including unrelated economic commentary, and does not contribute factual developments to the continuous news story.",
+  "score": 9
+}

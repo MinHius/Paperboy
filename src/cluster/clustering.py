@@ -1,6 +1,6 @@
 from typing import TypedDict
 import numpy as np
-import umap
+from umap import UMAP
 from numpy.typing import NDArray
 from sklearn.cluster import HDBSCAN  # type:ignore
 from sklearn.metrics.pairwise import cosine_similarity
@@ -22,7 +22,7 @@ def reduce_dimensions(
     embeddings: NDArray[np.float32], seeding: bool
 ) -> NDArray[np.float32]:
     """Reduce embedding dimensions using UMAP."""
-    reducer = umap.UMAP(
+    reducer = UMAP(
         n_neighbors=UMAP_N_NEIGHBORS,
         n_components=UMAP_N_COMPONENTS,
         n_jobs=-1,

@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "us-news/2025/sep/29/trump-meeting-democrats-republicans-shutdown-tensions",
+    "us-news/2025/sep/30/us-government-shutdown-congress-trump-republicans",
+    "us-news/2025/oct/01/trump-administration-news-updates-today-latest",
+    "us-news/2025/oct/01/us-government-shuts-down",
+    "us-news/2025/oct/01/first-thing-us-government-shuts-down-after-democrats-refuse-to-back-republican-funding-plan",
+    "us-news/2025/oct/02/trump-administration-news-updates-today",
+    "world/2025/oct/02/first-edition-government-shutdown",
+    "us-news/2025/oct/06/us-shutdown-government-funding",
+    "us-news/2025/oct/15/senate-vote-failure-government-shutdown"
+  ],
+  "noise": [
+    "us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live"
+  ],
+  "evaluation": "This cluster provides a highly coherent and time-continuous narrative surrounding the US government shutdown of October 2025. The articles clearly detail the lead-up, the day of the shutdown, and its progression through the first few weeks. Key developments include the failed negotiations between Trump, Democrats, and Republicans (primarily over healthcare concessions), the official shutdown, Trump's subsequent retaliatory actions (freezing funds for Democratic states), the impact on federal workers, and the continued legislative deadlock. Article 'us-news/live/2025/sep/29/donald-trump-benjamin-netanyahu-gaza-white-house-us-politics-live' was de-noised as it primarily focuses on a Gaza peace plan and national guard deployments, with the government shutdown only a minor mention in a broader political summary, thus lacking direct developmental relevance to the core shutdown story.",
+  "score": 9
+}

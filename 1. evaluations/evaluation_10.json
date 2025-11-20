@@ -1,0 +1,18 @@
+{
+  "centroid": null,
+  "articles": [],
+  "noise": [
+    "travel/2025/oct/21/llyn-peninsula-wales-seafood-trail-walking-path",
+    "environment/2025/oct/15/country-diary-eyes-to-the-skies-for-autumns-mass-migration",
+    "environment/2025/oct/18/country-diary-racing-peregrines-among-the-rusting-mills",
+    "environment/2025/oct/23/country-diary-theres-something-cooking-in-the-woods",
+    "travel/2025/oct/18/australia-great-walks-nsw-queensland-tasmania",
+    "environment/2025/oct/20/country-diary-the-salty-symphony-of-waders-in-autumn",
+    "travel/2025/oct/17/readers-favourite-trips-as-older-travellers-europe-japan-nepal",
+    "true-north--adventure-awaits/2025/oct/22/red-cliffs-big-tides-ancient-art-the-kimberley-up-close",
+    "travel/2025/oct/23/train-tour-europe-cool-northern-capitals-london-vilnius-berlin-warsaw-amsterdam",
+    "environment/2025/oct/14/country-diary-an-easy-going-bunch-doing-hard-work-on-the-moor"
+  ],
+  "evaluation": "Initial inspection revealed two primary themes: travel/exploratory articles and 'Country Diary' nature observations. However, none of the articles within these themes, nor across them, demonstrate continuity or developmental potential. The travel articles are standalone pieces about different destinations or travel concepts. The 'Country Diary' entries are individual observations of nature at various locations and times, not forming a progressive narrative. As no group of articles was found to be continuous or developmental with a size of 3 or more, all articles are classified as noise.",
+  "score": 0
+}

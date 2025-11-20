@@ -1,0 +1,19 @@
+{
+  "centroid": "The provided centroid vector of the group",
+  "articles": [
+    "us-news/ng-interactive/2025/sep/28/supreme-court-louisiana-v-callais",
+    "us-news/2025/oct/09/supreme-court-voting-rights-act",
+    "us-news/2025/oct/15/us-supreme-court-voting-rights-act",
+    "us-news/2025/oct/15/voting-rights-act-supreme-court-case",
+    "us-news/2025/oct/15/voting-rights-us-supreme-court",
+    "commentisfree/2025/oct/16/supreme-court-voting-rights-act"
+  ],
+  "noise": [
+    "us-news/2025/sep/28/clarance-thomas-precedence-supreme-court-docket",
+    "us-news/2025/oct/07/conversion-therapy-ban-supreme-court-adf",
+    "news/2025/oct/02/georgia-supreme-court-gullah-geechee-land-ruling",
+    "law/2025/oct/09/could-a-landmark-court-decision-undermine-the-right-to-peacefully-protest-in-nsw"
+  ],
+  "evaluation": "This cluster effectively tracks the developing story of the US Supreme Court case 'Louisiana v Callais,' focusing on its potential impact on Section 2 of the Voting Rights Act. Articles cover the anticipation of the new court term and the case's significance (Sep 28), the upcoming hearing (Oct 9), the oral arguments, the court's apparent leanings, and public protests (Oct 15), and subsequent analysis/opinion (Oct 16). Articles related to other Supreme Court cases (conversion therapy), general statements by a justice, or rulings by state/international courts were deemed irrelevant and de-noised due to a lack of direct continuity with the 'Louisiana v Callais' narrative.",
+  "score": 9
+}

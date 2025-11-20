@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "technology/2025/sep/21/chatbot-site-depicting-child-sexual-abuse-images-raises-fears-over-misuse-of-ai",
+    "us-news/2025/oct/04/openai-sora-violence-racism",
+    "technology/2025/oct/18/ai-chatbots-are-hurting-children-australian-education-minister-warns-as-anti-bullying-plan-announced"
+  ],
+  "noise": [
+    "commentisfree/2025/oct/09/artificial-intelligence-research-election-threats",
+    "film/2025/sep/23/subtitlers-replaced-by-ai-sdh",
+    "technology/2025/sep/24/preparing-students-for-a-world-shaped-by-artificial-intelligence",
+    "technology/ng-interactive/2025/oct/02/ai-children-parenting-creativity",
+    "technology/2025/sep/26/deepfakes-ai-slop-now-part-of-news-cycle-south-park-v-trump",
+    "technology/2025/oct/11/using-a-swearword-in-your-google-search-can-stop-the-ai-answer-but-should-you",
+    "technology/2025/sep/22/ai-carries-risks-but-will-help-tackle-global-heating-says-uns-climate-chief"
+  ],
+  "evaluation": "This cluster contains a strong, time-continuous and developmental story detailing the escalating dangers and misuse of Artificial Intelligence, specifically focusing on its deployment to create and spread harmful content. The main topic revolves around AI safety, the challenges of preventing its malicious use, and the societal impact, particularly on children. The identified articles track a clear progression from chatbot sites generating child sexual abuse material (CSAM) to AI models producing violent and racist videos, culminating in reports of AI chatbots actively bullying children and encouraging self-harm. Articles covering broader, disparate topics of AI impact—such as elections, job displacement, education, general parenting concerns, deepfakes in media, climate change applications, or general public resistance to AI features—were de-noised as they did not form a direct, developmental narrative with the core theme of harmful AI content generation and its immediate consequences.",
+  "score": 9.5
+}

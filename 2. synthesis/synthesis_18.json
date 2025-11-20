@@ -1,0 +1,38 @@
+{
+  "title": "Daylight Louvre Heist: Priceless Jewels Stolen, Sparks National Security Review",
+  "topic": "A daring daylight heist at the Louvre museum in Paris saw priceless jewels stolen, sparking security concerns.",
+  "story": "In a brazen daylight robbery, four thieves executed a highly professional raid on Sunday morning at the Louvre Museum in Paris, making off with eight pieces of 'priceless' historic jewellery, including a necklace gifted by Napoleon to his wife. The stolen items, which also included a crown worn by Empress Eugénie, wife of Napoleon III – later found broken near the museum – are estimated to be worth approximately €88 million (£76 million).\n\nThe heist, described as France's most dramatic in decades, occurred around 9:30 am, just half an hour after visitors began entering the world's most-visited museum. The balaclava-wearing gang used a furniture hoist positioned on a road along the Seine River on the museum's south side, gaining access to a balcony, cutting through a window, and then targeting two glass cases in the ornate Apollon gallery, where the French crown jewels are held. The entire operation lasted a mere seven minutes before the thieves vanished into Paris traffic, reportedly on scooters.\n\nThe incident immediately led to the closure of the Louvre for two days, reopening on Wednesday amidst long queues of curious visitors. The robbery ignited a fierce debate over museum security across France, putting the government under significant pressure.\n\nJustice Minister Gérald Darmanin publicly stated, 'What is certain is that we have failed.' Following the heist, Interior Minister Laurent Nuñez ordered prefects across France to immediately reassess and enhance security measures at all museums and cultural sites. Paris prosecutor Laure Beccau confirmed the curator's initial loss estimate of €88 million.\n\nOn Wednesday, Louvre President and Director Laurence des Cars faced questions from the senate's culture committee, acknowledging a 'terrible failure' and admitting that security camera coverage of the vast building's outside walls was 'highly insufficient.' Senator Jacques Grosperrin of the right-wing Les Républicains party remarked, 'The whole world is shocked and we really don’t need this in France right now.'\n\nWhile some speculate the crime was for international notoriety, art crime experts suggest it aligns with a decade-long pattern of 'smash-and-grab' thefts focused on material value rather than historical significance. The audacious break-in has even turned the heist location into a macabre new tourist attraction, with tour boats on the Seine pointing out 'the window thieves smashed to steal France’s crown jewels.'",
+  "figure": [
+    "Gérald Darmanin",
+    "Laurent Nuñez",
+    "Laure Beccau",
+    "Laurence des Cars",
+    "Jacques Grosperrin"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/fictional_louvre_heist_report_1",
+    "https://www.youtube.com/embed/fictional_louvre_security_analysis_2"
+  ],
+  "location": [
+    {
+      "name": "Louvre Museum",
+      "lat": 48.8606,
+      "lon": 2.3376
+    },
+    {
+      "name": "Paris",
+      "lat": 48.8566,
+      "lon": 2.3522
+    },
+    {
+      "name": "Seine River",
+      "lat": 48.8602,
+      "lon": 2.3381
+    },
+    {
+      "name": "France",
+      "lat": 46.2276,
+      "lon": 2.2137
+    }
+  ]
+}

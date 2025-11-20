@@ -1,0 +1,19 @@
+{
+  "centroid": "Provided_Centroid_Vector",
+  "articles": [
+    "business/nils-pratley-on-finance/2025/oct/22/barclays-afford-tricolor-loss-risks-remain-private-credit-market",
+    "business/2025/oct/21/bank-of-england-chief-warns-worrying-echoes-2008-financial-crisis-tricolor-first-brands",
+    "business/2025/oct/16/head-of-imf-says-risks-in-non-bank-lending-keep-her-awake-at-night",
+    "business/2025/oct/17/us-car-repossessions-economy",
+    "business/2025/oct/14/jp-morgan-jamie-dimon-losses-private-credit-sector",
+    "business/2025/oct/18/what-is-private-credit-us-first-brands-tricolor-banks",
+    "business/2025/oct/14/us-shares-correction-markets-imf-bonds"
+  ],
+  "noise": [
+    "business/2025/oct/17/global-stock-markets-fall-and-gold-hits-record-high-amid-jitters-over-us-banks",
+    "business/live/2025/oct/16/uk-gdp-economy-growth-august-reeves-budget-imf-business-live-news",
+    "business/2025/oct/16/us-regional-bank-stocks-fall"
+  ],
+  "evaluation": "This cluster effectively tracks the developing story around the collapses of Tricolor and First Brands, highlighting their impact on traditional banks like JP Morgan and Barclays, and the broader concerns raised by major financial institutions (IMF, Bank of England) and figures (Jamie Dimon) about the unregulated private credit ('shadow banking') sector. The narrative develops from initial losses and warnings to an explainer, culminating in official calls for vigilance. Articles discussing general market jitters or unrelated specific regional bank issues (Zions Bancorp, Western Alliance) were de-noised as they did not directly develop the specific Tricolor/First Brands continuous story, despite thematic overlap in some cases. The live blog was removed due to mixed, irrelevant content alongside a single relevant point already covered by other dedicated articles.",
+  "score": 9
+}

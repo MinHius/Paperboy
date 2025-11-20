@@ -1,0 +1,18 @@
+{
+  "centroid": "",
+  "articles": [],
+  "noise": [
+    "music/2025/oct/03/agriculture-the-spiritual-sound-review",
+    "music/2025/oct/10/hannah-frances-nested-in-tangles-review",
+    "music/2025/oct/16/hugh-cutting-refound-album-review-an-idiosyncratic-and-profoundly-satisfying-collection",
+    "music/2025/oct/09/blawan-sick-elixir-review-xl-recordings",
+    "music/2025/oct/17/little-simz-live-review-co-op-manchester-arena",
+    "music/2025/oct/17/tame-impala-deadbeat-review-columbia",
+    "music/2025/oct/03/add-to-playlist-the-jackhammer-noise-and-clubby-alt-rock-of-ashnymph-and-the-weeks-best-new-tracks",
+    "music/2025/sep/26/geese-getting-killed-review",
+    "music/2025/oct/09/the-hermes-experiment-tree-album-review",
+    "music/2025/oct/03/ethel-cain-review-o2-apollo-manchester"
+  ],
+  "evaluation": "This cluster consists entirely of distinct music reviews and features (album reviews, live concert reviews, new track spotlight) from various artists, published between late September and mid-October 2025. There is no common event, subject, or developing narrative across these articles to form a continuous or developmental story. Each article is a standalone piece of music journalism. As no groups of articles could be identified as continuous or developmental, the size of any such potential group is 0, which is below the minimum required size of 3. Therefore, the cluster is deemed 'Inadequate size' for forming continuous stories, and all articles are considered noise in the context of continuous story validation.",
+  "score": 0
+}

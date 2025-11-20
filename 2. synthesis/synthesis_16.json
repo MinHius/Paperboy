@@ -1,0 +1,47 @@
+{
+  "title": "National Headlines: Pentagon Overhauls Press Corps, Visa Revocations Spark Free Speech Debate Amid Kirk Memorial Push",
+  "topic": "Pentagon restricts press, revokes visas over Kirk assassination comments, sparking free speech debate.",
+  "story": "The United States is currently navigating significant shifts in press freedom and the government's stance on controversial public speech. This week, the Pentagon implemented new, restrictive policies for its press corps, leading to the departure of many veteran journalists. Simultaneously, the Trump administration has drawn criticism for revoking the visas of foreign nationals following social media comments regarding the assassination of far-right commentator Charlie Kirk, intensifying the national debate over free speech rights.\n\nAt the Pentagon, a Wednesday deadline saw numerous experienced reporters return their press badges, refusing to comply with new policies that press advocates deemed incompatible with journalistic standards. These new rules, which mandate pledges against obtaining unauthorized material and limit access to certain areas, were widely rejected by major news organizations including The New York Times, CNN, and Fox News. In a swift response, Defense Department spokesperson Sean Parnell announced a 'next generation of the Pentagon press corps,' comprising 60 journalists from largely far-right outlets such as Lindell TV and the Gateway Pundit, who have agreed to the new terms. This move, overseen by Defense Secretary Pete Hegseth, effectively concludes decades of robust in-house coverage by traditional media.\n\nConcurrently, the Trump administration's State Department confirmed the revocation of visas for at least six foreign nationals. These individuals were identified for posting social media comments celebrating the assassination of Charlie Kirk, who was killed at a college event in Utah on September 10. The State Department stated on X, 'The United States has no obligation to host foreigners who wish death on Americans,' and indicated ongoing efforts to identify more such individuals. However, civil liberties advocates have voiced strong warnings that these visa cancellations represent a dangerous government crackdown on protected speech. Adding to this controversy, Republican and conservative leaders in states including Florida, Michigan, and Oklahoma are actively campaigning for the rapid construction of memorials honoring Kirk, with some threatening penalties for colleges that decline to publicly commemorate the activist, whose views many consider racist and sexist.",
+  "figure": [
+    "Donald Trump",
+    "Charlie Kirk",
+    "Pete Hegseth",
+    "Sean Parnell"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/examplevideo1",
+    "https://www.youtube.com/embed/examplevideo2"
+  ],
+  "location": [
+    {
+      "name": "United States",
+      "lat": 37.0902,
+      "lon": -95.7129
+    },
+    {
+      "name": "Utah",
+      "lat": 39.4192,
+      "lon": -111.9566
+    },
+    {
+      "name": "Florida",
+      "lat": 27.6648,
+      "lon": -81.5158
+    },
+    {
+      "name": "Michigan",
+      "lat": 44.3148,
+      "lon": -85.6024
+    },
+    {
+      "name": "Oklahoma",
+      "lat": 35.0077,
+      "lon": -97.0929
+    },
+    {
+      "name": "The Pentagon",
+      "lat": 38.8719,
+      "lon": -77.056
+    }
+  ]
+}

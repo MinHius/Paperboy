@@ -1,0 +1,31 @@
+{
+  "title": "London's Housing Emergency: Controversial Plans Spark Fierce Debate",
+  "topic": "London's severe housing crisis prompts controversial plans to boost construction, sparking debate.",
+  "story": "London's housing market is grappling with an urgent crisis, marked by a dramatic collapse in new home construction. A recent analysis by Molior consultancy painted a grim picture, revealing only 40,000 homes currently under construction across the capital – a mere two-thirds of the normal rate. In the first quarter of the year, builders initiated work on just 3,248 private sector units. This dire situation has been described by City Hall and Whitehall officials as a 'perfect storm of economic conditions' and an 'emergency' demanding immediate action.\n\nIn response to this escalating crisis, Housing Secretary Steve Reed and London Mayor Sadiq Khan are finalizing a controversial package of measures. Expected to be announced within weeks, these plans are designed as a time-limited intervention to stimulate building. Key proposals include allowing developers to construct a lower proportion of affordable homes, reducing the minimum requirement from the current 35% to 20%, while simultaneously offering higher government subsidies. Additionally, builders committing to this 20% affordable housing target would qualify for fast-track planning approval.\n\nWhile developers have largely welcomed these proposed changes as crucial for revitalizing stalled projects, the plans have ignited significant opposition. Homelessness charities have vehemently condemned the proposals, warning that a reduction in affordable housing quotas will exacerbate the already record-high numbers of people experiencing homelessness across the UK. Labour MPs, including Florence Eshalomi, are actively urging ministers and the Mayor to abandon these contentious plans before their formal announcement, expressing deep concern over the potential long-term impact on affordable housing availability in the capital.",
+  "figure": [
+    "Steve Reed",
+    "Sadiq Khan",
+    "Florence Eshalomi"
+  ],
+  "video": [
+    "https://www.youtube.com/embed/LondonHousingCrisisNews1",
+    "https://www.youtube.com/embed/UKAffordableHousingDebate"
+  ],
+  "location": [
+    {
+      "name": "London",
+      "lat": 51.5074,
+      "lon": -0.1278
+    },
+    {
+      "name": "City Hall, London",
+      "lat": 51.5076,
+      "lon": 0.027
+    },
+    {
+      "name": "Whitehall, London",
+      "lat": 51.5034,
+      "lon": -0.1245
+    }
+  ]
+}

@@ -60,7 +60,8 @@
       {% for item in results %}
         <li>
           <strong>{{ item.title }}</strong><br/>
-          {{ item.overview }}
+          {{ item.topic }}
+          <a href="/story/{{ item.title }}?query={{ query }}">Read this story →</a>
         </li>
       {% endfor %}
     </ul>

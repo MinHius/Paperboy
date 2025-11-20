@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "sport/live/2025/oct/03/england-v-south-africa-womens-cricket-world-cup-live",
+    "sport/live/2025/oct/07/england-v-bangladesh-womens-cricket-world-cup-live",
+    "sport/live/2025/oct/11/england-v-sri-lanka-womens-cricket-world-cup-live",
+    "sport/2025/oct/11/nat-sciver-brunt-shines-as-england-recover-to-sweep-aside-sri-lanka",
+    "sport/live/2025/oct/15/england-v-pakistan-womens-cricket-world-cup-live",
+    "sport/2025/oct/19/england-hold-nerve-to-beat-india-and-seal-womens-cricket-world-cup-semi-final-spot",
+    "sport/live/2025/oct/22/australia-v-england-womens-cricket-world-cup-live",
+    "sport/2025/oct/22/womens-world-cup-australia-england-match-report"
+  ],
+  "noise": [
+    "sport/live/2025/oct/16/womens-cricket-world-cup-australia-v-bangladesh-live",
+    "sport/live/2025/oct/12/womens-cricket-world-cup-australia-v-india-live-updates-scores-results-teams-squads-start-time-visakhapatnam"
+  ],
+  "evaluation": "The core story identified tracks England's performance and journey through the Women's Cricket World Cup 2025. It details their individual matches against South Africa, Bangladesh, Sri Lanka, Pakistan, and India (securing a semi-final spot), culminating in their match against Australia. Articles detailing live coverage and subsequent match reports for the same event (e.g., England vs Sri Lanka on Oct 11, Australia vs England on Oct 22) are considered continuous and developmental as they offer different angles and follow-ups on the same event within the tournament. Articles focusing on other teams' matches (Australia vs Bangladesh and Australia vs India) were de-noised as they do not directly contribute to the specific, continuous narrative of England's tournament progression and would dilute the focus for synthesis.",
+  "score": 10
+}

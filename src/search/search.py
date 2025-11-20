@@ -2,6 +2,7 @@ import sys
 sys.path.append("D:/DH/Senior/Paperboy") 
 
 import json
+import spacy
 import heapq
 import logging
 import psycopg2
@@ -11,14 +12,13 @@ import unicodedata
 from datetime import datetime, timedelta, timezone
 
 from underthesea import word_tokenize
-from src.api.BGEM3 import embed_bgem3
-from src.databases.database import get_connection
-from src.search.config_search import (
+from api.embedding.embedding import embed_bgem3
+from database.parade.database import get_connection
+from search.config import (
     QUERY_LEN_MAX, 
     QUERY_LEN_MIN, 
     TOP_K,
     TIME_W,
-    INDEX_NAME,
     MAX_BM25_WEIGHT,
     MIN_BM25_WEIGHT
 )
@@ -93,7 +93,7 @@ def is_raw_vietnamese(text: str) -> bool:
     return True
    
 
-def search_bm25(search_content: str) -> list:
+def search_bm25(search_content: str, top_k) -> list:
     """ Search for stories using lexical search."""
     
     sql = SEARCH_BM25
@@ -101,16 +101,15 @@ def search_bm25(search_content: str) -> list:
     print(f"Searching for {search_content} lexically...")
     with get_connection() as conn:
         with conn.cursor() as cur:
-            cur.execute(sql, (search_content, TOP_K))
+            cur.execute(sql, (search_content, search_content, top_k))
             columns = [desc[0] for desc in cur.description] if cur.description else []
             rows = cur.fetchall()
-
             results = [dict(zip(columns, row)) for row in rows]
     
     return results
 
 
-def search_bgem3(search_content):
+def search_bgem3(search_content, top_k):
     """Search for stories using semantic search."""
         
     embedding_bgem3 = embed_bgem3(search_content)
@@ -118,28 +117,33 @@ def search_bgem3(search_content):
 
     if data and len(data) > 0:
         embedded_search_content = data[0]
-    else:
-        embedded_search_content = [0.0] * 1024
 
-    # Two commands for 2 different cases
+
     sql = SEARCH_BGEM3
     
     print(f"Searching for {search_content} semantically...")
     with get_connection() as conn:
         with conn.cursor() as cur:
-            cur.execute(sql, (embedded_search_content, TOP_K))
-            results = cur.fetchall()
-    
+            cur.execute(sql, (embedded_search_content, top_k))
+            columns = [desc[0] for desc in cur.description]
+            rows = cur.fetchall()
+            results = [dict(zip(columns, row)) for row in rows]
+
+            
+    print(results[0])
+
+            
     return results
 
 
-def search_hybrid(search_content):
+def search_hybrid(search_content, query_tokens, top_k):
     """Search stories using hybrid search."""
     
     # Embed query for semantic search
     embedding_bgem3 = embed_bgem3(search_content)
     data = embedding_bgem3.get("data", None)
-    query_tokens = search_content.lower().split()
+
+    print(f"Embedded query content.")
     sparse_weight, dense_weight = compute_weights(query_tokens)
     
     sql = SEARCH_HYBRID
@@ -147,27 +151,33 @@ def search_hybrid(search_content):
     print(f"Searching for {search_content} semantically and lexically...")
     with get_connection() as conn:
         with conn.cursor() as cur:
-            cur.execute(sql, (search_content, 2 * TOP_K, data[0], data[0], 2 * TOP_K, 1 - TIME_W, dense_weight, sparse_weight, TIME_W, TOP_K))
-            results = cur.fetchall()
+            cur.execute(sql, (search_content, 2 * top_k, data[0], data[0], 2 * top_k, 1 - TIME_W, dense_weight, sparse_weight, TIME_W, top_k))
+            columns = [desc[0] for desc in cur.description] if cur.description else []
+            rows = cur.fetchall()
+            results = [dict(zip(columns, row)) for row in rows]
     
     return results
 
 
 
-def director_PDB(search_content):
+def director_PDB(search_content, top_k = TOP_K):
     """Search orchestrator."""
 
     # Tokenize to check for query length.
-    tokenized_query = word_tokenize(search_content, format="text").lower().split()
-    print("Searching for stories related to: %s", search_content)
+    search_content = search_content.lower()
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(search_content)
+    tokenized_query = [token.text for token in doc]
+    print(tokenized_query)
+    print(f"Searching for stories related to: {search_content}")
     
     # Conditional search
     if len(tokenized_query) <= QUERY_LEN_MIN:
-        results = search_bm25(search_content)
+        results = search_bm25(search_content, top_k)
     elif len(tokenized_query) > QUERY_LEN_MAX:
-        results = search_bgem3(search_content)
+        results = search_bgem3(search_content, top_k)
     else:
-        results = search_hybrid(search_content)
+        results = search_hybrid(search_content, tokenized_query, top_k)
     
     print(f"Search completed!")
     

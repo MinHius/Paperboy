@@ -1,0 +1,19 @@
+{
+  "centroid": null,
+  "articles": [
+    "business/2025/oct/22/peak-inflation-signs-bank-of-england-interest-rate-cuts-analysis",
+    "business/live/2025/oct/22/uk-inflation-stays-at-38-as-food-price-rises-slow-for-first-time-since-march-business-live",
+    "business/2025/oct/22/uk-inflation-unchanged-rachel-reeves-budget"
+  ],
+  "noise": [
+    "business/2025/oct/14/uk-faces-highest-inflation-in-g7-this-year-and-next-imf-warns",
+    "business/2025/oct/16/uk-economy-expands-as-gdp-rises-by-01-in-august-ahead-of-crucial-budget",
+    "business/2025/oct/14/uk-labour-market-job-losses-unemployment-ons",
+    "business/live/2025/oct/15/rachel-reeves-uk-beacon-of-stability-growth-imf-budget-tax-spending-stock-markets-business-live-news",
+    "business/2025/oct/14/world-economy-trump-tariffs-imf-uk-global-gdp-forecasts",
+    "business/2025/oct/15/global-government-debt-100-percent-of-gdp-by-2029-imf-uk",
+    "business/2025/oct/17/uk-government-borrowing-costs-rachel-reeves-bond-yield"
+  ],
+  "evaluation": "The core story identified focuses on the release and immediate analysis of the UK's September 2025 inflation figures. Articles from October 22, 2025 (1, 2, 3) report that inflation remained at 3.8%, confounding expectations of a rise. They cover economists' reactions, implications for the Bank of England's interest rate policy, and the context of Rachel Reeves' upcoming budget. These articles are perfectly aligned in subject matter and timeline, representing a clear, continuous, and developmental narrative about a specific economic data release. The remaining articles (4-10) were de-noised as they cover different economic topics such as IMF inflation forecasts (not the actual ONS data release), UK GDP growth, labour market statistics, global economic outlook, government borrowing costs, and global debt. While broadly related to economic news, they do not directly contribute to the specific, time-sensitive story of the September 2025 UK inflation data release, lacking the strict continuity and developmental relevance required for synthesis into a single focused narrative.",
+  "score": 10
+}

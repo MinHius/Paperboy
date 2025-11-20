@@ -1,0 +1,23 @@
+{
+  "centroid": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "articles": [
+    "football/2025/sep/20/matt-beard-former-manager-of-liverpool-women-dies-aged-47",
+    "football/2025/sep/21/manchester-united-arsenal-wsl-match-report",
+    "football/2025/sep/21/goodbye-matt-beard-the-del-boy-of-womens-football-who-took-liverpool-to-two-wsl-titles",
+    "football/2025/sep/24/womens-league-cup-liverpool-sunderland",
+    "football/2025/oct/17/one-in-a-million-tributes-paid-to-matt-beard-at-memorial-service-in-liverpool"
+  ],
+  "noise": [
+    "football/2025/sep/22/wsl-talking-points-matt-beard-tributes-arsenal-manchester-united-chelsea-tottenham",
+    "football/live/2025/sep/21/arsenal-v-manchester-city-buildup-rome-derby-and-wsl-action-matchday-live",
+    "football/2025/oct/01/emma-hayes-i-dont-think-coaches-are-always-thought-about-as-human-beings-interview",
+    "football/2025/sep/25/billy-vigar-chichester-and-former-arsenal-player-dies-after-sustaining-brain-injury",
+    "football/2025/oct/16/my-name-is-manchester-united-superfan-fought-to-change-his-identity-bulgaria"
+  ],
+  "evaluation": "The core topic of this cluster is the death of former Liverpool Women manager Matt Beard and the subsequent tributes and memorial services. The story begins with the announcement of his passing (Sep 20), followed by immediate reactions and tributes from the football community and in-depth articles detailing his career and impact (Sep 21). This progresses to specific team tributes during Liverpool's first match after his death (Sep 24), and culminates in a formal memorial service held a month later (Oct 17). Articles concerning the Emma Hayes interview, the death of Billy Vigar, and the death of a Manchester United superfan are de-noised as they cover completely unrelated events and individuals. Articles titled 'WSL talking points' and 'live matchday' were de-noised because their primary content was not focused on Matt Beard; while they briefly mention tributes, it's either superficial or a reference to another article rather than a substantive piece on the topic, making them irrelevant to the continuous narrative.",
+  "score": 10
+}

@@ -1,0 +1,19 @@
+{
+  "centroid": "",
+  "articles": [
+    "us-news/2025/sep/27/us-military-leaders-meeting-pete-hegseth",
+    "us-news/2025/sep/30/pete-hegseth-war-diversity-efforts-military",
+    "us-news/2025/sep/30/pete-hegseth-speech-takeaways",
+    "commentisfree/2025/oct/01/trump-hegseth-speeches-military-generals",
+    "us-news/2025/oct/01/pete-hegseth-generals-speech-veterans-react",
+    "us-news/2025/oct/03/us-military-under-fire-in-virginia-but-were-trump-and-hegseth-shooting-blanks",
+    "us-news/2025/oct/04/pete-hegseth-fires-us-navy-chief-of-staff-jon-harrison",
+    "commentisfree/2025/oct/05/trump-military-quantico-speech",
+    "us-news/2025/oct/16/marine-resigns-trump-hegseth"
+  ],
+  "noise": [
+    "commentisfree/2025/oct/03/when-will-us-generals-stand-up-to-trump"
+  ],
+  "evaluation": "This cluster effectively tracks the developing story around a highly controversial meeting of military leaders at Quantico, Virginia. The core topic revolves around Defense Secretary Pete Hegseth and President Donald Trump's addresses to the assembled generals and admirals, their 'anti-woke' rhetoric, proposed policy changes, and the immediate fallout. Articles progress chronologically from pre-event anticipation (Sept 27) to the event itself (Sept 30 speeches), immediate reactions (Oct 1), broader analysis and consequences like a military resignation (reported Oct 16, event Sep 30) and a high-profile firing (Oct 4). Article 6 was de-noised as it discusses Trump's broader military policies and constitutional concerns in his second term, which, while related, is a more general discussion not directly developing the specific narrative of the Quantico meeting and its immediate aftermath.",
+  "score": 9
+}

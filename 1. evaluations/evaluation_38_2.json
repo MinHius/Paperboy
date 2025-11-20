@@ -1,0 +1,19 @@
+{
+  "centroid": "[centroid_vector_placeholder]",
+  "articles": [
+    "business/2025/oct/21/bank-of-england-chief-warns-worrying-echoes-2008-financial-crisis-tricolor-first-brands",
+    "business/nils-pratley-on-finance/2025/oct/22/barclays-afford-tricolor-loss-risks-remain-private-credit-market",
+    "business/2025/oct/16/head-of-imf-says-risks-in-non-bank-lending-keep-her-awake-at-night",
+    "business/2025/oct/17/us-car-repossessions-economy",
+    "business/2025/oct/14/us-shares-correction-markets-imf-bonds",
+    "business/2025/oct/14/jp-morgan-jamie-dimon-losses-private-credit-sector",
+    "business/2025/oct/18/what-is-private-credit-us-first-brands-tricolor-banks"
+  ],
+  "noise": [
+    "business/live/2025/oct/13/asian-stocks-tumble-fresh-us-china-trade-spat-chinese-exports-top-forecasts-business-live",
+    "business/2025/oct/09/head-of-jpmorgan-chase-warns-of-risk-of-american-stock-market-crash",
+    "business/2025/oct/08/bank-of-england-warns-of-growing-risk-that-ai-bubble-could-burst"
+  ],
+  "evaluation": "This cluster effectively captures a continuous story about growing concerns in the private credit market, triggered by the collapse of US firms Tricolor and First Brands. The articles detail the reactions and warnings from major financial figures like Jamie Dimon (JPMorgan), the Head of the IMF, and the Bank of England governor, who draw parallels to the 2008 financial crisis and highlight risks in non-bank lending and 'shadow banking.' The timeline is logical, starting with initial warnings and specific corporate impacts, leading to broader explanations of private credit and high-level regulatory concerns. Articles not directly related to this specific financial market development (e.g., 'Dieselgate trial', 'AI bubble' warnings, or general stock market crash predictions without specific linkage to private credit issues) were de-noised to ensure strict relevance and synthesizability.",
+  "score": 9.5
+}
