@@ -4,7 +4,7 @@ sys.path.append("D:/DH/Senior/Paperboy")
 from datetime import datetime
 from database.parade.database import load_articles, search_similar_articles, upsert_stories, load_stories
 from src.cluster.clustering import reduce_dimensions, _perform_clustering
-from api.llm.llm import validate_clusters, synthesize_stories, extract_keyword
+from api.llm.llm import validate_clusters, synthesize_stories
 from api.video.video import fetch_youtube_videos
 from pathlib import Path
 import pickle
