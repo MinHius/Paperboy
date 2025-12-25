@@ -9,11 +9,11 @@
 </head>
 <body>
   <header class="banner">
-    <h1>Paperboy</h1>
-    <p class="subtitle">Synthesized news, straight to the point</p>
-    <a href="/search" class = "button">
-      <button>Search</button>
+    <a href = "/" style = "color: #FFD700;">
+      <h1> Paperboy </h1>
     </a>
+    <p class="subtitle">Synthesized news, straight to the point</p>
+    <a href="/search" class = "button"> Search </a>
   </header>
 
   <main>
@@ -21,7 +21,7 @@
     <section class="stories">
       {% for story in stories %}
       <article class="story-card">
-        <img src="{{ story.thumbnail[0] if story.thumbnail else '/static/default.jpg' }}" alt="Story thumbnail" class="story-thumb">
+        <img src="{{ story.thumbnail[0] if story.thumbnail else 'https://placehold.co/600x400?text=No+images+available' }}" alt="Story thumbnail" class="story-thumb">
         <div class="story-content">
           <h2>{{ story.title }}</h2>
           <p class="summary">{{ story.summary }}</p>

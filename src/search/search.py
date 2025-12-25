@@ -1,5 +1,5 @@
 import sys
-sys.path.append("D:/DH/Senior/Paperboy") 
+sys.path.append("D:/DH/Senior/Paperboy/src") 
 
 import json
 import spacy
@@ -11,7 +11,6 @@ import unicodedata
 
 from datetime import datetime, timedelta, timezone
 
-from underthesea import word_tokenize
 from api.embedding.embedding import embed_bgem3
 from database.parade.database import get_connection
 from search.config import (
@@ -93,7 +92,7 @@ def is_raw_vietnamese(text: str) -> bool:
     return True
    
 
-def search_bm25(search_content: str, top_k) -> list:
+def search_bm25(search_content: str, top_k: int) -> list[dict]:
     """ Search for stories using lexical search."""
     
     sql = SEARCH_BM25
@@ -109,7 +108,7 @@ def search_bm25(search_content: str, top_k) -> list:
     return results
 
 
-def search_bgem3(search_content, top_k):
+def search_bgem3(search_content: str, top_k: int) -> list[dict]:
     """Search for stories using semantic search."""
         
     embedding_bgem3 = embed_bgem3(search_content)
@@ -117,7 +116,6 @@ def search_bgem3(search_content, top_k):
 
     if data and len(data) > 0:
         embedded_search_content = data[0]
-
 
     sql = SEARCH_BGEM3
     
@@ -129,14 +127,10 @@ def search_bgem3(search_content, top_k):
             rows = cur.fetchall()
             results = [dict(zip(columns, row)) for row in rows]
 
-            
-    print(results[0])
-
-            
     return results
 
 
-def search_hybrid(search_content, query_tokens, top_k):
+def search_hybrid(search_content: str, query_tokens: list, top_k: int) -> list[dict]:
     """Search stories using hybrid search."""
     
     # Embed query for semantic search
@@ -160,7 +154,7 @@ def search_hybrid(search_content, query_tokens, top_k):
 
 
 
-def director_PDB(search_content, top_k = TOP_K):
+def director_PDB(search_content: str, top_k: int = TOP_K):
     """Search orchestrator."""
 
     # Tokenize to check for query length.
@@ -178,8 +172,6 @@ def director_PDB(search_content, top_k = TOP_K):
         results = search_bgem3(search_content, top_k)
     else:
         results = search_hybrid(search_content, tokenized_query, top_k)
-    
-    print(f"Search completed!")
     
     return results
 

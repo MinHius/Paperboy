@@ -1,10 +1,16 @@
+import sys
+sys.path.append("D:/DH/Senior/Paperboy/src") 
+
 from typing import TypedDict
 import numpy as np
+import json
 from umap import UMAP
 from numpy.typing import NDArray
+from datetime import datetime
 from sklearn.cluster import HDBSCAN  # type:ignore
 from sklearn.metrics.pairwise import cosine_similarity
-from .config_cluster import (
+from database.parade.database import load_articles
+from .config import (
     UMAP_N_NEIGHBORS,
     UMAP_N_COMPONENTS,
     UMAP_MIN_DIST,
@@ -13,9 +19,11 @@ from .config_cluster import (
     HDBSCAN_MIN_CLUSTER_SIZE,
     HDBSCAN_MIN_SAMPLES,
     HDBSCAN_METRIC,
+    VECTOR_CLUSTER_MIN_SIZE,
+    VECTOR_CLUSTER_THRESHOLD
 )
 
-from .utils_clstr import articles_centroid
+from .utils import articles_centroid
 
 
 def reduce_dimensions(
@@ -74,3 +82,58 @@ def _perform_clustering(
         clusters[label]["centroid"] = centroid
 
     return clusters
+
+
+
+def search_in_batch(query_emb, embeddings):
+    sims = embeddings @ query_emb
+    idx = np.flatnonzero(sims >= VECTOR_CLUSTER_THRESHOLD)
+    return idx[np.argsort(-sims[idx])].tolist()
+
+
+def leader_clustering(articles, embeddings, reference_time) -> None:
+    if not reference_time:
+        reference_time = datetime.now()
+
+    N = len(articles)
+    used = set()
+    clusters = {}
+
+    embeddings = np.stack(embeddings)
+    embeddings /= np.linalg.norm(embeddings, axis=1, keepdims=True)
+
+    used = np.zeros(N, dtype=bool)
+    for i in range(N):
+        if used[i]:
+            continue
+        
+        # 1) take article i as temporary “center”
+        cluster_idx = search_in_batch(embeddings[i], embeddings) # 0.70
+
+        # 2) filter out ones already used
+        if len(cluster_idx) >= VECTOR_CLUSTER_MIN_SIZE:
+            if i not in clusters:
+                clusters[i] = {
+                    "articles": [],
+                    "centroid": np.empty(0, dtype=np.float32),
+                }
+            for j in cluster_idx:
+                if not used[j]:
+                    used[j] = True
+                    clusters[i]["articles"].append(articles[j])
+
+    for label, cluster in clusters.items():
+        centroid = articles_centroid(cluster["articles"])
+        clusters[label]["centroid"] = centroid
+
+    if not clusters:
+        print("No clusters created")
+        return
+    
+    print(f"Final: Collected {len(clusters)} clusters")
+    
+    return clusters
+
+
+
+

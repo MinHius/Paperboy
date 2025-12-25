@@ -3,12 +3,11 @@ from ..config import ACCOUNT_ID, API_TOKEN, BGEM3_URL
 
 
 
-def embed_bgem3(text: str):
+def embed_bgem3(text: str) -> dict:
     # Texts to embed
     payload = {
         "text": [text]
     }
-
     headers = {
         "Authorization": f"Bearer {API_TOKEN}",
         "Content-Type": "application/json"

@@ -1,0 +1,3 @@
+# Clustering parameters
+VECTOR_CLUSTER_MIN_SIZE = 3
+VECTOR_CLUSTER_THRESHOLD = 0.7

@@ -1,8 +1,0 @@
-<div class="image-grid">
-    {% for img in story.thumbnail %}
-        <img src="{{ img }}" alt="Story image">
-    {% endfor %}
-</div> 
-
-
-

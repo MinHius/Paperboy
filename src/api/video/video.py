@@ -4,12 +4,12 @@ sys.path.append("D:/DH/Senior/Paperboy")
 import json
 import time
 import requests
-from api.config import YOUTUBE_API_KEY
+from api.config import YOUTUBE_API_KEY, YOUTUBE_API_KEY_2
 from googleapiclient.discovery import build
 
 
-def fetch_youtube_videos(title: str, max_results=4, max_retries=20) -> list[dict]:
-    youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY)
+def fetch_youtube_videos(title: str, max_results: int = 4, max_retries: int = 20) -> list[dict]:
+    youtube = build("youtube", "v3", developerKey=YOUTUBE_API_KEY_2)
     results = []
     if not isinstance(title, str):
         title = str(title)

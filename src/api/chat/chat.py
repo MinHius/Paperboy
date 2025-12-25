@@ -4,16 +4,16 @@ import random
 import requests
 from google import generativeai as genai
 from prompt.chat import chat_prompt
-from api.config import GEMINI_API_KEY, GEMINI_MODEL
+from api.config import GEMINI_API_KEY_VNU, GEMINI_MODEL
 import os
 
 # Initialize Gemini
-genai.configure(api_key=GEMINI_API_KEY)
+genai.configure(api_key=GEMINI_API_KEY_VNU)
 model = genai.GenerativeModel(GEMINI_MODEL)
 
 
 
-def generate_chat(message, context, max_retries=20):
+def generate_chat(message: str, context: str, max_retries: int = 20):
     retries = 0
     result = []
     for attempt in range(max_retries):

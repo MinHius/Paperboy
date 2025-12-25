@@ -3,25 +3,21 @@ sys.path.append("D:/DH/Senior/Paperboy/src")
 
 import asyncio
 from src.search.config import TOP_K
-import uvicorn
-import pickle
 import os
 
-from typing import List
 from fastapi import FastAPI, Request
 from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
-from datetime import date, datetime
+from datetime import date
 from fastapi.responses import HTMLResponse
 from concurrent.futures import ThreadPoolExecutor
 from fastapi import FastAPI, Query
 
 from search.search import director_PDB
-from database.parade.database import load_stories
 from api.chat.chat import generate_chat
+from database.parade.database import load_stories, load_stories_display
 from api.chat.utils import load_context, new_session_id, update_context
-from api.llm.utils import json_to_paragraph
-
+from api.chat.utils import json_to_paragraph
 
 from search.config import (
     TOP_K
@@ -29,8 +25,8 @@ from search.config import (
 
 path="D:/DH/Senior/Paperboy/src/api/chat/chat_context.pkl"
 
-# $env:PYTHONPATH="D:/DH/Senior/Paperboy"
-# uvicorn src.deploy.deploy.deploy:app --reload
+# $env:PYTHONPATH="D:/DH/Senior/Paperboy/src"
+# uvicorn deploy.deploy.deploy:app --reload
 # & "$env:LOCALAPPDATA\Microsoft\WindowsApps\ngrok.exe" http 8000
 
 app = FastAPI()
@@ -40,7 +36,8 @@ app.mount("/static", StaticFiles(directory="src/deploy/static"), name="static")
 
 @app.get("/", response_class=HTMLResponse)
 async def homepage(request: Request):
-    stories = load_stories()
+    stories = load_stories_display()
+    stories = [story for story in stories if len(json_to_paragraph(story["story"])) >= 100]
     return templates.TemplateResponse(
         "home.html",
         {"request": request, "stories": stories, "year": date.today().year}
@@ -70,6 +67,7 @@ async def search(
         "search.html",
         {
             "request": request,
+            "query": query,
             "results": results
         },
     )
@@ -84,7 +82,8 @@ async def story_page(request: Request, id: str):
     stories = load_stories()
     story = next((s for s in stories if s["id"] == id), None)
     story_chat_id = new_session_id()
-    story['chat_id'] = story_chat_id
+    if story:
+        story['chat_id'] = story_chat_id
     
     if not story:
         return templates.TemplateResponse(

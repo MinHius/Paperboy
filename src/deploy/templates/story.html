@@ -20,7 +20,9 @@
 
 <body>
   <header class="banner">
-    <h1>Paperboy</h1>
+    <a href = "/" style = "color: #FFD700;">
+      <h1>Paperboy</h1>
+    </a>
   </header>
 
   <section class="title-container">
@@ -31,11 +33,19 @@
     <div class="image-grid"> 
       {% if story.thumbnail and story.thumbnail|length > 1 %}
         {% for img in story.thumbnail %}
-          <img src="{{ img }}" loading="lazy" alt="Story image">
+          <img class="fs-img" src="{{ img }}"" onerror="this.style.display='none'" loading="lazy" alt="Story image">
         {% endfor %}
       {% endif %}
     </div>
   </section>
+  <script>
+    document.querySelectorAll('.fs-img').forEach(img => {
+      img.style.cursor = "pointer";
+      img.onclick = () => img.requestFullscreen();
+    });
+  </script>
+
+
 
   <main class = "main-layout">
     <section class="story-container">
@@ -105,31 +115,30 @@
           {% endfor %}
         </div>
       </section>
+
+      <section class="figure-container">
+        <h2 style = "text-align: center;">Authors</h2>
+        <div class="figure-list">
+          {% for item in story.author %}
+            <div class="figure-card">
+              <div class="figure-name">{{ item.name }}</div>
+            </div>
+          {% endfor %}
+          <div class="figure-list">
+            <div class="figure-name"> Synthesized by Paperboy</div>
+          </div>
+        </div>
+      </section>
     </div>
   </main>
 
-  <section class="image-container">
-    <section>
-      <h2 class="image-title">More images</h2>
-      <div class="image-grid">
-        {% if story.thumbnail|length > parts|length %}
-          {% for img in story.thumbnail[parts|length - 1:] %}
-            <img src="{{ img }}" loading="lazy" alt="Story image">
-          {% endfor %}
-        {% endif %}
-      </div>
-    </section>
-  </section>
-
+  
   <section class="video-container">
     <section>
       <h2 class="video-title">Related broadcasts</h2>
       <div class="video-grid">
         {% for item in story.video %}
           <div class="video-item" style="text-align: center; width: 100%;">
-            <div style="color: #000; font-weight: 600; margin-bottom: 6px;">
-              {{ item.name }}
-            </div>
             <iframe 
               src="{{ item.link }}" 
               frameborder="0" 
@@ -138,6 +147,10 @@
               allowfullscreen
               loading="lazy">
             </iframe>
+            <div style="color: #660000; font-weight: 600; margin-bottom: 6px;">
+              {{ item.name }}
+            </div>
+            <div></div>
           </div>
         {% endfor %}
       </div>

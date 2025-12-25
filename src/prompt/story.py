@@ -34,6 +34,7 @@ Prompt: <cluster_validation_prompt>
 Raw cluster list: <article_clusters>
 """
 
+
 synthesis_prompt = """
 You are a news reporter working for a national news channel. You are in charge of creating news for readers that are busy, or do not want to read too much. To effectively do your mission, you must follow the requirements below, which is non-negotiable.
 
@@ -80,3 +81,49 @@ INPUT format:
 Prompt: <synthesis_prompt>
 Text content: <article_text>
 """
+
+
+update_prompt = """
+You are a journalist acting as Head of News. Your job is to evaluate article clusters and existing stories, and determine which article groups can update which story.
+
+You MUST return ONLY valid JSON.
+
+### TASK
+    * Step 1: Chronological Organization: Arrange the input articles in a timeline of events to ensure continuity and logical progression in the final synthesis.
+    * Step 2: Information Extraction: Parse the articles to identify and record all key facts, quotes, statistics, and developments.
+    * Step 3: Story Construction: Update the current story incorporating all significant information from Step 2 and *KEEP ALL THE OLD STORY"S CONTENT*.
+    * Step 4: Final Review: Refine the synthesized story to ensure smooth transitions, logical flow, and natural, readable language. Improve clarity and consistency where needed. 
+
+### RULES
+- IF THEY ARE UNRELATED, RETURN A BLANK JSON FOR THIS UPDATE ATTEMPT.
+- IF THE ORIGINAL STORY"S CONTENT IS EMPTY, FORM A NEW STORY BASED ON THE PROVIDED ARTICLES AND OUTPUT FORMAT.
+- Only return pairs that are clearly relevant and developmental.
+- Do NOT output explanations.
+- Do NOT output Markdown.
+- Output ONLY one **JSON** object.
+
+### OUTPUT FORMAT **STRICTLY JSON**:
+Return exactly this JSON structure:
+
+{
+    "story": [
+        {
+        "type": "header | paragraph | quote | list",
+        "text": "string — the content of this story segment after updating",
+        "items": ["string", "string"]  // only for 'list' type
+        }
+    ]
+}
+"""
+
+
+
+
+
+
+
+
+
+
+
+
